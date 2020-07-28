@@ -1,8 +1,0 @@
-{
-	"enlace":"https://www.mediafire.com/file/h9wqsk06az63w3t/Film_App_v4.1.5.apk/file",
-	"actual":"4.1.5",
-	"mensaje":"\nSi no puedes actualizar:\n1.-Presiona navegador\n2.-Descarga el apk de la actualización\n3.-Desinstala la version instalada\n4.-Instala la actualización manualmente\n\nChangelog:\n-Se corrigió compatibilidad con android 4.\n-Se corrigieron problemas con servidores Zeus, Odin y Hydra.\n-Ahora se puede utilizar la función buscar en TV Box.\n-Esta actualización nos permitirá seguir reparando contenido.\n-Se agregaron mas servidores.\n-Se corrigieron errores menores.",
-	"key":"6f88c34b0a6e5f4da96032485395a0ea",
-	"obligatoria":true,
-	"deprecateds":["rapidvid.to","rapidvideo.com","openload","streamango.com","verystream.com","tutumeme.net","openplay.vip","p2p.fembad.co","vadacloud.com","pelisgratis.live","youtube.com"]
-}
