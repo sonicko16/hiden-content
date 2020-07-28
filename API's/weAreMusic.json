@@ -1,0 +1,151 @@
+{
+  "lists":[
+  {
+    "url":"https://rss.itunes.apple.com/api/v1/mx/apple-music/top-albums/all/100/explicit.json",
+    "title":"Top Albums",
+    "type":"Album"
+  },
+  {
+    "url":"https://rss.itunes.apple.com/api/v1/us/apple-music/top-albums/all/100/explicit.json",
+    "title":"Albums Populares",
+    "type":"Album"
+  },
+  {
+    "url":"https://rss.itunes.apple.com/api/v1/mx/apple-music/top-songs/all/100/explicit.json",
+    "title":"Top Canciones",
+    "type":"Track"
+  },
+  {
+    "url":"https://rss.itunes.apple.com/api/v1/us/apple-music/top-songs/all/100/explicit.json",
+    "title":"Canciones Populares",
+    "type":"Track"
+  },
+  {
+    "url":"https://rss.itunes.apple.com/api/v1/mx/apple-music/new-releases/all/100/explicit.json",
+    "title":"Lo Nuevo",
+    "type":"Track"
+  },
+  {
+    "url":"https://rss.itunes.apple.com/api/v1/us/apple-music/new-releases/all/100/explicit.json",
+    "title":"Reciente",
+    "type":"Track"
+  },
+  {
+    "url":"https://rss.itunes.apple.com/api/v1/mx/itunes-music/top-albums/all/100/explicit.json",
+    "title":"Hot Albums",
+    "type":"Album"
+  },
+  {
+    "url":"https://rss.itunes.apple.com/api/v1/us/itunes-music/top-albums/all/100/explicit.json",
+    "title":"Albums",
+    "type":"Album"
+  },
+  {
+    "url":"https://rss.itunes.apple.com/api/v1/mx/itunes-music/top-songs/all/100/explicit.json",
+    "title":"Hot Canciones",
+    "type":"Track"
+  },
+  {
+    "url":"https://rss.itunes.apple.com/api/v1/us/itunes-music/top-songs/all/100/explicit.json",
+    "title":"Canciones",
+    "type":"Track"
+  },
+  {
+    "url":"https://rss.itunes.apple.com/api/v1/mx/itunes-music/recent-releases/all/100/explicit.json",
+    "title":"Canciones de Ahora",
+    "type":"Track"
+  },
+  {
+    "url":"https://rss.itunes.apple.com/api/v1/us/itunes-music/recent-releases/all/100/explicit.json",
+    "title":"Estrenos",
+    "type":"Track"
+  },
+  {
+    "url":"https://rss.itunes.apple.com/api/v1/mx/itunes-music/hot-tracks/all/100/explicit.json",
+    "title":"Canciones del Momento",
+    "type":"Track"
+  }
+  ],
+  "geners":[
+  {
+    "genero": "Blues",
+    "number": "2",
+    "img": "https://is3-ssl.mzstatic.com/image/thumb/Music/39/ba/1d/mzi.qwepwokq.jpg/170x170bb.png"
+  },
+  {
+    "genero": "Classical",
+    "number": "5",
+    "img": "https://is2-ssl.mzstatic.com/image/thumb/Music/48/84/07/mzi.mqgtsqwd.jpg/170x170bb.png"
+  },
+  {
+    "genero": "Country",
+    "number": "6",
+    "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/de/95/4a/de954ae6-954c-36e8-e2f3-3b23b0481f29/00602498821992.rgb.jpg/170x170bb.png"
+  },
+  {
+    "genero": "Electronic",
+    "number": "7",
+    "img": "https://is5-ssl.mzstatic.com/image/thumb/Music7/v4/3f/7e/95/3f7e95bf-55ab-f90a-d6a7-6df8ea2f3bd8/cover.jpg/170x170bb.png"
+  },
+  {
+    "genero": "Opera",
+    "number": "9",
+    "img": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/fd/f4/9e/fdf49e2f-4691-7975-d593-0d8676c32dd3/00028947568162.rgb.jpg/170x170bb.png"
+  },
+  {
+    "genero": "Jazz",
+    "number": "11",
+    "img": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/12/13/38/12133858-7f75-92fd-d657-0965e9100e21/4029759146568.jpg/170x170bb.png"
+  },
+  {
+    "genero": "Latin",
+    "number": "12",
+    "img": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/ca/0e/31/ca0e3104-fe92-1985-65ba-3474808f0948/195081078724.jpg/170x170bb.png"
+  },
+  {
+    "genero": "Pop",
+    "number": "14",
+    "img": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/92/cb/79/92cb7922-3159-e829-739e-d1221749bf8b/19UMGIM85967.rgb.jpg/170x170bb.png"
+  },
+  {
+    "genero": "Dance",
+    "number": "17",
+    "img": "https://is4-ssl.mzstatic.com/image/thumb/Music71/v4/0e/8c/64/0e8c646a-c147-ec17-fe20-31eb864bb34c/886446102962.jpg/170x170bb.png"
+  },
+  {
+    "genero": "Hip Hop/Rap",
+    "number": "18",
+    "img": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/1b/81/c8/1b81c8d7-22af-c4b3-9ae2-962e6170bb0e/886447218372.jpg/170x170bb.png"
+  },
+  {
+    "genero": "Alternative",
+    "number": "20",
+    "img": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/85/8e/3e/858e3ef9-cf9e-e54c-fb73-b2513694a308/075679838872.jpg/170x170bb.png"
+  },
+  {
+    "genero": "Rock",
+    "number": "21",
+    "img": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/4a/ae/bd/4aaebde0-d448-2163-2a49-1ca57e32c571/00602567756798.rgb.jpg/170x170bb.png"
+  },
+  {
+    "genero": "Reggae",
+    "number": "24",
+    "img": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/5e/11/e5/5e11e5e1-2dc7-5bb0-50fa-7e96d8bf910f/00600753106747.rgb.jpg/170x170bb.png"
+  },
+  {
+    "genero": "Fitness & Workout",
+    "number": "50",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music/9c/ce/6a/mzi.qycewgfn.tif/170x170bb.png"
+  },
+  {
+    "genero": "K-Pop",
+    "number": "51",
+    "img": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/69/72/8a/69728a76-c979-b4dc-79d2-808e4ad6f080/8809717445317.jpg/170x170bb.png"
+  },
+  {
+    "genero": "Instrumental",
+    "number": "53",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Music/6a/1a/80/mzi.kodvzcfj.jpg/170x170bb.png"
+  }
+]
+}

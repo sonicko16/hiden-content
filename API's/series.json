@@ -1,0 +1,3130 @@
+{
+"series":[
+  {
+    "_id": {
+      "$oid": "5bca8dde5d0e651b2e62a499"
+    },
+    "año": "2016",
+    "enlace": "http://pelisplus.co/serie/raices/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCk6QAXd3puSwsFlGIrHYlCyfqt.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/raices",
+      "https://fanpelis.net/series/raices",
+      "https://miradetodo.co/series/roots"
+    ],
+    "sinopsis": "Miniserie de TV de 4 episodios. Una adaptación de “Raíces” de Alex Haley, que relata la historia de un esclavo africano vendido a Estados Unidos y sus descendientes.",
+    "titulo": "Raices",
+    "tmdb": "66606"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e051f6e4f34af6f7119"
+    },
+    "año": "2016",
+    "enlace": "http://pelisplus.co/serie/marte/",
+    "genero": "Documental Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmr6NwbmyWX6gKmFKtsySMlgwE7.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/mars",
+      "https://fanpelis.net/series/marte",
+      "https://seriesblanco.org/capitulos/mars-marte/"
+    ],
+    "sinopsis": "6 Episodios. La nave Daedalus llega en 2033 a Marte, donde sus ocupantes tienen como misión constituir la primera colonia humana. A partir de este inquietante arranque, National Geographic Channel (NGC) fusiona documental y ficción para recrear en la serie ‘Marte’, la imaginaria vida cotidiana de un grupo de astronautas en el planeta rojo. Una trama trufada con explicaciones a cargo de prestigiosos científicos sobre las probabilidades reales de abordar una aventura de estas dimensiones.",
+    "titulo": "Marte",
+    "tmdb": "68427"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e0a1f6e4f34af6f7121"
+    },
+    "año": "2014",
+    "enlace": "http://pelisplus.co/serie/halo-nightfall/",
+    "genero": "Uncategorized ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/optdoYmpwEoDxyBuvHBQtb5Oncw.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/pelicula/halo-nightfall",
+      "https://www.pelisplus.to/serie/halo-nightfall",
+      "https://fanpelis.net/series/halo-nightfall"
+    ],
+    "sinopsis": "Halo: Nightfall presenta un un nuevo personaje esencial, Jameson Locke, un legendario detective y agente de la Oficina de Inteligencia Naval (ONI), la rama militar más poderosa y secreta de la Tierra. Cuando él y su equipo quedan atrapados en un ataque biológico horroroso, ellos descifran una trama que los lleva a un antiguo y diábolico artefacto, donde son forzados a luchar por su supervivencia, cuestionando todo, y finalmente eligiendo entre su lealtad o sus vidas.",
+    "titulo": "Halo: Nightfall",
+    "tmdb": "61634"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dda5d0e651b2e62a48d"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/requiem/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahEpW6eJIc5CT3GECpXDG477aC4.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/requiem",
+      "https://fanpelis.net/series/requiem",
+      "https://seriesblanco.org/capitulos/requiem/"
+    ],
+    "sinopsis": "Serie de TV. 6 episodios. En 1994, un bebé desaparece misteriosamente en un pequeño pueblo de Gales. 23 años después, la joven y talentosa chelista Matilda Gray ve cómo su vida se tambalea tras el inexplicable suicidio de su madre. Descubre pruebas que conectan a su madre con el caso del bebé desaparecido. Afligida, Matilda empieza a hacerse todo tipo de preguntas, lo que le lleva a embarcarse en un viaje a Gales en busca de respuestas.",
+    "titulo": "Requiem",
+    "tmdb": "76819"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dfc1f6e4f34af6f710d"
+    },
+    "año": "1999",
+    "enlace": "http://pelisplus.co/serie/los-soprano/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCriCBcVNQVSKIJ2cXwJiQjYxFZ.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/los-soprano",
+      "https://www.pelisplus.to/serie/the-sopranos",
+      "https://seriesblanco.org/capitulos/los-soprano/"
+    ],
+    "sinopsis": "Serie de TV (1999-2007). 6 temporadas. 86 episodios. Crónica de la vida cotidiana y de las aventuras personales y profesionales de una familia mafiosa que vive en Nueva Jersey. Son gentes sencillas, pero implacables en sus ritos y tradiciones. La trama se basa en las confidencias del “capo” Tony Soprano (James Gandolfini) a su psicoanalista, la doctora Melfi (Lorraine Bracco)",
+    "titulo": "Los Soprano",
+    "tmdb": "1398"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e025d0e651b2e62a4c4"
+    },
+    "año": "2015",
+    "enlace": "http://pelisplus.co/serie/narcos/",
+    "genero": "Crimen Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dSS0jcSlVhAYwCBiHkYe2vUDt87.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--narcos-hd--online-006",
+      "https://www.pelisplus.to/serie/narcos",
+      "https://miradetodo.co/series/narcos-2015",
+      "https://fanpelis.net/series/narcos",
+      "https://seriesblanco.org/capitulos/narcos/"
+    ],
+    "sinopsis": "Serie de TV (2015-Actualidad). Serie que narra los esfuerzos de Estados Unidos, a través principalmente de la DEA y las autoridades y policía de Colombia, para luchar en la década de los 80 contra el narcotraficante Pablo Escobar y el cartel de Medellín, una de las organizaciones criminales más ricas y despiadadas en la historia de la delincuencia moderna. En la tercera temporada el objetivo de la DEA será acabar con el cartel de Cali.",
+    "titulo": "Narcos",
+    "tmdb": "63351"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e035d0e651b2e62a4c5"
+    },
+    "año": "2013",
+    "enlace": "http://pelisplus.co/serie/bajo-el-domo/",
+    "genero": "Drama Misterio ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qM0HTFZeNyODWqDhia0HQDSlpFE.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/under-the-dome",
+      "https://fanpelis.net/series/la-cupula",
+      "https://seriesblanco.org/capitulos/under-the-dome/"
+    ],
+    "sinopsis": "Serie de TV (2013-2015). 39 episodios. Un tranquilo día de otoño la pequeña ciudad de Chester’s Mill queda inexplicable y repentinamente aislada del resto del mundo por un campo de fuerza invisible. Los aviones se estrellan y caen del cielo consumiéndose entre llamas, la gente corre sin rumbo por el pueblo y los coches estallan al chocar contra un muro invisible",
+    "titulo": "La cúpula",
+    "tmdb": "46331"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e031f6e4f34af6f7114"
+    },
+    "año": "2017",
+    "enlace": "http://pelisplus.co/serie/ozark/",
+    "genero": "Crimen Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNDZavjaXfO8poyBY6zpO54aL2e.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver-ozark-hd-online",
+      "https://www.pelisplus.to/serie/ozark",
+      "https://fanpelis.net/series/ozark",
+      "https://seriesblanco.org/capitulos/ozark/"
+    ],
+    "sinopsis": "10 episodios. Marty Byrde (Jason Bateman) es un asesor finaciero con una aparente vida normal en familia. Casado con Wendy (Laura Linney) y con dos hijos, Charlotte (Sofia Hublitz) y Jonah (Skylar Gaertner), todos llevan una vida apacible y ordinaria. Pero bajo esa apariencia la vida de Marty esconde un gran secreto: es el encargado de blanquear el dinero de uno de los cárteles de droga más importantes de México. Todo parece ir bien hasta que Marty debe llevarse a su familia desde Chicago a Ozark, en Missouri.",
+    "titulo": "Ozark",
+    "tmdb": "69740"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8ddb5d0e651b2e62a491"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/collateral/",
+    "genero": "Crimen Drama Misterio ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ekqFDb0IbY7pJbL772TEs2GifX.jpg",
+    "servidores": [
+      "https://fanpelis.net/series/collateral",
+      "https://seriesblanco.org/capitulos/collateral-miniserie-de-tv/"
+    ],
+    "sinopsis": "Explora las consecuencias de un tiroteo que ocasionó la muerte de un repartidor de pizza. La detective Kip Glaspie (Mulligan) se niega a aceptar el asesinato como un acto de violencia al azar, y está decidida a descubrir si hay una verdad más oscura detrás.",
+    "titulo": "Collateral",
+    "tmdb": "76796"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8ddc5d0e651b2e62a494"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/barry/",
+    "genero": "Comedia ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tu7wAI662scjgxMpV3fiedAZiym.jpg",
+    "servidores": [
+      "https://fanpelis.net/series/barry",
+      "https://seriesblanco.org/capitulos/barry/"
+    ],
+    "sinopsis": "Un asesino a sueldo y aspirante a actor se muda del medio oeste a Los Ángeles y queda maravillado con las clases de teatro a las que acude durante una misión.",
+    "titulo": "Barry",
+    "tmdb": "73107"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8ddd1f6e4f34af6f70e6"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/safe/",
+    "genero": "Crimen Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsElLmgjEFbelkI4bseXSVs4A7L.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/safe",
+      "https://www.pelisplus.to/serie/safe",
+      "https://fanpelis.net/series/safe",
+      "https://seriesblanco.org/capitulos/safe/"
+    ],
+    "sinopsis": "Tras la desaparición de su hija adolescente, un cirujano pediátrico viudo que vive en un lujoso barrio residencial empieza a descubrir oscuros secretos sobre la gente que le rodea. Todo comienza cuando la hija de Tom Delaney no regresa a casa tras una fiesta. Tom recorre desesperado todo el vecindario buscándola y se entera de que su novio también ha desaparecido.",
+    "titulo": "Safe",
+    "tmdb": "72792"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e0d5d0e651b2e62a4da"
+    },
+    "año": "2011",
+    "enlace": "http://pelisplus.co/serie/black-mirror/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGrS1mzlSHQQdOcmqH1zlE2iViY.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--black-mirror-hd--online-008",
+      "https://www.pelisplus.to/serie/black-mirror",
+      "https://fanpelis.net/series/black-mirror",
+      "https://seriesblanco.org/capitulos/black-mirror/"
+    ],
+    "sinopsis": "Black Mirror es una serie de televisión británica creada por Charlie Brooker que muestra el lado oscuro de la vida y la tecnología. La serie es producida por Zeppotron para Endemol. En cuanto al contenido del programa y la estructura, Brooker ha señalado que “cada episodio tiene un tono diferente, un entorno diferente, incluso una realidad diferente, pero todos son acerca de la forma en que vivimos ahora – y la forma en que podríamos estar viviendo en 10 minutos si somos torpes”.",
+    "titulo": "Black Mirror",
+    "tmdb": "42009"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e0e5d0e651b2e62a4dc"
+    },
+    "año": "2017",
+    "enlace": "http://pelisplus.co/serie/american-gods/",
+    "genero": "Drama Misterio ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gevw5nZRYz2kWj1PqW9pz4sgeeZ.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/american-gods",
+      "https://www.pelisplus.to/serie/american-gods",
+      "https://fanpelis.net/series/american-gods",
+      "https://seriesblanco.org/capitulos/american-gods/"
+    ],
+    "sinopsis": "American Gods Basada en la galardonada novela de fantasía del mismo nombre escrita por el autor Neil Gaiman, esta serie cuenta la historia de un misterioso expresidiario llamado Shadow Moon. Este hombre es liberado de prisión unos días antes de cumplir una sentencia de tres años por asaltar un banco. Shadow Moon, que espera con ansias reencontrarse con su amada esposa Laura, ve sus ilusiones aplastadas al enterarse de que esta ha muerto en un accidente de carretera.",
+    "titulo": "American Gods",
+    "tmdb": "46639"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e0e5d0e651b2e62a4dd"
+    },
+    "año": "2014",
+    "enlace": "http://pelisplus.co/serie/true-detective/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/egrBNjbMKbUao19dJcSNiw4xlft.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/true-detective",
+      "https://www.pelisplus.to/serie/true-detective",
+      "https://fanpelis.net/series/true-detective",
+      "https://seriesblanco.org/capitulos/true-detective/"
+    ],
+    "sinopsis": "True Detective es una serie de televisión estadounidense dramática de género policíaco, protagonizada en su primera temporada por los actores estadounidenses Matthew McConaughey y Woody Harrelson; la serie se estrenó en Estados Unidos y América Latina el 12 de enero de 2014 por HBO. La serie sigue un formato de antología, así que en cada temporada contará una historia diferente con un elenco de personajes distintos.",
+    "titulo": "True Detective",
+    "tmdb": "46648"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e0e5d0e651b2e62a4de"
+    },
+    "año": "2016",
+    "enlace": "http://pelisplus.co/serie/american-crime/",
+    "genero": "Crimen Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQa7cstZCCPCQ34xKY5rv548suI.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver-american-crime-story",
+      "https://www.pelisplus.to/serie/american-crime-story",
+      "https://fanpelis.net/series/american-crime-story",
+      "https://seriesblanco.org/capitulos/american-crime-story-the-assassination-of-gianni-versace-miniserie-de-tv/"
+    ],
+    "sinopsis": "American Crime Story es una serie televisiva dramática estadounidense, basada en crímenes reales. Se ha descrito como una serie antológica, ya que cada temporada se ha concebido como una miniserie independiente, con un grupo de personajes y escenarios distintos, y una trama que tiene su propio comienzo, parte central y final. Ha sido creada por Ryan Murphy, co-creador de American Horror Story.",
+    "titulo": "American Crime Story",
+    "tmdb": "64513"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e121f6e4f34af6f7129"
+    },
+    "año": "2018/09/30",
+    "enlace": "http://pelisplus.co/serie/the-resident/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5E9GrO7cT3zkNQVUQu8C8cS7Tk.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/the-resident",
+      "https://seriesblanco.org/capitulos/the-resident/"
+    ],
+    "sinopsis": "Un joven e idealista médico comienza su primer día ansioso por salvar vidas. Bajo la supervisión de un duro y brillante residente senior, pronto descubrirá que su profesión no es lo que él imaginaba y que las líneas éticas suelen ser borrosas. 'The Resident' es un nuevo y provocativo drama médico que revela la verdad de lo que ocurre en los hospitales.",
+    "titulo": "The Resident",
+    "tmdb": "74016"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e125d0e651b2e62a4e3"
+    },
+    "año": "2018/09/28",
+    "enlace": "http://pelisplus.co/serie/the-innocents/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHU9A8d1SAQrpQYAFuBAlGQzCIJ.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver-the-innocents",
+      "https://www.pelisplus.to/serie/the-innocents",
+      "https://fanpelis.net/series/the-innocents",
+      "https://seriesblanco.org/capitulos/the-innocents/"
+    ],
+    "sinopsis": "The Innocents es una historia de amor sobrenatural, que gira en torno a dos adolescentes, Harry y June, que escapan de su familia represiva para estar juntos. Después de esto, se lanzan a un viaje de autodescubrimiento, debido a los secretos guardados por sus padres, que ponen a prueba su amor. Además de esto, sus respectivos dones extraordinarios terminan desatando poderosas fuerzas, que intentan dividirlos para siempre.",
+    "titulo": "The Innocents",
+    "tmdb": "77400"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e131f6e4f34af6f712a"
+    },
+    "año": "2018/09/29",
+    "enlace": "http://pelisplus.co/serie/the-crown/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkXkaZBg8GhFrnypBnVvGDuMj5c.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/the-crown",
+      "https://www.pelisplus.to/serie/the-crown",
+      "https://fanpelis.net/series/the-crown",
+      "https://seriesblanco.org/capitulos/the-crown/"
+    ],
+    "sinopsis": "The Crown es una serie creada por Peter Morgan y producida por Netflix de carácter biográfico que se centra en la vida de la Reina Isabel II de Inglaterra y la historia mundial que ha tenido lugar a lo largo de su extenso reinado. La serie explora la vida personal de la Reina, pero también plasma el mundo de la postguerra, con la sociedad en constante transformación debido a los distintos y bruscos cambios acontecidos, hasta la situación de relativa calma actual.",
+    "titulo": "The Crown",
+    "tmdb": "65494"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e1b1f6e4f34af6f712f"
+    },
+    "año": "2018/09/30",
+    "enlace": "http://pelisplus.co/serie/el-lobista/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gevIzXnjw5u0XUo8rsbaeANIvRM.jpg",
+    "servidores": [
+      "https://miradetodo.co/series/el-lobista",
+      "https://fanpelis.net/series/el-lobista",
+      "https://seriesblanco.org/capitulos/el-lobista/"
+    ],
+    "sinopsis": "La trama sigue a Matías Franco (De la Serna), un lobista, un “gestor de intereses” en favor de particulares, empresas y corporaciones. El mejor en su rubro. Su trabajo consiste en interceder, influir y presionar a sus numerosos contactos en el poder con el fin de concretar negocios altamente rentables y lucrativos para sus clientes.",
+    "titulo": "El Lobista",
+    "tmdb": "80046"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e1c1f6e4f34af6f7133"
+    },
+    "año": "2018/09/30",
+    "enlace": "http://pelisplus.co/serie/rick-y-morty/",
+    "genero": "Animación Comedia",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJdfO3ahgAMf2rcmhoqngjBBZW1.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/rick-y-morty",
+      "https://fanpelis.net/series/rick-y-morty",
+      "https://seriesblanco.org/capitulos/rick-and-morty/",
+      "https://www.pelisplus.to/serie/rick-and-morty"
+    ],
+    "sinopsis": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
+    "titulo": "Rick y Morty",
+    "tmdb": "60625"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e1d5d0e651b2e62a4eb"
+    },
+    "año": "2018/09/30",
+    "enlace": "http://pelisplus.co/serie/castlevania/",
+    "genero": "Animación Terror",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJ7cHITmM83XWAntdi0GZ1bGePI.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--castlevania-hd--online-002",
+      "https://fanpelis.net/series/castlevania",
+      "https://seriesblanco.org/capitulos/castlevania/"
+    ],
+    "sinopsis": "La serie de Netflix está basada en el juego para videoconsolas Castlevania III: Dracula’s Curse y se ambienta en el siglo XV. La historia del juego trata de Trevor Belmont, un cazador de vampiros que debe enfrentarse a su mayor enemigo: Drácula. El vampiro más renombrado de todos y cada uno de los tiempos está devastando Europa y la iglesia no tiene más antídoto que llamar al clan Belmont para enfrentarse a este temible oponente. De este modo, el conjunto formado por Trevor, Sypha Belnades, Grant DaNasty y Alucard empieza esta cruzada para finalizar con Drácula.",
+    "titulo": "Castlevania",
+    "tmdb": "71024"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dcc1f6e4f34af6f70d0"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/la-balada-de-hugo-sanchez/",
+    "genero": "Comedia ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ypVIcAN2nC8vxGF1teYdaGqqc0q.jpg",
+    "servidores": [
+      "https://fanpelis.net/series/club-de-cuervos-la-balada-de-hugo-sanchez"
+    ],
+    "sinopsis": "Club de Cuervos: La Balada de Hugo Sánchez Hugo Sánchez, quien ahora, después de ser nombrado el asistente personal de Chava, se le encargará llevar a los Cuervos a un torneo en Nicaragua que lleva por nombre el “Duelo de las aves”. Por primera vez, Hugo sale de su zona de confort para hacerse cargo de un equipo y de su propia vida. Spin-off de la serie mexicana producida por Netflix ‘Club de Cuervos’. Fanpelis.com",
+    "titulo": "Club de Cuervos: La Balada de Hugo Sánchez",
+    "tmdb": "80280"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8df61f6e4f34af6f7104"
+    },
+    "año": "2016",
+    "enlace": "http://pelisplus.co/serie/leyendas-del-manana/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEobyOhOTSse59ym0gIxsQgcRGZ.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--legends-of-tomorrow-hd--online-007",
+      "https://www.pelisplus.to/serie/dcs-legends-of-tomorrow",
+      "https://fanpelis.net/series/legends-of-tomorrow",
+      "https://miradetodo.co/series/legends-of-tomorrow",
+      "https://seriesblanco.org/capitulos/legends-of-tomorrow/"
+    ],
+    "sinopsis": "Después de haber visto el futuro, el viajero del tiempo Rip Hunter tratará desesperadamente de evitarlo logrando la tarea de reunir a un dispar grupo de héroes y villanos para enfrentar una amenaza imparable, en la que no sólo la seguridad del planeta está en juego, sino el tiempo mismo… Serie “spin-off” de ‘Arrow’ y ‘The Flash’.",
+    "titulo": "Legends of Tomorrow",
+    "tmdb": "62643"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8df91f6e4f34af6f7109"
+    },
+    "año": "2008",
+    "enlace": "http://pelisplus.co/serie/true-blood/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuj32CbJSWl5UldUNWFa0xDW93.jpg",
+    "servidores": [
+      "https://seriesblanco.org/capitulos/true-blood-sangre-fresca/",
+      "https://www.pelisplus.to/serie/true-blood"
+    ],
+    "sinopsis": "True Blood (Sangre Fresca) Serie de TV (2008-2014). 7 temporadas. 80 episodios. En un pueblo de Lousiana, una serie de brutales asesinatos hace peligrar la convivencia entre vampiros y seres humanos, que hasta entonces había sido pacífica gracias a una bebida japonesa hecha de sangre sintética. Sin embargo, algunos vampiros estaban descontentos porque preferían seguir alimentándose de sangre humana; pero también había hombres que no estaban satisfechos con esta situación. En estas circunstancias nace el polémico romance entre Bill Compton (Stephen Moyer, “Quills”), el primer vampiro que llega al pueblo, y Sookie Stackhouse (Anna Paquin), una camarera clarividente. Nueva serie de la HBO realizada por Alan Ball (“A dos metros bajo tierra”). Basada en la serie de novelas ‘Southern vampire’, de la escritora norteamericana Charlaine Harris.",
+    "titulo": "True Blood (Sangre Fresca)",
+    "tmdb": "10545"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e035d0e651b2e62a4c6"
+    },
+    "año": "2015",
+    "enlace": "http://pelisplus.co/serie/heroes-reborn/",
+    "genero": "Uncategorized ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9WXf6vrHli3EO6UymmYyxvwVLL.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/heroes-reborn",
+      "https://www.pelisplus.to/serie/heroes-reborn",
+      "https://fanpelis.net/series/heroes-reborn"
+    ],
+    "sinopsis": "A seemingly ordinary group of people who gradually become aware that they have special abilities. The story develops showing their reactions to these powers, and how this discovery affects their personal and professional lives.",
+    "titulo": "Heroes Reborn",
+    "tmdb": "60858"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e045d0e651b2e62a4c7"
+    },
+    "año": "2017",
+    "enlace": "http://pelisplus.co/serie/gypsy/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dtm1ExRh6ihPGYIaAxEygOnl6G.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/gypsy",
+      "https://fanpelis.net/series/gypsy",
+      "https://seriesblanco.org/capitulos/gypsy-tv/"
+    ],
+    "sinopsis": "Miniserie de TV (10 episodios). Jean Holloway (Naomi Watts) es una terapeuta que se ve involucrada en relaciones íntimas y peligrosas con personas relacionadas con la vida de sus pacientes.",
+    "titulo": "Gypsy",
+    "tmdb": "66939"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e055d0e651b2e62a4c8"
+    },
+    "año": "2001",
+    "enlace": "http://pelisplus.co/serie/hermanos-de-sangre/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5LAG7dQ9nvUJwxSyU6ZrDimMYm.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/hermanos-de-sangre",
+      "https://fanpelis.net/series/hermanos-de-sangre",
+      "https://seriesblanco.org/capitulos/hermanos-de-sangre-miniserie-de-tv/"
+    ],
+    "sinopsis": "TV Series (2001). 10 episodes. This is the story of Easy Company, 506th Regiment of the 101st Airborne Division from their initial training starting to the end of World War II. They parachuted behind enemy lines in the early hours of D-Day, participated in the liberation of Carentan and during Operation Market Garden. They also liberated a concentration camp and were the first to enter Hitler’s mountain retreat in Berchtesgarten. A fascinating tale of comradeship that is, in the end, a tale of ordinary men who did extraordinary things.",
+    "titulo": "Hermanos de sangre",
+    "tmdb": "4613"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e051f6e4f34af6f711a"
+    },
+    "año": "2013",
+    "enlace": "http://pelisplus.co/serie/orange-is-the-new-black/",
+    "genero": "Comedia Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7JbiWSRBljHHUZYGUWSD9PNv3v.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/orange-is-the-new-black",
+      "https://www.pelisplus.to/serie/orange-is-the-new-black",
+      "https://fanpelis.net/series/orange-is-the-new-black",
+      "https://seriesblanco.org/capitulos/orange-is-the-new-black/"
+    ],
+    "sinopsis": "Serie de TV (2013-Actualidad). Piper Chapman (Taylor Schiling), una mujer de Connecticut con una vida estable a punto de casarse, es detenida a raíz de un delito de drogas que cometió hace una década: en aquellos días llevó un maletín con droga para Alex Vause (Laura Prepon), una traficante y antigua amante de Piper. Tras el juicio, es enviada a prisión de mujeres en Litchfield, Nueva York. Allí convivirá con un grupo variopinto de internas… Basada en las vivencias reales de Kerman, cuya experiencia entre rejas le sirvió para escribir el best-seller autobiográfico ‘Orange Is The New Black: My Year In A Women’s Prison’. A medio camino entre el drama y la comedia, una aclamada serie que aborda temas relacionados con la cárcel como el sistema penitenciario norteamericano, el lesbianismo, la represión sexual, el abuso de poder o la corrupción policial.",
+    "titulo": "Orange Is the New Black",
+    "tmdb": "1424"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e065d0e651b2e62a4c9"
+    },
+    "año": "2017",
+    "enlace": "http://pelisplus.co/serie/the-defenders/",
+    "genero": "Crimen ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--marvel-s-the-defenders-hd--online",
+      "https://www.pelisplus.to/serie/marvels-the-defenders",
+      "https://miradetodo.co/series/marvels-the-defenders",
+      "https://fanpelis.net/series/marvels-the-defenders",
+      "https://seriesblanco.org/capitulos/the-defenders/"
+    ],
+    "sinopsis": "The Defenders sigue a Daredevil (Charlie Cox), Jessica Jones (Krysten Ritter), Luke Cage (Mike Colter) y Iron Fist (Finn Jones). Cuatro héroes únicos con un objetivo común: salvar Nueva York. Esta es la historia de cuatro personas solitarias que sobrellevan sus propios desafíos y entienden que son más fuertes al formar un equipo.",
+    "titulo": "Marvel’s The Defenders",
+    "tmdb": "62285"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e071f6e4f34af6f711c"
+    },
+    "año": "2008",
+    "enlace": "http://pelisplus.co/serie/breaking-bad/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yeVJox3rjo2jBKrrihIMj7uoS9.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--breaking-bad-hd--online-009",
+      "https://www.pelisplus.to/serie/breaking-bad",
+      "https://miradetodo.co/series/breaking-bad",
+      "https://fanpelis.net/series/breaking-bad",
+      "https://seriesblanco.org/capitulos/breaking-bad/"
+    ],
+    "sinopsis": "Serie de TV (2008-2013). 5 temporadas. 62 episodios. Tras cumplir 50 años, Walter White (Bryan Cranston), un profesor de química de un instituto de Albuquerque, Nuevo México, se entera de que tiene un cáncer de pulmón incurable. Casado con Skyler (Anna Gunn) y con un hijo discapacitado (RJ Mitte), la brutal noticia lo impulsa a dar un drástico cambio a su vida: decide, con la ayuda de un antiguo alumno (Aaron Paul), fabricar anfetaminas y ponerlas a la venta. Lo que pretende es liberar a su familia de problemas económicos cuando se produzca el fatal desenlace.",
+    "titulo": "Breaking Bad",
+    "tmdb": "1396"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e085d0e651b2e62a4cb"
+    },
+    "año": "2011",
+    "enlace": "http://pelisplus.co/serie/lobo-adolescente/",
+    "genero": "Drama Misterio ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vY2vfAskJTiWsQSv6bdbNCQhPLm.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--teen-wolf-hd--online-001",
+      "https://www.pelisplus.to/serie/teen-wolf",
+      "https://miradetodo.co/series/teen-wolf",
+      "https://fanpelis.net/series/teen-wolf",
+      "https://seriesblanco.org/capitulos/teen-wolf/"
+    ],
+    "sinopsis": "‘Teen Wolf’ revitaliza en la pequeña pantalla las aventuras de Michael J. Fox en ‘De pelo en pecho’ (1985) y de Jason Bateman en ‘Teen Wolf II’ (1987). Como en estos filmes, Posey se mete en la piel del típico pringadillo de instituto cuya existencia pasa del anonimato a la popularidad al ser mordido por un hombre lobo en la oscuridad del bosque. Su vida nunca volverá a ser la misma.",
+    "titulo": "Teen Wolf",
+    "tmdb": "34524"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e081f6e4f34af6f711d"
+    },
+    "año": "2016",
+    "enlace": "http://pelisplus.co/serie/el-joven-papa/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/72AkGl9iTamlfZuFU64QHqSkTir.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/el-joven-papa",
+      "https://fanpelis.net/series/the-young-pope",
+      "https://seriesblanco.org/capitulos/the-young-pope/"
+    ],
+    "sinopsis": "Retrata la historia de Pio XIII, un Papa ultraconservador, cercano al oscurantismo y muy valorado por todos, especialmente por los pobres. El joven pontífice, en esta historia, intenta encajar en un puesto en el que las conspiraciones están a la orden del día.",
+    "titulo": "The Young Pope",
+    "tmdb": "62699"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e095d0e651b2e62a4ce"
+    },
+    "año": "2010",
+    "enlace": "http://pelisplus.co/serie/spartacus/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/18FWPmsh2dULwMyWGjNDCUsmGRM.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/spartacus",
+      "https://www.pelisplus.to/serie/spartacus",
+      "https://miradetodo.co/series/spartacus",
+      "https://fanpelis.net/series/spartacus-sangre-y-arena",
+      "https://seriesblanco.org/capitulos/spartacus-sangre-y-arena/"
+    ],
+    "sinopsis": "Serie de TV (2010). 13 episodios. Traicionado por su país. Convertido en esclavo. Renacido como guerrero. Spartacus protagoniza la historia más gráfica y visceral del gladiador más famoso de Roma. Con un reparto estelar, asistimos a una mezcla única de acción, efectos gráficos y brutales batallas. Separado del amor de su vida, Spartacus tendrá que luchar por su supervivencia, participando en un espectáculo, donde el principal entretenimiento es la muerte. En un mundo de corrupción, violencia, sexo y fama acabará interviniendo en política y vivirá atormentado por el deseo de venganza.",
+    "titulo": "Spartacus: Sangre y arena",
+    "tmdb": "46296"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e0a1f6e4f34af6f711e"
+    },
+    "año": "2018/09/29",
+    "enlace": "http://pelisplus.co/serie/ingobernable/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mREc0h6fpGRQ3OEfiWqD9TfudaC.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/ingobernable",
+      "https://fanpelis.net/series/ingobernable",
+      "https://seriesblanco.org/capitulos/ingobernable/"
+    ],
+    "sinopsis": "Emilia Urquiza es la primera dama de México y tiene grandes planes para mejorar las condiciones del país gracias a su compromiso de luchar por la paz. A medida que Emilia comienza a perder la fe en su esposo, el presidente Diego Nava, se encuentra en una encrucijada en la que tendrá que encontrar la forma de enfrentar un gran desafío y descubrir la verdad.",
+    "titulo": "Ingobernable",
+    "tmdb": "70897"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e0a1f6e4f34af6f711f"
+    },
+    "año": "2014",
+    "enlace": "http://pelisplus.co/serie/forever/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OnnU4j2tQEOnsPnRZswW91v9vr.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/forever",
+      "https://www.pelisplus.to/serie/forever",
+      "https://miradetodo.co/series/forever",
+      "https://fanpelis.net/series/forever",
+      "https://seriesblanco.org/capitulos/forever/"
+    ],
+    "sinopsis": "Serie de TV de 22 episodios (2014-2015). Un hombre de 200 años de edad trabaja en la morgue de la ciudad de Nueva York, rodeado de cadáveres, tratando de encontrar la clave para romper la maldición de su inmortalidad.",
+    "titulo": "Forever",
+    "tmdb": "60726"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e0a1f6e4f34af6f7120"
+    },
+    "año": "2017",
+    "enlace": "http://pelisplus.co/serie/genius/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUhR0qXV0zP1TUtJlZuO0oHZu00.jpg",
+    "servidores": [
+      "https://fanpelis.net/series/genius",
+      "https://seriesblanco.org/capitulos/genius/"
+    ],
+    "sinopsis": "Genius Biopic del genio Albert Einstein desde que era un joven físico empleado de la oficina de la Oficina de Patentes de Berna y publicó su teoría de la relatividad especial. Adaptación de la novela biográfica “Einstein: Su vida y su universo” de Walter Isaacson.",
+    "titulo": "Genius",
+    "tmdb": "81908"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e0b1f6e4f34af6f7122"
+    },
+    "año": "2017",
+    "enlace": "http://pelisplus.co/serie/legion/",
+    "genero": "Uncategorized ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvyA5E4YxQw79gX0hzZ2pQKJpKy.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/legion",
+      "https://miradetodo.co/series/legion",
+      "https://fanpelis.net/series/legion",
+      "https://seriesblanco.org/capitulos/legion/"
+    ],
+    "sinopsis": "Legión La ficción se centra en David Haller, un hombre que desde que era adolescente ha tenido que luchar contra una enfermadad mental. Su diagnóstico: esquizofrenia. Durante años, ha ido entrando y saliendo de diferentes hospitales psiquíatricos para tratarse, pero después de un extraño encuentro con un paciente, se tiene que enfrentar a la posibilidad de que las voces que escucha en su cabeza y las visiones que ve podrían ser reales.",
+    "titulo": "Legión",
+    "tmdb": "67195"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e0b1f6e4f34af6f7125"
+    },
+    "año": "2015",
+    "enlace": "http://pelisplus.co/serie/scream/",
+    "genero": "Suspense Terror ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMzclYREKmM5foluxGGf31UZmS8.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/scream",
+      "https://www.pelisplus.to/serie/scream",
+      "https://fanpelis.net/series/scream"
+    ],
+    "sinopsis": "Lo que comienza como un vídeo viral de YouTube, pronto conduce a problemas para los adolescentes de Lakewood y sirve como catalizador para un asesinato que abre una ventana al turbulento pasado de la ciudad.",
+    "titulo": "Scream",
+    "tmdb": "62823"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e0c1f6e4f34af6f7126"
+    },
+    "año": "2016",
+    "enlace": "http://pelisplus.co/serie/stranger-things/",
+    "genero": "Drama Misterio ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCDuKQpMePICbc1XRQIBQsPdIMj.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/stranger-things",
+      "https://www.pelisplus.to/serie/stranger-things",
+      "https://miradetodo.co/series/stranger-things-2016-actualidad",
+      "https://fanpelis.net/series/stranger-things",
+      "https://seriesblanco.org/capitulos/stranger-things/"
+    ],
+    "sinopsis": "Stranger Things A raíz de la desaparición de un niño, un pueblo desvela un misterio relacionado con experimentos secretos, fuerzas sobrenaturales aterradoras y una niña muy extraña.",
+    "titulo": "Stranger Things",
+    "tmdb": "66732"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e0c1f6e4f34af6f7127"
+    },
+    "año": "2014",
+    "enlace": "http://pelisplus.co/serie/the-last-ship/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zM6UvfOCxY6QtSVfJkhPG7rPW3c.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/the-last-ship",
+      "https://miradetodo.co/series/the-last-ship",
+      "https://fanpelis.net/series/the-last-ship",
+      "https://seriesblanco.org/capitulos/the-last-ship/"
+    ],
+    "sinopsis": "La tripulación de un destructor naval se ve obligada a enfrentarse a la realidad de una nueva existencia cuando una pandemia mata a la mayor parte de la población de la tierra.",
+    "titulo": "The Last Ship",
+    "tmdb": "60802"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e0c5d0e651b2e62a4d3"
+    },
+    "año": "2013",
+    "enlace": "http://pelisplus.co/serie/dracula/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9HoPggyZVKXgCDy8zqNVXMDyOo.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/dracula",
+      "https://fanpelis.net/series/dracula"
+    ],
+    "sinopsis": "Dracula Serie de TV de 10 capítulos (2013-2014). Drácula llega a Londres y se hace pasar por un empresario estadounidense que pretende acercar la ciencia moderna a la sociedad victoriana. En realidad, espera vengarse de las personas que arruinaron su vida durante siglos. Sólo una circunstancia podría frustrar su plan: el conde se enamora perdidamente de una mujer que parece la reencarnación de su esposa muerta.",
+    "titulo": "Dracula",
+    "tmdb": "58928"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e0c5d0e651b2e62a4d4"
+    },
+    "año": "2009",
+    "enlace": "http://pelisplus.co/serie/bored-to-death/",
+    "genero": "Comedia Crimen Misterio ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/auYigs3cTEBuUkiz6FWChlQyGj3.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/bored-to-death",
+      "https://www.pelisplus.to/serie/bored-to-death",
+      "https://fanpelis.net/series/bored-to-death"
+    ],
+    "sinopsis": "Bored to Death Jonathan Ames, a young Brooklyn writer, is feeling lost. He’s just gone through a painful break-up, thanks in part to his drinking, can’t write his second novel, and carouses too much with his magazine editor. Rather than face reality, Jonathan turns instead to his fantasies — moonlighting as a private detective — because he wants to be a hero and a man of action.",
+    "titulo": "Bored to Death",
+    "tmdb": "31078"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e0d5d0e651b2e62a4d5"
+    },
+    "año": "2010",
+    "enlace": "http://pelisplus.co/serie/blue-mountain-state/",
+    "genero": "Comedia ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYfbLwcSQ0eWwXUM8KQ6R40Pe1i.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/blue-mountain-state",
+      "https://fanpelis.net/series/blue-mountain-state"
+    ],
+    "sinopsis": "Blue Mountain State Serie de comedia centrada en una universidad con gran tradición en el fútbol americano, Blue Mountain State, y su extraño equipo “The Goats” (Las Cabras). Trata temas sobre la vida universitaria y todo lo que la rodea como el fútbol americano, ligar con chicas, borracheras, fiestas salvajes y las novatadas. Una serie que supone una mezcla entre “National Lampoon’s Animal House” y “Van Wilder”.",
+    "titulo": "Blue Mountain State",
+    "tmdb": "31941"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e0e5d0e651b2e62a4db"
+    },
+    "año": "2013",
+    "enlace": "http://pelisplus.co/serie/vikingos/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oktTNFM8PzdseiK1X0E0XhB6LvP.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver-vikingos",
+      "https://www.pelisplus.to/serie/vikings",
+      "https://miradetodo.co/series/vikings",
+      "https://fanpelis.net/series/vikingos",
+      "https://seriesblanco.org/capitulos/vikingos/"
+    ],
+    "sinopsis": "Sigue las aventuras de Ragnar Lothbrok, el héroe más grande de su época. La serie narra las sagas de la banda de hermanos vikingos de Ragnar y su familia, cuando él se levanta para convertirse en el rey de las tribus vikingas. Además de ser un guerrero valiente, Ragnar encarna las tradiciones nórdicas de la devoción a los dioses, la leyenda dice que él era un descendiente directo de Odín, el dios de la guerra y los guerreros.",
+    "titulo": "Vikingos",
+    "tmdb": "44217"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e0f5d0e651b2e62a4df"
+    },
+    "año": "2015",
+    "enlace": "http://pelisplus.co/serie/ballers/",
+    "genero": "Comedia Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/98RyLKDFRoRLe2hZ517bCNl5pgY.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ballers",
+      "https://www.pelisplus.to/serie/ballers",
+      "https://fanpelis.net/series/ballers",
+      "https://seriesblanco.org/capitulos/ballers/"
+    ],
+    "sinopsis": "Esta nueva comedia se centra en las vidas de un grupo de jugadores de fútbol americano, tanto titulares como retirados, entre los que se encuentra Spencer Strassmore, interpretado por Dwayne Johnson ‘La Roca’ en su primer gran papel protagonista para una serie de televisión. Strasmore es una superestrella del fútbol que, tras haberse retirado, intenta reubicar su vida mientras se dedica a ser el gurú de otros jugadores dentro del competitivo negocio del fútbol en pleno Miami.",
+    "titulo": "Ballers",
+    "tmdb": "62704"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e0f1f6e4f34af6f7128"
+    },
+    "año": "2011",
+    "enlace": "http://pelisplus.co/serie/juego-de-tronos/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwPSoYUHAKmdyVywgLpKKA4BjRr.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--juego-de-tronos-hd--online-012",
+      "https://www.pelisplus.to/serie/game-of-thrones",
+      "https://fanpelis.net/series/juego-de-tronos",
+      "https://seriesblanco.org/capitulos/juego-de-tronos/",
+      "https://miradetodo.co/series/game-of-thrones"
+    ],
+    "sinopsis": "Juego de Tronos es una serie de televisión de drama y fantasía creada para la HBO por David Benioff y D. B. Weiss. Es una adaptación de la saga de novelas de fantasía Canción de Hielo y Fuego de George R. R. Martin. La primera de las novelas es la que da nombre a la serie.",
+    "titulo": "Juego de Tronos",
+    "tmdb": "1399"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e115d0e651b2e62a4e2"
+    },
+    "año": "2018/10/03",
+    "enlace": "http://pelisplus.co/serie/american-horror-story/",
+    "genero": "Terror",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMdgP5nXy3dDTIQpxOuiu3xky4F.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--american-horror-story-hd--online-001",
+      "https://www.pelisplus.to/serie/american-horror-story",
+      "https://seriesblanco.org/capitulos/american-horror-story/"
+    ],
+    "sinopsis": "American Horror Story es una serie televisiva de drama y horror creada y producida por Ryan Murphy (Glee) y Brad Falchuk (Nip/Tuck). Se ha descrito como una serie antológica, ya que cada temporada se hace como una miniserie independiente, con un grupo de personajes diferentes, escenarios distintos y una trama que tiene su propio comienzo, desarrollo y final.",
+    "titulo": "American Horror Story",
+    "tmdb": "1413"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e141f6e4f34af6f712c"
+    },
+    "año": "2018/09/29",
+    "enlace": "http://pelisplus.co/serie/scorpion/",
+    "genero": "Drama Acción Comedia",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tul8AbyTStoltT77Di0XUIgRnI2.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/scorpion",
+      "https://www.pelisplus.to/serie/scorpion",
+      "https://seriesblanco.org/capitulos/scorpion/"
+    ],
+    "sinopsis": "La serie se centra en la vida de Walter O'Brien, un excéntrico genio que participa en un grupo de mentes brillantes que conforma la última línea de defensa contra las amenazas a las que se enfrenta la humanidad en un mundo tan globalizado y tecnificado como el nuestro. El equipo de genios incluye a O'Brien, una de las personas más inteligentes del mundo con un CI de 197, Sylvester Dodd, la calculadora humana, Happy Quinn, la mecánica prodigio y Toby Curtis, un experto en conducta. Cabe Gallo es el agente del gobierno asignado al equipo y supervisor gubernamental del mismo. Paige Dineen, era una camarera con un don para relacionarse con la gente y les ayuda a comprender el mundo. A cambio, ellos le ayudan a comprender mejor a su hijo, el cual también es un genio.",
+    "titulo": "Scorpion",
+    "tmdb": "60797"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e1a5d0e651b2e62a4e9"
+    },
+    "año": "2018/09/30",
+    "enlace": "http://pelisplus.co/serie/better-call-saul/",
+    "genero": "Comedia Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6tpspJMOauCQqud0KOcwNSq3F3.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/better-call-saul",
+      "https://miradetodo.co/series/better-call-saul",
+      "https://fanpelis.net/series/better-call-saul",
+      "https://seriesblanco.org/capitulos/mejor-llama-a-saul/"
+    ],
+    "sinopsis": "Serie de TV. Precuela de la serie Breaking Bad, centrada en el personaje del abogado Saul Goodman (Bob Odenkirk), seis años antes de conocer a Walter White. La serie cuenta cómo un picapleitos de poca monta llamado Jimmy McGill, con problemas para llegar a fin de mes, se convierte en el abogado criminalista Saul Goodman.",
+    "titulo": "Better Call Saul",
+    "tmdb": "60059"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e211f6e4f34af6f713a"
+    },
+    "año": "2018/09/30",
+    "enlace": "http://pelisplus.co/serie/south-park/",
+    "genero": "Animación Comedia",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9zc0cZpy5aPSfAy6Tgb6I1zWgV.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--south--park-hd-online-006",
+      "https://www.pelisplus.to/serie/south-park",
+      "https://fanpelis.net/series/south-park",
+      "https://seriesblanco.org/capitulos/south-park/"
+    ],
+    "sinopsis": "Esta es una serie de animación que se sitúa en el pueblo ficticio de South Park, en el estado de Colorado. Sus protagonistas son cuatro niños que cursan cuarto grado: Stan, Kyle, Kenny y Cartman, quienes comparten sus aventuras con peculiares personajes como Butters, Sr Garrison, Chef, Jesús, Satanás etc.",
+    "titulo": "South Park",
+    "tmdb": "2190"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dc95d0e651b2e62a46a"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/jose-jose-el-principe-de-la-cancion/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSq9jBmQFF5CyrCycG9kMXppATn.jpg",
+    "servidores": [
+      "https://fanpelis.net/series/jose-jose-el-principe-de-la-cancion",
+      "https://seriesblanco.org/capitulos/jose-jose-el-principe-de-la-cancion/"
+    ],
+    "sinopsis": "José José, un artista de alma atormentada cuya permanente búsqueda del amor y la gloria lo llevaron del cielo al infierno de la mano de la música.",
+    "titulo": "José José: El Príncipe de la Canción",
+    "tmdb": "78598"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dca5d0e651b2e62a46c"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/perdidos-en-el-espacio/",
+    "genero": "Action & Adventure Misterio Sci-Fi & Fantasy ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8NJnTXzb4rio9uvVYFVrXEMofU.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/lost-in-space",
+      "https://www.pelisplus.to/serie/perdidos-en-el-espacio",
+      "https://fanpelis.net/series/lost-in-space",
+      "https://seriesblanco.org/capitulos/perdidos-en-el-espacio-lost-in-space/"
+    ],
+    "sinopsis": "Lost in Space Ambientada 30 años en el futuro, la colonización en el espacio exterior es una realidad y la familia Robinson ha sido elegida para fomar parte de una misión especial para establecer una nueva colonia en el espacio y empezar una nueva vida en un mundo mejor. Pero cuando pierden el rumbo, los Robinson terminan aterrizando forzosamente en un planeta desconocido donde les esperan todo tipo de peligros. Y que se encuentra a años luz de su destino final… moderna interpretación del clásico de ciencia ficción de los años 60. Fanpelis.com",
+    "titulo": "Lost in Space",
+    "tmdb": "75758"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dca1f6e4f34af6f70ce"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/luis-miguel-la-serie/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pY96iDM0iUN0ZWfoJsNlM0Hrgo.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/luis-miguel-la-serie",
+      "https://www.pelisplus.to/serie/luis-miguel-la-serie",
+      "https://fanpelis.net/series/luis-miguel-la-serie",
+      "https://seriesblanco.org/capitulos/luis-miguel-la-serie/"
+    ],
+    "sinopsis": "Luis Miguel, la serie es una producción de Netflix, Telemundo y Gato Grande en la que se explora la vida del cantante. Un recorrido de lo personal y profesional en el que se profundiza en la vida del artista desde que nació hasta convertirse en un icono de la música latina. Y los dramas que desde pequeño y a lo largo de su vida ha tenido que sufrir, como la desaparición de su madre, la fama o las controvertidas relaciones que ha tenido hasta la actualidad.",
+    "titulo": "Luis Miguel: La Serie",
+    "tmdb": "79008"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dca5d0e651b2e62a46d"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/altered-carbon/",
+    "genero": "Crimen Misterio Sci-Fi & Fantasy ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZg2NUDPJA54AmDs1Y1ZLizBrpd.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/altered-carbon",
+      "https://www.pelisplus.to/serie/altered-carbon",
+      "https://fanpelis.net/series/altered-carbon",
+      "https://seriesblanco.org/capitulos/altered-carbon/"
+    ],
+    "sinopsis": "Altered Carbon es una serie exclusiva de Netflix basada en la homónima novela de ciencia ficción escrita por Richard K. Morgan. Con un guión escrito por Laeta Kalogridis (Shutter Island), esta adaptación está producida por Skydance Television. Kalogridis, además, es la productora ejecutiva y ‘showrunner’ de la serie, y se encuentra acompañada en la producción por los ejecutivos de Skydance Television: David Ellison, Dana Goldberg y Marcy Ross.",
+    "titulo": "Altered Carbon",
+    "tmdb": "68421"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dcb5d0e651b2e62a46e"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/diablo-guardian/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/66Owe1xtVSnQpOq8RHHdRSgDQOC.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/diablo-guardian",
+      "https://fanpelis.net/series/diablo-guardian"
+    ],
+    "sinopsis": "Diablo Guardián Violetta decide huir a NY robando dinero a sus padres. Pig es un escritor obsesionado con encontrar una historia y Violetta lo hará su Diablo Guardián. Ella cruzará todos los límites, ignorando las consecuencias de sus actos y sacando provecho de su cuerpo hasta terminar atrapada por Nefas, su verdugo. Violetta intentará huir y recuperar su libertad. Serie basada en la popular novela de Xavier Velasco. Fanpelis.com",
+    "titulo": "Diablo Guardián",
+    "tmdb": "58347"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dcb5d0e651b2e62a46f"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/la-casa-de-las-flores/",
+    "genero": "Comedia Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Qy5KXMn88HHZRvcjtttuqyBesn.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/la-casa-de-las-flores",
+      "https://www.pelisplus.to/serie/la-casa-de-las-flores",
+      "https://fanpelis.net/series/la-casa-de-las-flores",
+      "https://seriesblanco.org/capitulos/la-casa-de-las-flores/"
+    ],
+    "sinopsis": "La Casa de las Flores gira en torno a una floristería familiar que desprende mucha felicidad y unión entre los que la componen. Pero detrás de esta exitosa fachada del negocio hay muchos secretos disfuncionales ocultos. El padre de familia descubre que su amante muere de manera repentina por lo que decide llevar a los hijos a su hogar actual, hasta ese momento inexistentes para ellos.",
+    "titulo": "La casa de las flores",
+    "tmdb": "80169"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dcb1f6e4f34af6f70cf"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/good-girls/",
+    "genero": "Comedia Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6gA2IHRLqtHcmSqkk91Xw0wtEv.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/good-girls",
+      "https://fanpelis.net/series/good-girls",
+      "https://seriesblanco.org/capitulos/good-girls/"
+    ],
+    "sinopsis": "Good Girls Tres madres suburbanas con problemas económicos deciden poner fin a su calvario de no llegar a fin de mes, y lo hacen con una decisión que marca su vida: piensan robar un supermercado con una pistola de juguete. El atraco debe estar bien pensado, pero las tres mujeres no se plantean que la escapada es el punto más difícil, y más si el gerente te pilla. En pleno descubrimiento se dan cuenta de que el botín no es ni mucho menos lo que esperaban. Su misión se convierte en desastre y decepción, conseguir con éxito lo que querían era muy difícil.",
+    "titulo": "Good Girls",
+    "tmdb": "71715"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dcb5d0e651b2e62a472"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/insaciable-insatiable/",
+    "genero": "Comedia Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZHBP5RfwgmrJ2wXvm7BIDK0psQ.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver-insatiable",
+      "https://www.pelisplus.to/serie/insatiable",
+      "https://fanpelis.net/series/insatiable",
+      "https://seriesblanco.org/capitulos/insatiable/"
+    ],
+    "sinopsis": "Insatiable se centra en la venganza de la protagonista, Patty, hacía aquellos que alguna vez la han hecho sentir mal debido a su peso. De repente, la joven se vuelve delgada y esbelta lo que cambia la percepción de la gente hacia ella. Pero, Patty no lo olvida ni perdona y se quiere tomar la justicia por su mano. Para ello, contrata a un abogado civil deshonrado e insatisfecho que se ha convertido en un experto entrenador de belleza. Este abogado, Bob, ve un gran potencial en la adolescente y, con ayuda de su mujer, la introducen en el mundo de los certámenes de belleza. Patty, quiere llegar mucho más lejos de lo que Bob y su esposa pensaban.",
+    "titulo": "Insatiable",
+    "tmdb": "80743"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dcc1f6e4f34af6f70d2"
+    },
+    "año": "1995",
+    "enlace": "http://pelisplus.co/serie/xena-la-princesa-guerrera/",
+    "genero": "Comedia Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sM653hLpCQRFHXIpvywkdTuE2WL.jpg",
+    "servidores": [
+      "https://fanpelis.net/series/xena-la-princesa-guerrera"
+    ],
+    "sinopsis": "Xena, la princesa guerrera Serie de aventuras de corte mitológico en la que se sigue a Xena, una guerrera que tras varios años como temible señora de la guerra, ahora hará todo lo posible para luchar por el bien y la paz, peleando contra guerreros despiadados, dioses, demonios y hasta con la misma muerte.",
+    "titulo": "Xena, la princesa guerrera",
+    "tmdb": "4616"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dcd5d0e651b2e62a475"
+    },
+    "año": "2018/11/07",
+    "enlace": "http://pelisplus.co/serie/new-girl/",
+    "genero": "Comedia ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvqi2y2FjiWTL5TRL1Pa6UX8Jef.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/new-girl",
+      "https://fanpelis.net/series/new-girl",
+      "https://seriesblanco.org/capitulos/new-girl/"
+    ],
+    "sinopsis": "New Girl Del director Jake Kasdan (‘Bad Teacher’, ‘Californication’) y la guionista Elizabeth Meriwether (‘Sin compromiso’), ‘The New Girl’ es una nueva comedia que busca darle un soplo de aire fresco al modo en el que se abordan las relaciones hombre-mujer en televisión. Jess Day (Zooey Deschanel, hermana de Emily Deschanel y conocida por títulos como ‘(500) días juntos’ o ‘Caballeros, princesas y otras bestias’) es una chica a punto de cumplir los 30, bastante poco convencional, que se muda a una casa con tres chicos solteros después de una sonada ruptura. Bobalicona, idealista, vulnerable y sincera hasta el extremo, a menudo comete el error de confiar en los demás… incluso cuando no se lo merecen. Puede que sea rarita y hasta un poco vulgar a veces, pero eso no le impide sentirse cómoda consigo misma. Más dada a relacionarse con mujeres, no está nada acostumbrada a simpatizar con hombres… y menos en su propia casa.",
+    "titulo": "New Girl",
+    "tmdb": "1420"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dce1f6e4f34af6f70d4"
+    },
+    "año": "2016",
+    "enlace": "http://pelisplus.co/serie/billions/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugbzLiABCeVoLTsSXTE7kH1lOsh.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/billions",
+      "https://fanpelis.net/series/billions",
+      "https://seriesblanco.org/capitulos/billions/"
+    ],
+    "sinopsis": "Billions es un drama que examina con mirada forense el mundo de las altas finanzas mediante el seguimiento de la colisión que se avecina entre dos figuras titánicas de gran poder. Estos personajes son: el Fiscal Federal Chuck Rhoades (Paul Giamatti) y el ambicioso rey de los fondos de cobertura, Bobby ‘Axe’ Axelrod (Demian Lewis). Cada uno tendrá que usar su inteligencia, poder e influencia para poder superar al otro en esta constante lucha por acabar con el otro. Así, la serie explora la estrecha y oscura relación entre el poder y la política en el mundo de las altas finanzas de Nueva York. Tal y como señala el nombre de la serie, en esta pugna están en juego enormes cantidades de dinero.",
+    "titulo": "Billions",
+    "tmdb": "62852"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dce1f6e4f34af6f70d5"
+    },
+    "año": "2016",
+    "enlace": "http://pelisplus.co/serie/lucifer/",
+    "genero": "Crimen ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmOuYyqVaczBLXxQNFSaRfAUgPz.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--lucifer-hd--online-007",
+      "https://www.pelisplus.to/serie/lucifer",
+      "https://fanpelis.net/series/lucifer",
+      "https://miradetodo.co/series/lucifer",
+      "https://seriesblanco.org/capitulos/lucifer/"
+    ],
+    "sinopsis": "La serie se centra en Lucifer (Tom Ellis) quien, aburrido e infeliz como el Señor del Infierno, dimite de su trono y abandona su reino para trasladarse a la ciudad de Los Angeles y abrir un lujoso piano-bar llamado Lux. Una vez allí ayudará a la policía a castigar a los más peligrosos criminales de la ciudad.",
+    "titulo": "Lucifer",
+    "tmdb": "63174"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dcf5d0e651b2e62a479"
+    },
+    "año": "2016",
+    "enlace": "http://pelisplus.co/serie/luke-cage/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9nWZZ1ghE0LuXEWJi7QjCymHygi.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/luke-cage",
+      "https://miradetodo.co/series/marvels-luke-cage-2016-online",
+      "https://fanpelis.net/series/luke-cage",
+      "https://seriesblanco.org/capitulos/luke-cage/"
+    ],
+    "sinopsis": "Como consecuencia de un experimento fallido, Luke Cage (Mike Colter) ha desarrollado una piel indestructible y una fuerza sobrehumana. Ahora es un fugitivo que intenta rehacer su vida en el barrio neoyorquino de Harlem. Pronto se verá obligado a salir de la sombra, luchar por su ciudad y afrontar un pasado que quería enterrar.",
+    "titulo": "Luke Cage",
+    "tmdb": "62126"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dcf5d0e651b2e62a47a"
+    },
+    "año": "2014",
+    "enlace": "http://pelisplus.co/serie/z-nation/",
+    "genero": "Action & Adventure Drama Sci-Fi & Fantasy ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XE3R9hhmrvBdnVR2y7jO7p9pyl.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/z-nation",
+      "https://www.pelisplus.to/serie/z-nation",
+      "https://miradetodo.co/series/z-nation",
+      "https://fanpelis.net/series/z-nation",
+      "https://seriesblanco.org/capitulos/z-nation/"
+    ],
+    "sinopsis": "‘Z Nation’ nos transporta a los EE.UU tres años después de que un virus zombie se haya extendido por todos los rincones del planeta. Ahora, la supervivencia de la humanidad depende de un único superviviente al susodicho virus mortal por lo que un grupo de agentes especiales tendrán que trasladarlo a un laboratorio especial para analizar su sangre y encontrar así una cura.",
+    "titulo": "Z Nation",
+    "tmdb": "61345"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dd05d0e651b2e62a47b"
+    },
+    "año": "2004",
+    "enlace": "http://pelisplus.co/serie/stargate-atlantis/",
+    "genero": "Action & Adventure Drama Sci-Fi & Fantasy ",
+    "poster": "https://image.tmdb.org/t/p/w220_and_h330_bestv2/rJcQ6P3lv7Jwd7M9roxKrhtrXPa.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/stargate-atlantis",
+      "https://www.pelisplus.to/serie/stargate-atlantis",
+      "https://fanpelis.net/series/stargate-atlantis"
+    ],
+    "sinopsis": "Stargate Atlantis Serie de TV (2004-2009). 5 temporadas. 100 episodios. La historia de la serie parte del final de la séptima temporada y el inicio de la octava de Stargate SG-1. Un grupo de científicos, entre los que se encuentran el Dr. Daniel Jackson, la Doctora Elizabeth Weir y el Dr. Rodney McKay, están estudiando el puesto avanzado de los Antiguos que O’Neill descubrió al final de la séptima temporada. El Dr. Jackson consigue averiguar que pasó con Atlantis: los Antiguos se la llevaron a otra galaxia, Pegaso, y tiene la dirección de donde fueron. El problema es que abrir el Stargate a otra galaxia gasta mucha energía, por lo que es posible que sea un viaje sin retorno. Sin embargo, una expedición científico-militar, la Expedición Atlantis, capitaneada por la propia Weir, decide embancarse en la aventura y parte hacia la ciudad perdida de los Antiguos, Atlantis.",
+    "titulo": "Stargate Atlantis",
+    "tmdb": "2290"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dd15d0e651b2e62a47d"
+    },
+    "año": "2016",
+    "enlace": "http://pelisplus.co/serie/el-tirador/",
+    "genero": "Action & Adventure ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFlB9btl1sTzUpSkknKzKwdNT6f.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/el-tirador",
+      "https://www.pelisplus.to/serie/shooter",
+      "https://miradetodo.co/series/shooter",
+      "https://fanpelis.net/series/el-tirador",
+      "https://seriesblanco.org/capitulos/el-tirador/"
+    ],
+    "sinopsis": "El tirador Shooter es una serie de televisión de género dramático basada en la novela best-seller Point of Impact, escrita por el autor Stephen Hunter y publicada en el año 1993. Este thriller de suspense narra la historia de Bob Lee Swagger (Ryan Phillippe, Secretos y mentiras), un experto francotirador que, desencantado con la guerra, ahora vive en el exilio, dedicando su día a día a las armas de fuego.",
+    "titulo": "El tirador",
+    "tmdb": "66857"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dd11f6e4f34af6f70d7"
+    },
+    "año": "2016",
+    "enlace": "http://pelisplus.co/serie/wynonna-earp/",
+    "genero": "Western ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIoB2PwchfZprHhCFExdTkFJ9Ot.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/wynonna-earp",
+      "https://fanpelis.net/series/wynonna-earp",
+      "https://seriesblanco.org/capitulos/wynonna-earp/"
+    ],
+    "sinopsis": "Cuenta la historia de Wynonnna, hija del famoso policía Wyatt Earp. Ella es el agente especial de la unidad US Marshals conocido como The Monster Squad. Ella lucha contra amenazas sobrenaturales como Bobo Del Rey y sus vampiros, que impulsan una nueva droga asesina llamada “Hemo”.",
+    "titulo": "Wynonna Earp",
+    "tmdb": "65988"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dd15d0e651b2e62a47e"
+    },
+    "año": "2017",
+    "enlace": "http://pelisplus.co/serie/salvation/",
+    "genero": "Drama Sci-Fi & Fantasy ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXCd9FUT7ZjoB390cGioVhEiXOB.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/salvation",
+      "https://fanpelis.net/series/salvation",
+      "https://seriesblanco.org/capitulos/salvation/"
+    ],
+    "sinopsis": "Salvation El estudiante graduado del MIT, Liam Cole y el multimillonario técnologo, Darius Tanzs descubren que un asteroide está a solo seis meses de colisionar en la tierra. Con toda la delicadeza y sin crear un escándalo público comienza a trabajar juntos en un plan para salvar a la humanidad. Para ello, reclutan a una aspirante a escritora, Jillian, para dar el enfoque teórico al planteamiento.",
+    "titulo": "Salvation",
+    "tmdb": "70513"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dd25d0e651b2e62a480"
+    },
+    "año": "2013",
+    "enlace": "http://pelisplus.co/serie/hannibal/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGLfnAGlxrvWKleEpjDUXAGeBNO.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/hannibal",
+      "https://miradetodo.co/series/hannibal-2013-2015-en-1080p",
+      "https://fanpelis.net/series/hannibal",
+      "https://seriesblanco.org/capitulos/hannibal/"
+    ],
+    "sinopsis": "Hannibal Creada por Bryan Fuller (‘Héroes’, ‘Tan muertos como yo’, ‘Criando malvas’), ‘Hannibal’ aborda la historia del famoso asesino en serie Hannibal Lecter (Mads Mikkelsen, ‘Casino Royale’, ‘Furia de Titanes’, ‘El rey Arturo’) antes de los hechos que aparecen en ‘El silencio de los corderos’ y, por tanto, antes de conocer a la detective Clarice Starling. La serie es una adaptación de la novela de Thomas Harris ‘El Dragón Rojo’, que narra la juventud del conocido caníbal.",
+    "titulo": "Hannibal",
+    "tmdb": "40008"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dd21f6e4f34af6f70d9"
+    },
+    "año": "2015",
+    "enlace": "http://pelisplus.co/serie/quantico/",
+    "genero": "Crimen Drama Misterio ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkhw7mRT2wKCWGna6bj1uh2sQ7e.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--quantico-hd--online-007",
+      "https://www.pelisplus.to/serie/quantico",
+      "https://fanpelis.net/series/quantico",
+      "https://seriesblanco.org/capitulos/quantico/"
+    ],
+    "sinopsis": "Serie de TV. Un grupo de jóvenes reclutas llega a la base del FBI de Quantico. Son los mejores, los más brillantes y con pasados más limpios, por lo que parece imposible que uno de ellos pueda ser el responsable del mayor ataque sobre la ciudad de Nueva York desde el 11S",
+    "titulo": "Quantico",
+    "tmdb": "62816"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dd21f6e4f34af6f70da"
+    },
+    "año": "2015",
+    "enlace": "http://pelisplus.co/serie/bloodline/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzcX2b1DxAmDbouCKIj9jNlveJ0.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver-bloodline-hd-online",
+      "https://www.pelisplus.to/serie/bloodline",
+      "https://fanpelis.net/series/bloodline"
+    ],
+    "sinopsis": "Bloodline La serie se desarrolla en Islamorada, lugar paradisiaco de Los Cayos de la Florida, al sureste de Estados Unidos, donde los Rayburn, una familia tradicional, poseen un resortturístico. La trama comienza cuando la treyectoria de los Rayburn se ve galardonada por el gobierno dando su nombre a uno de los muelles de la ciudad. Con motivo de la inauguración y, además, el aniversario de sus padres, uno de los cinco hermanos Rayburn regresa a casa.",
+    "titulo": "Bloodline",
+    "tmdb": "61986"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dd35d0e651b2e62a481"
+    },
+    "año": "2004",
+    "enlace": "http://pelisplus.co/serie/dr-house/",
+    "genero": "Comedia Drama Misterio ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3PkwHwIZSr7TU7js0aSD9XCjfN.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--dr-house-hd--online-002",
+      "https://www.pelisplus.to/serie/house",
+      "https://fanpelis.net/series/house",
+      "https://seriesblanco.org/capitulos/doctor-house/"
+    ],
+    "sinopsis": "House De la mano de la cadena Fox y creada por David Shore (‘Leyes de familia’, ‘Hack’), ‘House’ es un drama médico que sigue la exitosa receta de series como ‘CSI’ o ‘Navy: Investigación criminal’. Se parece a ellas porque aplica las técnicas de investigación policial y resolución de crímenes al diagnóstico de pacientes con extrañas afecciones.",
+    "titulo": "House",
+    "tmdb": "1408"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dd55d0e651b2e62a484"
+    },
+    "año": "2015",
+    "enlace": "http://pelisplus.co/serie/fear-the-walking-dead/",
+    "genero": "Drama Terror ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yd8cDZG4XjNRk7jfEWy18KH07d2.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/fear-the-walking-dead",
+      "https://www.pelisplus.to/serie/fear-the-walking-dead",
+      "https://miradetodo.co/series/fear-the-walking-dead-2015-actualidad",
+      "https://fanpelis.net/series/fear-walking-dead",
+      "https://seriesblanco.org/capitulos/fear-the-walking-dead/"
+    ],
+    "sinopsis": "Serie de TV (2015-Actualidad). Spin-off / precuela de la serie “The Walking Dead”, ambientado en la ciudad de Los Ángeles y centrado en una familia que debe sobrevivir a los comienzos del apocalipsis zombie. Muestra el origen del virus y cómo se expandió alrededor del mundo desde el punto de vista de una familia.",
+    "titulo": "Fear the Walking Dead",
+    "tmdb": "62286"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dd55d0e651b2e62a485"
+    },
+    "año": "2016",
+    "enlace": "http://pelisplus.co/serie/queen-of-the-south/",
+    "genero": "Crimen ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGInylLAYcVpmIE6b6S3pFtnEEv.jpg",
+    "servidores": [
+      "https://fanpelis.net/series/queen-of-the-south-reina-del-sur",
+      "https://seriesblanco.org/capitulos/queen-of-the-south-reina-del-sur/"
+    ],
+    "sinopsis": "Queen of the South (Reina del sur) Este drama cuenta la intensa historia de Teresa Mendoza (Alice Braga), quien después de que su novio, un traficante de drogas del cártel de Sinaloa, es asesinado inesperadamente en México, se ve obligada a buscar refugio en Estados Unidos. Allí, Teresa se vincula a una figura de su pasado para derrocar al líder de una red de tráfico de drogas. En el proceso, ella aprende los trucos y desarrolla las herramientas de trabajo para posicionarse a la cabeza de un nuevo cártel.",
+    "titulo": "Queen of the South (Reina del sur)",
+    "tmdb": "66676"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dd65d0e651b2e62a486"
+    },
+    "año": "2012",
+    "enlace": "http://pelisplus.co/serie/pablo-escobar-el-patron-del-mal/",
+    "genero": "Crimen Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nC2qpFcGadj3ckhqsKZseZPXhBK.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--pablo-escobar-el-patron-del-mal-hd--online-001",
+      "https://seriesblanco.org/capitulos/pablo-escobar-el-patra%c2%b3n-del-mal/"
+    ],
+    "sinopsis": "Pablo Escobar, el patrón del mal Serie de TV (2012). 113 episodios. Versión libre del libro “La parábola de Pablo”. Describe la vida del narco colombiano Pablo Emilio Escobar Gaviria desde su infancia. El uso de la violencia indiscriminada lo convirtió en el narcotraficante más temible y sanguinario de finales del siglo XX. Llegó incluso a desestabilizar al Gobierno colombiano hasta el punto de ser el criminal más buscado del mundo.",
+    "titulo": "Pablo Escobar, el patrón del mal",
+    "tmdb": "43348"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dd75d0e651b2e62a488"
+    },
+    "año": "2009",
+    "enlace": "http://pelisplus.co/serie/diarios-de-vampiros/",
+    "genero": "Drama Fantasía Romance Terror ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfF7IiyTar1ngfsd6n13LgFn9MD.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/cronicas-vampiricas",
+      "https://www.pelisplus.to/serie/the-vampire-diaries",
+      "https://fanpelis.net/series/cronicas-vampiricas",
+      "https://miradetodo.co/series/the-vampire-diaries"
+    ],
+    "sinopsis": "Crónicas vampíricas Creada por Kevin Williamson (‘El círculo secreto’, ‘Scream 4’), esta serie de corte sobrenatural está basada en una serie de novelas homónimas escritas por L.J. Smith (también autora de la saga de ‘The Secret Circle’). Como protagonista tenemos a Elena Gilbert (Nina Dobrev, ‘Arena’), una joven de 17 años que trata de seguir adelante con su vida tras la pérdida de sus padres en un trágico accidente.",
+    "titulo": "Crónicas vampíricas",
+    "tmdb": "18165"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dd81f6e4f34af6f70dd"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/un-jefe-en-panales-de-vuelta-en-los-negocios/",
+    "genero": "Action & Adventure Animación Comedia ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUVZHkJPKDYgDy1dbDdi0Esj9eB.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--el-bebe-jefazo-vuelta-al-curro-hd--online-001",
+      "https://www.pelisplus.to/serie/un-jefe-en-panales-de-vuelta-a-los-negocios",
+      "https://fanpelis.net/series/el-bebe-jefazo-vuelta-al-curro"
+    ],
+    "sinopsis": "El bebé jefazo: Vuelta al curro Serie que narra las aventuras de un curioso bebé con traje y maletín que esconde una doble vida como jefe corporativo de Baby Corp, con la astucia suficiente como para llevar todo el papeleo, las reuniones de negocios y las tareas importantes de la empresa. De esta manera, trata de mantener el equilibrio entre su vida personal y la profesional gracias a la complicidad de su hermano mayor Tim, con quien forma un equipo perfecto.",
+    "titulo": "El bebé jefazo: Vuelta al curro",
+    "tmdb": "77606"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dd95d0e651b2e62a489"
+    },
+    "año": "2013",
+    "enlace": "http://pelisplus.co/serie/peaky-blinders/",
+    "genero": "Crimen Drama ",
+    "poster": "https://image.tmdb.org/t/p/w220_and_h330_bestv2/rIQdhnIybIleLgTxysymCSRQtlv.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/peaky-blinders",
+      "https://fanpelis.net/series/peaky-blinders",
+      "https://seriesblanco.org/capitulos/peaky-blinders/"
+    ],
+    "sinopsis": "Peaky Blinders Serie de TV (2013-Actualidad). Una familia de gánsters asentada en Birmingham tras la Primera Guerra Mundial (1914-1918), dirige un local de apuestas hípicas. Las actividades del ambicioso jefe de la banda llaman la atención del Inspector jefe Chester Campbell, un detective de la Real Policía Irlandesa que es enviado desde Belfast para limpiar la ciudad y acabar con la banda.",
+    "titulo": "Peaky Blinders",
+    "tmdb": "60574"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dd95d0e651b2e62a48a"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/on-my-block/",
+    "genero": "Comedia ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFHmGVDNLFmhLjDNbFuMSBOxUv5.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--on-my-block-hd-online",
+      "https://fanpelis.net/series/on-my-block",
+      "https://seriesblanco.org/capitulos/on-my-block/"
+    ],
+    "sinopsis": "En un barrio marginado de Los Ángeles, cuatro adolescentes listos, divertidos y espabilados ponen a prueba su amistad cuando empiezan el instituto",
+    "titulo": "On My Block",
+    "tmdb": "76747"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dd95d0e651b2e62a48b"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/edha/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SouDsTnBLFElBolgn52y8ANiES.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver-edha",
+      "https://www.pelisplus.to/serie/edha",
+      "https://fanpelis.net/series/edha",
+      "https://seriesblanco.org/capitulos/edha/"
+    ],
+    "sinopsis": "Edha es una exitosa diseñadora de moda y madre soltera que se encuentra en una encrucijada que cambiará su vida para siempre. Mientras intenta tomar la decisión que la llevará a otro nivel en el mundo de la moda, conoce a un atractivo inmigrante convertido en modelo. Su pasión desenfrenada se mezclará con el profundo deseo de venganza de él.",
+    "titulo": "Edha",
+    "tmdb": "78087"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dda1f6e4f34af6f70e2"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/devilman-crybaby/",
+    "genero": "Animación ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKPGUZZ7wIiirgYJr24irtwwV6N.jpg",
+    "servidores": [
+      "https://fanpelis.net/series/devilman-crybaby",
+      "https://seriesblanco.org/capitulos/devilman-crybaby/",
+      "https://seriesblanco.org/capitulos/devilman-crybaby-2/"
+    ],
+    "sinopsis": "Serie de TV (2018). 10 episodios. Los demonios han despertado y la humanidad es presa del caos. Un sensible chico-demonio se verá arrastrado a una violenta guerra contra el mal por su misterioso amigo.",
+    "titulo": "Devilman Crybaby",
+    "tmdb": "75208"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dda5d0e651b2e62a48e"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/alexa-y-katie/",
+    "genero": "Comedia ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vwDkMoQaV33QSl5NZKkgETHa33.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver-alexa-katie-hd-online",
+      "https://fanpelis.net/series/alexa-katie",
+      "https://seriesblanco.org/capitulos/alexa-y-katie/"
+    ],
+    "sinopsis": "Alexa está luchando contra el cáncer. A punto de empezar el instituto y con su amiga Katie a su lado, se dispone a afrontar lo que venga.",
+    "titulo": "Alexa & Katie",
+    "tmdb": "76874"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8ddb5d0e651b2e62a48f"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/todo-es-una-mierda-everything-sucks/",
+    "genero": "Comedia Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5jI54voHfhtGzG5EoDOVBEtAC2.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/todo-es-una-mierda",
+      "https://www.pelisplus.to/serie/everything-sucks",
+      "https://fanpelis.net/series/todo-es-una-mierda",
+      "https://seriesblanco.org/capitulos/everything-sucks/"
+    ],
+    "sinopsis": "Boring, Oregón, 1996. Dos grupos de adolescentes inadaptados, el club de audiovisuales y el club de teatro, se enfrentan en esta peculiar historia sobre el paso a la madurez.",
+    "titulo": "Todo es una mierda",
+    "tmdb": "76438"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8ddb5d0e651b2e62a490"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/el-alienista/",
+    "genero": "Crimen Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mP91jZcx0MIf8FiNAzaNzoTMIn.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/el-alienista",
+      "https://fanpelis.net/series/el-alienista",
+      "https://seriesblanco.org/capitulos/the-alienist/"
+    ],
+    "sinopsis": "En Nueva York, a finales del siglo XIX, un periodista especializado en crímenes, John Moore (Luke Evans) se unirá al psicólogo Dr. Laszlo Kreizler (Daniel Brühl) para investigar a un asesino en serie.",
+    "titulo": "El Alienista",
+    "tmdb": "71769"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8ddb1f6e4f34af6f70e3"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/b-the-beginning/",
+    "genero": "Animación Sci-Fi & Fantasy ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/60Gpt5IQNj6jHqq6IdQiMs8RpXB.jpg",
+    "servidores": [
+      "https://fanpelis.net/series/b-the-beginning",
+      "https://seriesblanco.org/capitulos/b-the-beginning/"
+    ],
+    "sinopsis": "In a world powered by advanced technology, crime and action unfold in the archipelagic nation of Cremona. Koku, the protagonist. Keith, the legendary investigator of the royal police force RIS. A mysterious criminal organization. A wide variety of characters race through the fortified city as it is beset by the serial killer, Killer B, and a chain of crimes.",
+    "titulo": "B: The Beginning",
+    "tmdb": "77529"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8ddc5d0e651b2e62a492"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/reboot-el-codigo-guardian/",
+    "genero": "Action & Adventure Comedia Drama Sci-Fi & Fantasy ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyD4p8MgUsJCNWdHUqES3MSQ2Jd.jpg",
+    "servidores": [
+      "https://fanpelis.net/series/reinicio-el-codigo-del-guardian",
+      "https://seriesblanco.org/capitulos/reboot-the-guardian-code/"
+    ],
+    "sinopsis": "Cuatro adolescentes que saben todo sobre tecnología afilan sus habilidades como cibersuperhéroes en una serie de misiones secretas para salvar el mundo.",
+    "titulo": "Reinicio: El código del guardián",
+    "tmdb": "78418"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8ddc5d0e651b2e62a493"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/the-chi/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fOk1oVFxVtmyOErw4S6B5g6CsO.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver-the-chi-hd-online",
+      "https://fanpelis.net/series/the-chi",
+      "https://seriesblanco.org/capitulos/the-chi/"
+    ],
+    "sinopsis": "Una historia de iniciación de un joven afroamericano en el sur de Chicago. El destino puede cambiar en cuestión de segundos, pero la belleza y la comunidad persisten incluso cuando sucede alguna tragedia.",
+    "titulo": "The Chi",
+    "tmdb": "72071"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8ddc5d0e651b2e62a495"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/seven-seconds/",
+    "genero": "Crimen Drama News War & Politics ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mexUP20U3sPzu8jfGeRIHzI3TUC.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/seven-seconds",
+      "https://fanpelis.net/series/seven-seconds",
+      "https://seriesblanco.org/capitulos/seven-seconds/"
+    ],
+    "sinopsis": "La muerte de un adolescente afroamericano en Jersey City pone un marcha una búsqueda de la verdad que la policía trata de ocultar.",
+    "titulo": "Seven Seconds",
+    "tmdb": "75540"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8ddd5d0e651b2e62a496"
+    },
+    "año": "2015",
+    "enlace": "http://pelisplus.co/serie/12-monos/",
+    "genero": "Ciencia ficción Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RSp2xOmAA8kTltA21ogRT0e9De.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/12-monos",
+      "https://www.pelisplus.to/serie/12-monos",
+      "https://miradetodo.co/series/12-monkeys",
+      "https://fanpelis.net/series/12-monos",
+      "https://seriesblanco.org/capitulos/12-monos/"
+    ],
+    "sinopsis": "12 monos Sigue el viaje de un viajero en el tiempo desde el futuro post-apocalíptico que aparece en nuestros días a una misión para localizar y erradicar la fuente de una plaga mortal que eventualmente diezmará a la raza humana.",
+    "titulo": "12 monos",
+    "tmdb": "60948"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dde5d0e651b2e62a498"
+    },
+    "año": "2018",
+    "enlace": "http://pelisplus.co/serie/the-rain/",
+    "genero": "Drama Misterio ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGNfbDHjHN4zDZQlQiByPhU5oAr.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver-the-rain-online",
+      "https://www.pelisplus.to/serie/the-rain",
+      "https://fanpelis.net/series/the-rain",
+      "https://seriesblanco.org/capitulos/the-rain/"
+    ],
+    "sinopsis": "Seis años después de que un agresivo virus propagado por la lluvia acabara con casi todos los habitantes de Escandinavia, dos hermanos salen de la comodidad de su bunker para regresar a una civilización que seguramente ya no exista. Pronto se unirán a un grupo de jóvenes supervivientes que también intentan descubrir si hay señales de vida en una Escandinavia abandonada. Liberados de su pasado y de unas reglas de la sociedad, cada uno de los miembros del grupo tendrá la libertad de ser quienes quieran ser. Todos deberán enfrentarse al hecho de que, hasta en un mundo posapocalíptico, el amor y los celos todavía existen, así como todos los dilemas que pensaban que habían dejado atrás con la desaparición del mundo como lo conocían.",
+    "titulo": "The Rain",
+    "tmdb": "76719"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8ddf1f6e4f34af6f70e7"
+    },
+    "año": "2004",
+    "enlace": "http://pelisplus.co/serie/lost-desaparecidos/",
+    "genero": "Drama Misterio ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyGspygDXJMydTOJj7iWNx9Elyd.jpg",
+    "servidores": [
+      "https://fanpelis.net/series/perdidos",
+      "https://miradetodo.co/series/lost"
+    ],
+    "sinopsis": "Serie de TV (2004-2010). 6 temporadas. 121 episodios. Historia de un variopinto grupo de supervivientes de un accidente de aviación en una isla del Pacífico aparentemente desierta, una isla en la que suceden cosas muy extrañas. Luchando por la supervivencia, casi medio centenar de personas mostrarán lo mejor y lo peor de sí mismas.",
+    "titulo": "Perdidos",
+    "tmdb": "4607"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8de21f6e4f34af6f70eb"
+    },
+    "año": "2015",
+    "enlace": "http://pelisplus.co/serie/the-magicians/",
+    "genero": "Drama Fantasía Terror ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3Q4yFK3D3NOWzYRgJdsxYpZdH0.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/the-magicians",
+      "https://www.pelisplus.to/serie/the-magicians",
+      "https://fanpelis.net/series/the-magicians",
+      "https://seriesblanco.org/capitulos/the-magicians/"
+    ],
+    "sinopsis": "Serie en torno a un grupo de jóvenes veinteañeros de Nueva York que estudian en una facultad secreta especializada en magia. Entre ellos está Quentin Coldwater, un alumno brillante pero inadaptado que ingresa en la Universidad de Brakebills para estudiar magia. Él y sus amigos descubrirán pronto que el mundo fantástico sobre el que leyeron en los libros cuando eran unos niños no sólo es real sino que además podría poner en serio peligro a la humanidad… Adaptación de las novelas de Lev Grossman.",
+    "titulo": "The Magicians",
+    "tmdb": "64432"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8de31f6e4f34af6f70ef"
+    },
+    "año": "2015",
+    "enlace": "http://pelisplus.co/serie/supergirl/",
+    "genero": "Acción Aventura Ciencia ficción Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIt1YiYmtUgUx1g47RV2nrfONSq.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--supergirl-hd--online-008",
+      "https://www.pelisplus.to/serie/supergirl",
+      "https://miradetodo.co/series/supergirl",
+      "https://fanpelis.net/series/supergirl",
+      "https://seriesblanco.org/capitulos/supergirl/"
+    ],
+    "sinopsis": "Serie de TV. Tras once años en la Tierra, Kara Zor-El decide seguir los pasos de su célebre primo y aprovechar sus superpoderes para salvar a los ciudadanos de National City de los criminales alienígenas que amenazan la paz. Pero si quiere continuar con su vida humana, primero tendrá que crear una nueva identidad secreta.",
+    "titulo": "Supergirl",
+    "tmdb": "62688"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8de51f6e4f34af6f70f1"
+    },
+    "año": "2001",
+    "enlace": "http://pelisplus.co/serie/smallville/",
+    "genero": "Drama Misterio ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kN4ye3NHWO27J2WnepYZ9Jpt8R.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/smallville",
+      "https://fanpelis.net/series/smallville",
+      "https://seriesblanco.org/capitulos/smallville/"
+    ],
+    "sinopsis": "Serie de TV (2001-2011). 10 temporadas. 218 episodios. Serie que narra los inicios de Superman -Clark Kent- en su pueblo natal, Smallville. Allí vivía con sus padres, estudiaba en el instituto local y conoció a su primera novia, Lana Lang, y a su futuro rival, Lex Luthor. Emitida por la cadena WB en los años 2001-2006 y por The CW desde 2006 hasta 2011",
+    "titulo": "Smallville",
+    "tmdb": "4604"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8de65d0e651b2e62a49d"
+    },
+    "año": "2011",
+    "enlace": "http://pelisplus.co/serie/suits/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6Iu6pTzfL6iRWhXuYkNs8cPdJF.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/suits",
+      "https://fanpelis.net/series/suits-la-clave-del-exito",
+      "https://seriesblanco.org/capitulos/suits/"
+    ],
+    "sinopsis": "Serie de TV (2011-Actualidad). Michael Ross se gana la vida bordeando los límites de la legalidad. Es un joven muy inteligente, pero las malas compañías de la universidad lo llevaron a creer que para triunfar en la vida hay que saltarse las reglas. Así, por ejemplo, vive de presentarse en nombre de otros a los exámenes de Derecho. Por azar conoce a Harvey Specter, uno de los abogados más jóvenes y brillantes de Manhattan. La inteligencia y las dotes de Michael lo deslumbrarán tanto que lo contrata a pesar de que aún no ha terminado la carrera.",
+    "titulo": "Suits (La clave del éxito)",
+    "tmdb": "37680"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8de71f6e4f34af6f70f2"
+    },
+    "año": "2016",
+    "enlace": "http://pelisplus.co/serie/westworld/",
+    "genero": "Ciencia ficción Western ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvX38K4xcolV6Vjs1uh0MNrUTH8.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/westworld",
+      "https://www.pelisplus.to/serie/westworld",
+      "https://miradetodo.co/series/westworld",
+      "https://fanpelis.net/series/westworld",
+      "https://seriesblanco.org/capitulos/westworld/"
+    ],
+    "sinopsis": "Westworld es un parque de atracciones futurista y controlado por alta tecnología dirigido por el Dr. Robert Ford (Anthony Hopkins). Las instalaciones cuentan con androides cuya apariencia física es humana, y gracias a ellos los visitantes pueden dar rienda suelta a sus instintos y vivir cualquier tipo de aventura o fantasía, por muy oscura o peligrosa que sea, sabiendo que los robots no les harán daño",
+    "titulo": "Westworld",
+    "tmdb": "63247"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8de71f6e4f34af6f70f3"
+    },
+    "año": "2015",
+    "enlace": "http://pelisplus.co/serie/daredevil/",
+    "genero": "Acción Crimen ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cidOqJL8tayqvv3TpfTQCsgeITu.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--daredevil-hd-online",
+      "https://www.pelisplus.to/serie/marvels-daredevil",
+      "https://fanpelis.net/series/daredevil",
+      "https://seriesblanco.org/capitulos/daredevil/"
+    ],
+    "sinopsis": "Serie de TV (2015-Actualidad). Adaptación televisiva de los cómics del abogado de día, Matt Murdock, y superhéroe de noche, Daredevil.",
+    "titulo": "Daredevil",
+    "tmdb": "61889"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8de75d0e651b2e62a49f"
+    },
+    "año": "2011",
+    "enlace": "http://pelisplus.co/serie/la-reina-del-sur/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vyf4SCbV6pifTZdKobDsclNDubk.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/la-reina-del-sur",
+      "https://www.pelisplus.to/serie/la-reina-del-sur",
+      "https://fanpelis.net/series/la-reina-del-sur"
+    ],
+    "sinopsis": "Serie de TV (2011). 63 episodios. La Reina del Sur es la adaptación televisiva del éxito literario del mismo nombre del autor español Arturo Pérez-Reverte. Es la crónica del ascenso al poder de una mujer mexicana dentro del mundo del tráfico de drogas internacional. Teresa Mendoza comienza su aventura como una joven humilde enamorada de un piloto empleado por los Carteles mexicanos. Cuando ejecutan a su hombre Teresa tendrá que huir desesperada para no correr la misma suerte. Su escape la llevará al sur de España donde intentará comenzar una nueva vida. Sin embargo una vez mas se verá mezclada en el mundo del tráfico de estupefacientes y por segunda vez sufrirá la muerte del hombre amado. Tras varios golpes Teresa decide tomar las riendas de su destino y comienza a dirigir su propia organización. Mediante alianzas estratégicas y un agudo sentido para los negocios Teresa Mendoza “La Mexicana” controlará un negocio de distribución de drogas intercontinental como nunca se había visto. Sin embargo tanto éxito viene acompañado de un alto precio personal en el que Teresa vera empeñada su felicidad y su corazón.",
+    "titulo": "La Reina del Sur",
+    "tmdb": "31586"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dea5d0e651b2e62a4a3"
+    },
+    "año": "2015",
+    "enlace": "http://pelisplus.co/serie/izombie/",
+    "genero": "Crimen Drama Terror ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xn3QM6aInhQp631K2lXpGFox2Kc.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/izombie",
+      "https://www.pelisplus.to/serie/izombie",
+      "https://fanpelis.net/series/izombie",
+      "https://miradetodo.co/series/izombie",
+      "https://seriesblanco.org/capitulos/izombie/"
+    ],
+    "sinopsis": "Gira en torno a una estudiante de medicina que se convierte en zombi y coge un trabajo de médico forense para tener acceso a los cerebros que debe comer para mantener su humanidad. Pero con cada cerebro que consume, hereda recuerdos del cadáver. De ahí que, con la ayuda de su jefe médico forense y un detective de policía, empiece a resolver casos de homicidio con el fin de callar las voces inquietantes de su cabeza.",
+    "titulo": "iZombie",
+    "tmdb": "60866"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dea1f6e4f34af6f70f8"
+    },
+    "año": "2014",
+    "enlace": "http://pelisplus.co/serie/gotham/",
+    "genero": "Crimen Drama Fantasía Suspense ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tSHzkJ1HBnyGdcpr6wSyw7jYnJ.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--gotham-hd--online-008",
+      "https://www.pelisplus.to/serie/gotham",
+      "https://miradetodo.co/series/gotham",
+      "https://fanpelis.net/series/gotham",
+      "https://seriesblanco.org/capitulos/gotham/"
+    ],
+    "sinopsis": "Precuela de los cómics de Batman, centrada en la adolescencia de Bruce Wayne. Definida por sus responsables como una especie de Smallville, desarrollará además la vida de Jim Gordon como policía, y la enlazará con el origen del mito de Batman y de otros villanos como El Pingüino.",
+    "titulo": "Gotham",
+    "tmdb": "60708"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8deb5d0e651b2e62a4a4"
+    },
+    "año": "2012",
+    "enlace": "http://pelisplus.co/serie/elementary/",
+    "genero": "Crimen Drama Misterio ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9dObe29W4bDpgzUfOOH3ZnzDbR.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/elementary",
+      "https://www.pelisplus.to/serie/elementary",
+      "https://fanpelis.net/series/elementary",
+      "https://seriesblanco.org/capitulos/elementary/"
+    ],
+    "sinopsis": "Serie de TV (2012-Actualidad). Adaptación contemporánea del clásico personaje de Conan Doyle pero que esta vez estará resolviendo casos en la ciudad de Nueva York. Por primera vez en la historia el personaje de Watson estará interpretado por una mujer: Lucy Liu.",
+    "titulo": "Elementary",
+    "tmdb": "1415"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8ded5d0e651b2e62a4a6"
+    },
+    "año": "2010",
+    "enlace": "http://pelisplus.co/serie/pretty-little-liars/",
+    "genero": "Drama Misterio ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUPbHiLS3hCHKjtLsncFa9g0viV.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/pequenas-mentirosas",
+      "https://www.pelisplus.to/serie/pretty-little-liars",
+      "https://fanpelis.net/series/pequenas-mentirosas"
+    ],
+    "sinopsis": "Serie de TV (2010-2017). 7 temporadas. 160 episodios. En la idílica población de Rosewood, cuatro amigas -Aria, Spencer, Hanna y Emily- se reúnen un año después de que la “líder” del grupo, Alison (Sasha Pieterse), haya desaparecido misteriosamente. Las cuatro tienen además algo en común y es que están recibiendo mensajes de un anónimo que conoce los secretos que sabía Alison. Todo comienza cuando el cuerpo de la joven aparece, pero el anónimo sigue enviando mensajes a las protagonistas.",
+    "titulo": "Pequeñas mentirosas",
+    "tmdb": "31917"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dee5d0e651b2e62a4a8"
+    },
+    "año": "2018/11/07",
+    "enlace": "http://pelisplus.co/serie/the-flash/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssgTtXFUlzlOt5QB5F0hHXL5uXj.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--the-flash-hd--online-008",
+      "https://www.pelisplus.to/serie/the-flash",
+      "https://miradetodo.co/series/the-flash-2014-actualidad",
+      "https://fanpelis.net/series/the-flash",
+      "https://seriesblanco.org/capitulos/the-flash/"
+    ],
+    "sinopsis": "Serie de TV (2014-Actualidad). Sigue las veloces aventuras de Barry Allen, un joven común y corriente con el deseo latente de ayudar a los demás. Cuando una inesperada partícula aceleradora golpea por accidente a Barry, de pronto se encuentra cargado de un increíble poder para moverse a increíbles velocidades. Mientras Barry siempre ha tenido el alma de un héroe, sus nuevos poderes le han dado la capacidad de actuar como tal. Spin-off de “Arrow”.",
+    "titulo": "The Flash",
+    "tmdb": "60735"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8def5d0e651b2e62a4a9"
+    },
+    "año": "2012",
+    "enlace": "http://pelisplus.co/serie/arrow/",
+    "genero": "Acción Aventura Ciencia ficción Crimen Drama Misterio ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo0FP1GxOFZT4UDde7RFDz5APXF.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--arrow-hd--online-007",
+      "https://www.pelisplus.to/serie/arrow",
+      "https://miradetodo.co/series/arrow",
+      "https://fanpelis.net/series/arrow",
+      "https://seriesblanco.org/capitulos/arrow/"
+    ],
+    "sinopsis": "Serie de TV (2012-Actualidad). Adaptación libre de un personaje de DC Comics, playboy de día, que, durante la noche, usa su arco y sus flechas contra el crimen. Tras haber desaparecido y haber sido dado por muerto en un violento naufragio, el multimillonario playboy Oliver Queen es rescatado con vida cinco años después en una isla del Pacífico. Una vez en casa, su madre, su hermana y su mejor amigo notan que la terrible experiencia sufrida lo ha cambiado profundamente. Él, por su parte, trata de ocultar la verdad sobre sí mismo, pero se propone enmendar los errores que cometió en el pasado. Con la ayuda de su fiel chófer y guardaespaldas, vuelve a su antigua vida de mujeriego despreocupado, pero, en secreto, crea el personaje de un justiciero encapuchado que lucha contra el mal.",
+    "titulo": "Arrow",
+    "tmdb": "1412"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8df35d0e651b2e62a4ac"
+    },
+    "año": "2018/11/13",
+    "enlace": "http://pelisplus.co/serie/the-walking-dead/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxuoMW6YBt6UsxvMfRNwRl9LtWS.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver-the-walking-dead-online",
+      "https://www.pelisplus.to/serie/the-walking-dead",
+      "https://miradetodo.co/series/the-walking-dead",
+      "https://fanpelis.net/series/the-walking-dead",
+      "https://seriesblanco.org/capitulos/the-walking-dead/"
+    ],
+    "sinopsis": "Tras un apocalipsis zombie, un grupo de supervivientes, dirigidos por el policía Rick Grimes, recorre los Estados Unidos para ponerse a salvo. Aunque el leit motiv de la serie -cuyo episodio piloto fue dirigido y escrito por Frank Darabont- sea el apocalipsis zombie, la narración se centra más en las relaciones entre los personajes, su evolución y comportamiento en las situaciones críticas. Entre ellos destaca el ayudante del sheriff de un pueblo de Georgia que entró en coma durante la catástrofe.",
+    "titulo": "The Walking Dead",
+    "tmdb": "1402"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8df45d0e651b2e62a4af"
+    },
+    "año": "2005",
+    "enlace": "http://pelisplus.co/serie/prison-break/",
+    "genero": "Crimen Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnmNPaLvhnMeOqnWlhNkYCZxtda.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--prison-break-online",
+      "https://www.pelisplus.to/serie/prison-break",
+      "https://miradetodo.co/series/prison-break",
+      "https://fanpelis.net/series/prison-break",
+      "https://seriesblanco.org/capitulos/prison-break/"
+    ],
+    "sinopsis": "Serie de TV (2005-2009). 5 temporadas. 90 episodios. Michael Scofield (Wentworth Miller) es un hombre desesperado en un situación desesperada. Su hermano Lincoln Burrows (Dominic Purcell), condenado a la pena capital está a la espera de ser ejecutado. A pesar de todas las evidencias, Michael cree en su inocencia, por lo que decide robar un banco para dejarse atrapar y ser encarcelado en la misma prisión que su hermano. Su objetivo: escapar juntos",
+    "titulo": "Prison Break",
+    "tmdb": "2288"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8df71f6e4f34af6f7105"
+    },
+    "año": "2017",
+    "enlace": "http://pelisplus.co/serie/13-reasons-why/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeJPtZlChYGoCVmvYIrjAeQII7R.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/por-trece-razones",
+      "https://miradetodo.co/series/por-trece-razones",
+      "https://fanpelis.net/series/por-trece-razones",
+      "https://seriesblanco.org/capitulos/por-trece-razones/",
+      "https://www.pelisplay.tv/serie/ver-por-13-razones-online"
+    ],
+    "sinopsis": "El adolescente Clay Jensen (Dylan Minnette) vuelve un día a casa después del colegio y encuentra una misteriosa caja con su nombre. Dentro descubre una cinta grabada por Hannah Baker (Katherine Langford), una compañera de clase por la que sentía algo especial y que se suicidó tan solo dos semanas atrás. En la cinta, Hannah cuenta que hay trece razones por las que ha decidido quitarse la vida. ¿Será Clay una de ellas? Si lo escucha, tendrá oportunidad de conocer cada motivo de su lista.",
+    "titulo": "Por trece razones",
+    "tmdb": "66788"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8df81f6e4f34af6f7107"
+    },
+    "año": "2018/11/07",
+    "enlace": "http://pelisplus.co/serie/riverdale/",
+    "genero": "Drama Misterio ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TsbOTztAJtzTRXAhoLsX9a83XX.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--riverdale-hd--online-008",
+      "https://www.pelisplus.to/serie/riverdale",
+      "https://fanpelis.net/series/riverdale",
+      "https://seriesblanco.org/capitulos/riverdale/"
+    ],
+    "sinopsis": "Al mismo tiempo que un nuevo año escolar da comienzo, la ciudad de Riverdale aún está reponiéndose de la trágica muerte reciente de Jason Blossom. Por otro lado, durante el verano Archie Andrews (K.J. Apa) se ha dado cuenta de que quiere ser músico. Además a Archie aún le pesa haber roto su amistad con Jughead Jones (Cole Sprouse). Mientras tanto, Betty Cooper (Lili Reinhart) está ansiosa de ver a Archie, de quien está enamorada, pero aún no está lista para revelarle sus sentimientos. Cuando una nueva estudiante, Veronica Lodge (Camila Mendes), llega a Riverdale desde Nueva York junto a su madre, nace la chispa entre ella y Archie. Pero Veronica no quiere poner su nueva amistad con Betty en riesgo. Cheryl Blossom (Madelaine Petsch), la chica más popular de Riverdale, es feliz removiento las situaciones alrededor de Archie, Betty y Veronica para causar problemas. Pero Cheryl es una chica que guarda muchos secretos.",
+    "titulo": "Riverdale",
+    "tmdb": "69050"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8df85d0e651b2e62a4b1"
+    },
+    "año": "2010",
+    "enlace": "http://pelisplus.co/serie/sherlock/",
+    "genero": "Crimen Drama Misterio ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9zGxLHGyQB10cMDZNY5ZcGKhZi.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/sherlock",
+      "https://miradetodo.co/series/sherlock",
+      "https://fanpelis.net/series/sherlock",
+      "https://seriesblanco.org/capitulos/sherlock/"
+    ],
+    "sinopsis": "Serie de TV (2010-Actualidad). Moderna actualización del mito de Sherlock Holmes, ambientado en el Londres del siglo XXI. Sus insuperables habilidades de deducción y su arrogante distanciamiento emocional le convierten en el perfecto detective junto a su inseparable compañero John Watson.",
+    "titulo": "Sherlock",
+    "tmdb": "19885"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dfa1f6e4f34af6f710b"
+    },
+    "año": "2014",
+    "enlace": "http://pelisplus.co/serie/the-leftovers/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRSb3uOPxTjujx8azOGHl2H7Q3Z.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver-the-leftovers-hd-online",
+      "https://www.pelisplus.to/serie/the-leftovers",
+      "https://fanpelis.net/series/the-leftovers",
+      "https://seriesblanco.org/capitulos/the-leftovers/"
+    ],
+    "sinopsis": "TV Series (2014-2017). 3 Temporadas. Cuando el 2% de la población mundial desaparece de forma literal y abrupta, sin explicación alguna, quedando sólo sus ropas en el sitio en el que sus cuerpos se evaporaron, el resto de la población de la Tierra comienza a intentar comprender lo que ha pasado, y sobre todo lo que se supone que deben hacer al respecto. Uno de estas personas es el jefe de la policía de un pequeño suburbio de Nueva York, padre de dos hijos, que trata de mantener cierta apariencia de normalidad.",
+    "titulo": "The Leftovers",
+    "tmdb": "54344"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dfb5d0e651b2e62a4b5"
+    },
+    "año": "2014",
+    "enlace": "http://pelisplus.co/serie/abierto-hasta-el-amanecer/",
+    "genero": "Crimen ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5cxz2i5926aQQ35aW8Mo7Ka7yH.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/abierto-hasta-el-amanecer-serie",
+      "https://www.pelisplus.to/serie/abierto-hasta-el-amanecer",
+      "https://fanpelis.net/series/abierto-hasta-el-amanecer-serie"
+    ],
+    "sinopsis": "Serie de TV (2014-Actualidad). Inspirada en personajes de la película homónima de Tarantino, la serie se centra en un Ranger de Texas que está constante búsqueda de los infames hermanos Gecko.",
+    "titulo": "Abierto hasta el amanecer: Serie",
+    "tmdb": "60626"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dfd5d0e651b2e62a4b6"
+    },
+    "año": "2013",
+    "enlace": "http://pelisplus.co/serie/house-of-cards/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AquMx9MoJZTaZIR2AokSDATFCt.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--house-of-cards-netflix-hd-online",
+      "https://www.pelisplus.to/serie/house-of-cards",
+      "https://miradetodo.co/series/house-of-cards",
+      "https://fanpelis.net/series/house-of-cards",
+      "https://seriesblanco.org/capitulos/house-of-cards/"
+    ],
+    "sinopsis": "Ruthless and cunning, Congressman Francis Underwood (Kevin Spacey) and his ambitious wife Claire (Robin Wright) stop at nothing to conquer everything. This wicked political drama penetrates the shadowy world of greed, sex, and corruption in modern D.C.",
+    "titulo": "House of Cards",
+    "tmdb": "1425"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dfd5d0e651b2e62a4b7"
+    },
+    "año": "2015",
+    "enlace": "http://pelisplus.co/serie/agente-carter/",
+    "genero": "Acción Aventura ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQWBExOnHrGVsjkpWczJjo6bhZy.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/agente-carter",
+      "https://www.pelisplus.to/serie/marvels-agent-carter",
+      "https://miradetodo.co/series/marvels-agent-carter",
+      "https://fanpelis.net/series/marvels-agent-carter",
+      "https://seriesblanco.org/capitulos/agent-carter/"
+    ],
+    "sinopsis": "Serie de TV (2015-2016). 2 temporadas. 18 episodios. En 1946, Peggy Carter debe equilibrar su rutinario trabajo de oficina que hace para la Reserva Científica Estratégico con ayudar secretamente a Howard Stark, que se ha visto involucrado en una trama de suministro de armas letales para el mejor postor.",
+    "titulo": "Marvel’s Agent Carter",
+    "tmdb": "61550"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dfe5d0e651b2e62a4b8"
+    },
+    "año": "2005",
+    "enlace": "http://pelisplus.co/serie/roma/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1A1BwgWO3Sw379VEhR0vkTuE3XW.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/roma",
+      "https://www.pelisplus.to/serie/rome",
+      "https://miradetodo.co/series/roma",
+      "https://fanpelis.net/series/roma",
+      "https://seriesblanco.org/capitulos/roma/"
+    ],
+    "sinopsis": "Serie de TV (2005-2007). 2 temporadas. 22 capítulos. Medio siglo antes del nacimiento de Cristo, Roma se ha convertido en la ciudad más poderosa del mundo, una metrópolis cosmopolita con un millón de personas y epicentro de un Imperio en extensión. Fundada sobre los principios del poder compartido y la feroz competencia personal, la República fue creada para impedir a cualquier hombre conseguir un poder absoluto. Es una sociedad donde los soldados pueden ascender por encima de los plebeyos para convertirse en héroes y aún en líderes de la República. Pero cuando la clase dirigente se hizo extravagante y rica, las instituciones se desmoronaron desgastadas por la corrupción y el exceso, y los viejos valores de disciplina espartana y unidad social cedieron ante un gran abismo entre clases.",
+    "titulo": "Roma",
+    "tmdb": "1891"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dfe5d0e651b2e62a4ba"
+    },
+    "año": "2014",
+    "enlace": "http://pelisplus.co/serie/helix/",
+    "genero": "Drama Suspense ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNSrvyKdErgwIY2emb84PECMDtU.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/helix",
+      "https://www.pelisplus.to/serie/helix",
+      "https://fanpelis.net/series/helix"
+    ],
+    "sinopsis": "Serie de TV (2014-2015). 2 temporadas. Un grupo de científicos del Centro de Control de Enfermedades se desplazan a una base de investigación de alta tecnología en el Ártico para investigar lo que parece un brote de una enfermedad. Por supuesto, enseguida acaban envueltos en algo mucho más serio y que tiene el potencial de acabar con toda la raza humana.",
+    "titulo": "Helix",
+    "tmdb": "58811"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8dff1f6e4f34af6f710f"
+    },
+    "año": "2013",
+    "enlace": "http://pelisplus.co/serie/the-originals/",
+    "genero": "Drama Misterio ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/EH9i14tYCUgq1LjrLNUVZlRB0i.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/los-originales",
+      "https://www.pelisplus.to/serie/the-originals",
+      "https://fanpelis.net/series/los-originales",
+      "https://seriesblanco.org/capitulos/los-originales/"
+    ],
+    "sinopsis": "Serie de TV. Se concentra sobre Klaus (Joseph Morgan) y los originales de “Crónicas vampíricas” (serie de TV de la cual es un spin-off). Klaus regresa a New Orleans y se reencuentra con su diabólico y antiguo protegido Marcel. En tanto, Camille, una estudiante de psicología, despierta el interés de Klaus.",
+    "titulo": "Los originales",
+    "tmdb": "46896"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e005d0e651b2e62a4be"
+    },
+    "año": "2014",
+    "enlace": "http://pelisplus.co/serie/los-100/",
+    "genero": "Drama ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zW1k1QYYUXxPBqQigxk4ynbcTYD.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--los-100-hd--online-003",
+      "https://www.pelisplus.to/serie/the-100",
+      "https://miradetodo.co/series/los-100",
+      "https://fanpelis.net/series/los-100",
+      "https://seriesblanco.org/capitulos/los-100/"
+    ],
+    "sinopsis": "Serie de TV (2014-Actualidad). 4 temporadas. 48 episodios. Situada 97 años después de una guerra nuclear que ha destruido la civilización, los supervivientes de una nave espacial, que han sobrevivido durante tres generaciones en el espacio, envían 100 delincuentes juveniles “para testear” las condiciones de la Tierra, con la esperanza de eventualmente volver a poblar el planeta. El grupo de jóvenes tratará de sobrevivir en un entorno desconocido y hostil a pesar de las brechas que se abren entre ellos, unos partidarios de seguir en conexión con la nave, otros a favor de empezar de cero sin depender de nadie. Mientras, en la nave, las luchas por el poder político se recrudecen, llevando a los dirigentes a situaciones extremas y difíciles decisiones.",
+    "titulo": "Los 100",
+    "tmdb": "48866"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e011f6e4f34af6f7110"
+    },
+    "año": "2016",
+    "enlace": "http://pelisplus.co/serie/van-helsing/",
+    "genero": "Uncategorized ",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KlTzAgqintzkaqvuGS99yjMmhu.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/van-helsing",
+      "https://www.pelisplus.to/serie/van-helsing",
+      "https://miradetodo.co/series/van-helsing",
+      "https://fanpelis.net/series/van-helsing",
+      "https://seriesblanco.org/capitulos/van-helsing/"
+    ],
+    "sinopsis": "Van Helsing Vanessa Helsing, pariente lejano del famoso cazador de vampiros Abraham Van Helsing, es resucitado sólo para descubrir que los vampiros se han apoderado del mundo. Ella es la última esperanza de la humanidad para dirigir una ofensiva para recuperar lo que se ha perdido.",
+    "titulo": "Van Helsing",
+    "tmdb": "65820"
+  },
+  {
+    "_id": {
+      "$oid": "5bca8e185d0e651b2e62a4e8"
+    },
+    "año": "2018/09/30",
+    "enlace": "http://pelisplus.co/serie/familia-moderna/",
+    "genero": "Drama Comedia",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgDITewtjEMIb5gq3SeOjumeyDu.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver-modern-family-hd-online",
+      "https://seriesblanco.org/capitulos/modern-family/"
+    ],
+    "sinopsis": "Narrada desde la perspectiva de un cineasta de documental que nunca es visto, la serie ofrece un panorama honesto y divertido, con frecuencia sobre la vida de una familia. Los padres Phil y Claire anhelan una relación honesta y abierta con sus tres hijos, pero es un gran desafío debido a sus personalidades, una adolescente que trata de crecer demasiado rápido, la otra que es demasiado inteligente para su propio bien y el hijo menor bullicioso. Jay y su esposa Gloria, quien es mucho menor que él, están criando al hijo de ella juntos pero la gente frecuentemente se equivoca al confundirlo con el padre de su esposa. Mientras tanto, la pareja Mitchell y Cameron ha adoptado una niña de Vietnam, esto genera retos diversos.",
+    "titulo": "Modern Family",
+    "tmdb": "1421"
+  },
+  {
+    "_id": {
+      "$oid": "5bca96fb5d0e651b2e62af20"
+    },
+    "año": "2018/10/03",
+    "enlace": "http://pelisplus.co/serie/los-simpsons/",
+    "genero": "Comedia Animación",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tptIMKRPHPEnnlzSgzvJIF1Rguk.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/the-simpsons",
+      "https://miradetodo.co/series/los-simpson",
+      "https://fanpelis.net/series/los-simpson",
+      "https://seriesblanco.org/capitulos/los-simpsons/"
+    ],
+    "sinopsis": "Serie de televisión de 551 episodios, lanzada en 1989con vigencia hasta la actualidad. Es emitida por la Cadena Fox desde 1989. Narra la historia de una peculiar familia (Homer, Marge, Bart, Maggie y Lisa Simpson) y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de 10 años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.",
+    "titulo": "Los Simpsons",
+    "tmdb": "456"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9b4d1f6e4f34af6f8304"
+    },
+    "año": "2018/10/16",
+    "enlace": "http://pelisplus.co/serie/la-maldicion-de-hill-house/",
+    "genero": "Terror",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWPZb800NCGiDPNGsKCfY0w44Z2.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--la-maldicion-de-hill-house-hd-online",
+      "https://www.pelisplus.to/serie/la-maldicion-de-hill-house",
+      "https://seriesblanco.org/capitulos/la-maldicion-de-hill-house/",
+      "https://fanpelis.net/series/the-haunting-of-hill-house"
+    ],
+    "sinopsis": "Con flashes del pasado y del presente, una familia rota enfrenta los tormentosos recuerdos de su viejo hogar y el terror que la hizo alejarse de allí.",
+    "titulo": "La Maldición de Hill House",
+    "tmdb": "72844"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9bbd5d0e651b2e62b35c"
+    },
+    "año": "2018/10/04",
+    "enlace": "http://pelisplus.co/serie/sr-avila/",
+    "genero": "Drama Crimen Acción",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c96CSUzevDVFHxbsReMSJKvzKmO.jpg",
+    "servidores": [
+      "https://fanpelis.net/series/sr-avila",
+      "https://seriesblanco.org/capitulos/sr-avila/"
+    ],
+    "sinopsis": "Sr. Ávila narra la historia de un hombre de clase media, vendedor de seguros de vida, esposo y padre, que oculta una doble vida como asesino a sueldo dentro de una organización criminal. La vida de Ávila no es, en apariencia, muy distinta a la de cualquier otro ciudadano de una gran ciudad; sin embargo, levantar esta fachada de normalidad no ha sido tarea fácil, y mas difícil aún será mantenerla. Ávila escalará posiciones dentro de la organización y se convertirá en el Sr. del negocio.",
+    "titulo": "Sr. Ávila",
+    "tmdb": "64969"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f837c"
+    },
+    "año": "2018/09/30",
+    "enlace": "http://pelisplus.co/serie/outcast/",
+    "genero": "Terror",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6ZCpAPDTAHuNxBGq5nU4nqpfYA.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--outcast-hd--online",
+      "https://www.pelisplus.to/serie/outcast",
+      "https://miradetodo.co/series/outcast",
+      "https://fanpelis.net/series/outcast",
+      "https://seriesblanco.org/capitulos/outcast/"
+    ],
+    "sinopsis": "Narra la historia de Kyle Barnes, un hombre cuyos seres queridos son víctimas de posesiones demoníacas desde su niñez. Cuando Barnes alcanza la edad adulta, intenta descubrir lo que se oculta detrás de estas manifestaciones sobrenaturales. Junto al Reverendo Anderson, Kyle buscará una explicación a estos numerosos enigmas entre los que también se encuentra una serie de peculiaridades y capacidades especiales que parece llevar consigo. Los problemas aparecen cuando se descubre que las respuestas a estos enigmas podría acarrear el fin del mundo.",
+    "titulo": "Outcast",
+    "tmdb": "64394"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f837d"
+    },
+    "año": "2018/11/08",
+    "enlace": "http://pelisplus.co/serie/el-mundo-oculto-de-sabrina/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/758TBPSsOWwHgHhUdnq4JsWdj7u.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--el-mundo-oscuro-de-sabrina-netflix-hd--online-001",
+      "https://www.pelisplus.to/serie/las-escalofriantes-aventuras-de-sabrina",
+      "https://fanpelis.net/series/chilling-adventures-of-sabrina",
+      "https://seriesblanco.org/capitulos/las-escalofriantes-aventuras-de-sabrina/"
+    ],
+    "sinopsis": "La magia y las travesuras marcan el rumbo de Sabrina, una adolescente de doble naturaleza que se debate entre el mundo de los mortales y el que se oculta debajo.",
+    "titulo": "El Mundo Oculto de Sabrina",
+    "tmdb": "79242"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f837e"
+    },
+    "año": "2018/11/08",
+    "enlace": "http://pelisplus.co/serie/capos-de-la-droga/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/20Q4cpEKVbPdh6vxtYC8mrYm1B9.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/senores-de-la-droga",
+      "https://fanpelis.net/series/drug-lords",
+      "https://seriesblanco.org/capitulos/drug-lords/"
+    ],
+    "sinopsis": "Serie documental que examina cárteles de la droga y jefes de todo el mundo. Mira las historias de los capos más famosos, sus crueles secuaces, y los hombres y las mujeres que juraron capturarlos.",
+    "titulo": "Capos de la Droga",
+    "tmdb": "76498"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f838e"
+    },
+    "año": "2018/12/07",
+    "enlace": "http://pelisplus.co/serie/lo-que-vi/",
+    "genero": "Terror Horror",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mU5t98LGCkfeVEgW5cE4GoeoCHc.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/lo-que-vi-haunted",
+      "https://seriesblanco.org/capitulos/lo-que-vi-haunted/",
+      "https://fanpelis.net/series/hounted"
+    ],
+    "sinopsis": "Vivieron un pasado aterrador y ahora están listos para contárselo a familiares y amigos con la ayuda de dramatizaciones espeluznantes.",
+    "titulo": "Haunted",
+    "tmdb": "83247"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f839e"
+    },
+    "año": "2018/12/07",
+    "enlace": "http://pelisplus.co/serie/tell-me-a-story/",
+    "genero": "Terror Horror",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHSM15QeUa9aZhA5eafFbgdqPY1.jpg",
+    "servidores": [
+      "https://seriesblanco.org/capitulos/tell-me-a-story/"
+    ],
+    "sinopsis": "Cuéntame una historia toma los cuentos de hadas más queridos del mundo y los vuelve a imaginar como un thriller psicológico oscuro y retorcido. Ambientada en la moderna ciudad de Nueva York, la primera temporada de este drama serializado entrelaza Los Tres Chanchitos, La Caperucita Roja, y Hansel y Gretel en una historia épica y subversiva de amor, pérdida, avaricia, venganza y asesinato.",
+    "titulo": "Tell Me a Story",
+    "tmdb": "81747"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f840e"
+    },
+    "año": "2018/12/07",
+    "enlace": "http://pelisplus.co/serie/big-mouth/",
+    "genero": "Animación",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAhi7qhLokCyRO4KFFG4gQKAIO5.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/big-mouth",
+      "https://www.pelisplus.to/serie/big-mouth",
+      "https://fanpelis.net/series/big-mouth",
+      "https://seriesblanco.org/capitulos/big-mouth/"
+    ],
+    "sinopsis": "El programa gira en torno a dos amigos, Nick (versión ficticia de Kroll) y Andrew (versión ficticia de Goldberg) quienes protagonizan la serie, junto con sus amistades Jessi, Jay y Missy, que acompañan a los personajes principales en los distintos episodios de la trama. La historia se basa en las vivencias reales que tuvieron sus creadores durante las etapas de la pubertad y la adolescencia. Los cambios corporales, de pensamiento o de estado de ánimo son interpretados por los llamados Monstruos Hormonales.",
+    "titulo": "Big Mouth",
+    "tmdb": "74204"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f841e"
+    },
+    "año": "2018/12/09",
+    "enlace": "http://pelisplus.co/serie/run-coyote-run/",
+    "genero": "Comedia Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b74JpX104hoq31Ml0QBgZtTvFPb.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/run-coyote-run",
+      "https://fanpelis.net/series/run-coyote-run",
+      "https://seriesblanco.org/capitulos/run-coyote-run/"
+    ],
+    "sinopsis": "Run Coyote Run Series de Comedia y Accion, Gamaliel y Morris son mejores amigos desde la infancia: un mexicano y un estadounidense que deciden unir fuerzas para crear la corporación Run Coyote Run, una agencia de viajes de aventuras turísticas, especializada en cumplir el sueño americano de aquellos que les cuesta conseguir una visa para Estados Unidos.",
+    "titulo": "Run Coyote Run",
+    "tmdb": "71731"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f842e"
+    },
+    "año": "2018/12/09",
+    "enlace": "http://pelisplus.co/serie/mayans-m-c/",
+    "genero": "Drama Crimen",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8PYGJ7TGjtMxwPA5Mhwa9svTRJ.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/mayans-mc",
+      "https://miradetodo.co/series/mayans-mc",
+      "https://seriesblanco.org/capitulos/mayans-mc/"
+    ],
+    "sinopsis": "Ambientada después de Sons of Anarchy, Mayans MC se enfoca en las luchas de Ezekiel EZ Reyes, un prospecto en la carta de MC Maya en la frontera de California / México. EZ es el hijo dotado de una orgullosa familia latina, cuyo sueño americano fue sofocado por la violencia del cártel. Ahora, su necesidad de venganza lo conduce hacia una vida que nunca tuvo la intención y de la que nunca podrá escapar.",
+    "titulo": "Mayans M.C.",
+    "tmdb": "76231"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f843e"
+    },
+    "año": "2018/12/09",
+    "enlace": "http://pelisplus.co/serie/the-purge/",
+    "genero": "Crimen Accion Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVpsXgmsFAjrDPG6BeE2SU647WA.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/the-purge",
+      "https://www.pelisplus.to/serie/the-purge",
+      "https://miradetodo.co/series/the-purge",
+      "https://fanpelis.net/series/the-purge",
+      "https://seriesblanco.org/capitulos/the-purge-la-purga/"
+    ],
+    "sinopsis": "Ambientada en una América distópica gobernada por un partido político totalitario, la serie sigue a varios personajes aparentemente sin relación que viven en una ciudad pequeña. Atarlos a todos juntos es un salvador misterioso que está impecablemente equipado para todo lo que la noche les arroja. A medida que el reloj se detiene con sus destinos pendientes, cada personaje se ve obligado a contar sus pasados ​​a medida que descubren qué tan lejos llegarán para sobrevivir a la noche.",
+    "titulo": "The Purge",
+    "tmdb": "80213"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f844e"
+    },
+    "año": "2018/12/12",
+    "enlace": "http://pelisplus.co/serie/marvels-spider-man/",
+    "genero": "Animación familiar",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKdcyyHUR5WTMnrbPdYN5y9xPVp.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/marvels-spider-man"
+    ],
+    "sinopsis": "Un adolescente inseguro pero valiente e inteligente llamado Peter Parker, un nuevo estudiante de Midtown High, es mordido por una araña radiactiva y se le otorgan poderes. Se convierte en un héroe llamado Spider-Man después de la muerte de su tío y debe adaptarse a esta nueva forma de vida.",
+    "titulo": "Marvel's Spider-Man",
+    "tmdb": "72705"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f845e"
+    },
+    "año": "2018/12/12",
+    "enlace": "http://pelisplus.co/serie/the-good-doctor/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1K4mJwISETia59rrnMdXxzoSrZ.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--the-good-doctor-hd--online-007",
+      "https://www.pelisplus.to/serie/the-good-doctor",
+      "https://miradetodo.co/series/the-good-doctor",
+      "https://seriesblanco.org/capitulos/the-good-doctor/"
+    ],
+    "sinopsis": "Un joven cirujano con síndrome de Asperger es reclutado en la unidad quirúrgica pediátrica de un prestigioso hospital de Boston . La pregunta se plantea: ¿puede una persona que no tiene la capacidad de relacionarse con la gente realmente salvar sus vidas?. Pero al poner su increíble don al servicio de sus pacientes , despierta la admiración de muchos.",
+    "titulo": "The Good Doctor",
+    "tmdb": "71712"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f846e"
+    },
+    "año": "2018/12/12",
+    "enlace": "http://pelisplus.co/serie/el-chapo/",
+    "genero": "Drama crimen Accion",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ClXk4PoOGmkk676y4q6T26GJOb.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--el-chapo-hd--online-001",
+      "https://www.pelisplus.to/serie/el-chapo",
+      "https://fanpelis.net/series/el-chapo",
+      "https://seriesblanco.org/capitulos/el-chapo/"
+    ],
+    "sinopsis": "Una mirada a la vida del capo de la droga notorio, El Chapo, desde sus primeros días en la década de 1980 que trabajan para el Cártel de Guadalajara, a su llegada al poder de durante los años 90 y su caída final en 2016.",
+    "titulo": "El Chapo",
+    "tmdb": "71411"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f847e"
+    },
+    "año": "2018/12/12",
+    "enlace": "http://pelisplus.co/serie/chicago-med/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsrDUKxchCslwZQYIwdj8bRaoUo.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/chicago-med",
+      "https://seriesblanco.org/capitulos/chicago-med/"
+    ],
+    "sinopsis": "Chicago Med es la tercera serie en la franquicia de Chicago de Dick Wolf. Se centra en el servicio de urgencias en Gaffney Chicago Medical Center, de sus médicos y enfermeras que trabajan para salvar la vida del paciente. A veces se entrelaza con los personajes de Chicago Fire y Chicago P.D.",
+    "titulo": "Chicago Med",
+    "tmdb": "62650"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f848e"
+    },
+    "año": "2018/12/12",
+    "enlace": "http://pelisplus.co/serie/chicago-pd/",
+    "genero": "Drama Accion Crimen",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGlkRhgVg1zBdxKqj3Q9tYhyA9p.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/chicago-pd",
+      "https://seriesblanco.org/capitulos/chicago-p-d/"
+    ],
+    "sinopsis": "Chicago P.D. es una serie americana que narra el día a día de un grupo de policías de la Unidad de Inteligencia Criminal asignada al Distrito 21 del Departamento de Policía de Chicago. En esta ficción pueden verse casos cotidianos a los que se tienen que enfrentar cada día los protagonistas como el tráfico de drogas, el crimen organizado o asesinos a sueldo.",
+    "titulo": "Chicago PD",
+    "tmdb": "58841"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f849e"
+    },
+    "año": "2018/12/12",
+    "enlace": "http://pelisplus.co/serie/chicago-fire/",
+    "genero": "Drama Accion",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCE53sNn8c4h3layvYBfPSA5c2M.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/chicago-fire",
+      "https://www.pelisplus.to/serie/chicago-fire",
+      "https://seriesblanco.org/capitulos/chicago-fire/"
+    ],
+    "sinopsis": "El espectáculo explora las vidas, tanto profesional como personal, de los bomberos y los paramédicos de Chicago en la estación 51 que cuenta con el camion 81, la brigada de rescate 3, y la Ambulancia 61. Después de la muerte de Bombero Andy Darden, la lealtad se fractura y se divide como el Teniente Matthew Casey, teniente del Camión 81, y el Teniente Kelly Severide, teniente del equipo de rescate 3, ambos se culpan de la muerte de su compañero.",
+    "titulo": "Chicago Fire",
+    "tmdb": "44006"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f850e"
+    },
+    "año": "2018/12/13",
+    "enlace": "http://pelisplus.co/serie/la-casa-de-papel/",
+    "genero": "Drama Accion",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9lUN5ym61aJK4fJAOnNYNhabte.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--la-casa-de-papel-hd-online",
+      "https://www.pelisplus.to/serie/la-casa-de-papel",
+      "https://miradetodo.co/series/la-casa-de-papel",
+      "https://fanpelis.net/series/la-casa-de-papel",
+      "https://seriesblanco.org/capitulos/la-casa-de-papel/"
+    ],
+    "sinopsis": "La serie empieza con el atraco de la Fábrica Nacional de Moneda y Timbre, todo el atraco está planeado por El Profesor (Álvaro Morte) con una ejecución perfecta de los atracadores Tokio (Úrsula Corberó), Nairobi (Alba Flores), Río (Miguel Herrán), Moscú (Paco Tous), Berlín (Pedro Alonso), Denver (Jaime Lorente), Helsinki (Darko Peric) y Oslo (Roberto García). El atraco sucederá durante 5 días en la fábrica pero no estarán solos en ella, habrá rehenes, los propios trabajadores de la fábrica junto a los estudiantes del Colegio Británico que estaban de excursión. Los asaltantes pretenden ganarse el favor de la opinión pública para poder escapar.",
+    "titulo": "La Casa de Papel",
+    "tmdb": "71446"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f851e"
+    },
+    "año": "2018/12/14",
+    "enlace": "http://pelisplus.co/serie/nicky-jam-el-ganador/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2k78NzbfOuSeJYSSV7RmYBlgiOc.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/nicky-jam-el-ganador",
+      "https://www.pelisplus.to/serie/nicky-jam-el-ganador",
+      "https://fanpelis.net/series/nicky-jam-el-ganador",
+      "https://seriesblanco.org/capitulos/nicky-jam-el-ganador/"
+    ],
+    "sinopsis": "Nicky Jam, estrella del reggaeton, comparte su lucha para salir de las drogas y su camino al éxito internacional en esta serie basada en su historia. Esta historia representa la imperfección de un artista admirado por muchos en el presente y que pudo darle vuelta al pasado, al que agradece haber hecho de él lo que es hoy.",
+    "titulo": "Nicky Jam: El Ganador",
+    "tmdb": "84452"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f852e"
+    },
+    "año": "2018/12/14",
+    "enlace": "http://pelisplus.co/serie/elite/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w81eLVq1pBpztPrJq0RowqNDhLk.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--elite-hd--online-003",
+      "https://www.pelisplus.to/serie/elite",
+      "https://seriesblanco.org/capitulos/elite/"
+    ],
+    "sinopsis": "Las Encinas es el colegio más exclusivo del país y al que la élite envía a sus hijos a estudiar. Un mundo privilegiado con fiestas de alta sociedad, niños ricos, sexo y drogas. En él acaban de ser admitidos tres chicos de clase obrera después de que un terremoto destruyera el colegio público y sus alumnos tuvieran que ser repartidos por otros institutos de la zona. El choque entre los que lo tienen todo y los que no tienen nada que perder crea una tormenta perfecta que acaba en un asesinato. ¿Quién ha cometido el crimen?",
+    "titulo": "Élite",
+    "tmdb": "76669"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f853e"
+    },
+    "año": "2018/12/14",
+    "enlace": "http://pelisplus.co/serie/supernatural/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iFm6Kz7iYoFaEcj4fLyZHAmTQA.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--sobrenatural-hd--online-007",
+      "https://www.pelisplus.to/serie/supernatural",
+      "https://seriesblanco.org/capitulos/supernatural/"
+    ],
+    "sinopsis": "Cuando eran niños, Sam y Dean Winchester, perdieron a su madre debido a una misteriosa y demoníaca fuerza supernatural. Posteriormente, su padre los crió para que fueran soldados. Él les enseño sobre el mal que vive en los rincones obscuros y en las carreteras secundarias de América... y también les enseñó como matarlo. Ahora los hermanos Winchester recorren el país en su Chevy Impala del '67, luchando contra todo tipo de amenaza sobrenatural que encuentran en el camino.",
+    "titulo": "Supernatural",
+    "tmdb": "1622"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f854e"
+    },
+    "año": "2018/12/16",
+    "enlace": "http://pelisplus.co/serie/iron-fist/",
+    "genero": "Accion",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywrvjIgK5K9Ff8RddgdFI3kfDqT.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/marvels-iron-fist",
+      "https://miradetodo.co/series/marvels-iron-fist",
+      "https://fanpelis.net/series/marvel-iron-fist",
+      "https://seriesblanco.org/capitulos/iron-fist/"
+    ],
+    "sinopsis": "El multimillonario Danny Rand (Finn Jones) regresa a Nueva York, tras haber estado desaparecido durante años tratando de reconectar con su pasado y su legado familiar. Sus conocimientos de kung-fu y su puño de hierro permitirán que Rand vuelva para controlar el crimen de la ciudad.",
+    "titulo": "Iron Fist",
+    "tmdb": "62127"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f855e"
+    },
+    "año": "2018/12/16",
+    "enlace": "http://pelisplus.co/serie/jessica-jones/",
+    "genero": "Accion",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SI8d4mTDQ9Gz8udlv1ZhlYEY6B.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver-jessica-jones-online",
+      "https://www.pelisplus.to/serie/jessica-jones",
+      "https://fanpelis.net/series/marvel-jessica-jones",
+      "https://seriesblanco.org/capitulos/jessica-jones/"
+    ],
+    "sinopsis": "Tras el trágico final de su breve carrera de superhéroe, Jessica Jones intenta reconstruir su vida como investigadora privada , tratando casos que involucran personas con habilidades extraordinarias en la ciudad de Nueva York .",
+    "titulo": "Jessica Jones",
+    "tmdb": "38472"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f856e"
+    },
+    "año": "2018/12/16",
+    "enlace": "http://pelisplus.co/serie/padre-de-familia/",
+    "genero": "Animación",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3E71oY6qgAEiw6YZIHDlHSLwer.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/padre-de-familia",
+      "https://www.pelisplus.to/serie/family-guy",
+      "https://seriesblanco.org/capitulos/padre-de-familia/",
+      "https://fanpelis.net/series/family-guy"
+    ],
+    "sinopsis": "Padre de familia es una comedia de animación para adultos creada por Seth MacFarlane para la Fox Broadcasting Company. La serie se centra en los Griffin, una mediocre familia compuesta por los padres Peter y Lois; sus hijos Meg, Chris, y Stewie; y su antropomórfica mascota canina Brian. La serie está ambientada en la ciudad ficticia de Quahog, Rhode Island, y gran parte de su humor se exhibe en forma de pequeños cortes que frecuentemente se mofan de la cultura americana.",
+    "titulo": "Padre de Familia",
+    "tmdb": "1434"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f857e"
+    },
+    "año": "2018/12/17",
+    "enlace": "http://pelisplus.co/serie/la-ley-y-el-orden/",
+    "genero": "Crimen Accion",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDaEa6HNUhk7vXO2sttiNLFG027.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/ley-y-orden-unidad-de-victimas-especiales",
+      "https://seriesblanco.org/capitulos/ley-y-orden-uve-ley-y-orden-unidad-de-victimas-especiales/"
+    ],
+    "sinopsis": "Ley y orden es una serie dramática estadounidense sobre procedimiento legal y policial, creado por Dick Wolf y parte de la franquicia. Fue estrenada en la cadena NBC y en varias cadenas de cable. La ley y el orden se estreno el 13 de septiembre de 1990, y completó su 20 y última temporada el 24 de mayo de 2010. En el momento de su cancelación, La ley y el orden fue el drama criminal de más larga duración en la televisión en horario estelar estadounidense.",
+    "titulo": "La Ley Y El Orden: UVE",
+    "tmdb": "2734"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f858e"
+    },
+    "año": "2018/12/17",
+    "enlace": "http://pelisplus.co/serie/atlanta/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbE138t2eSyVohab6i91OBGbPgC.jpg",
+    "servidores": [
+      "https://fanpelis.net/series/atlanta",
+      "https://seriesblanco.org/capitulos/atlanta/"
+    ],
+    "sinopsis": "La serie sigue a Earn durante su vida diaria en Atlanta, un joven inteligente pero con poca iniciativa que abandonó la universidad y que trata de redimirse ante los ojos de su ex-novia, sus padres, y su primo, quien rapea bajo el nombre artístico de Paper Boi. Después de haber abandonado la Universidad de Princeton, Earn no tiene dinero ni hogar, por lo que alterna entre quedarse con sus padres y su novia. Una vez que se da cuenta de que su primo está a punto de convertirse en estrella, lo busca desesperadamente para volver a conectar, con el fin de mejorar su vida y la vida de su hija, Lottie.",
+    "titulo": "Atlanta",
+    "tmdb": "65495"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f859e"
+    },
+    "año": "2018/12/17",
+    "enlace": "http://pelisplus.co/serie/into-the-badlands/",
+    "genero": "Accion crimen",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozYuTCBXxND1zqZivNChxCvnqsh.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/into-the-badlands",
+      "https://www.pelisplus.to/serie/into-the-badlands",
+      "https://miradetodo.co/series/into-the-badlands",
+      "https://seriesblanco.org/capitulos/into-the-badlands/"
+    ],
+    "sinopsis": "Situada en un futuro muy lejano, donde una sucesión de catástrofes causaron el colapso de la civilización moderna y el fin de las naciones. Tras ello emergió una sociedad feudal en lo que antes era el medio oeste americano, una sociedad donde el más fuerte y el más violento accede a la riqueza y al poder. La zona, conocida como Badlands, está gobernada por siete barones rivales que controlan los recursos necesarios para el día a día, y hacen cumplir su política con la ayuda de ejércitos leales conocidos como Clippers, entrenados en las artes marciales desde muy pequeños. Sunny, un gran guerrero, y M.K., su joven aprendiz, se embarcarán en una odisea que podría marcar la diferencia entre el caos o la luz para todos los habitantes de Badlands.",
+    "titulo": "Into the Badlands",
+    "tmdb": "47450"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f860e"
+    },
+    "año": "2018/12/19",
+    "enlace": "http://pelisplus.co/serie/jordskott/",
+    "genero": "Terror Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2hvTdRHlzwp51IU9KtbzTnJiC5.jpg",
+    "servidores": [],
+    "sinopsis": "La inspectora detective Eva Thörnblad regresa a Silver Height siete años después de que su hija Josefine desapareciera junto a un lago en el bosque. El cuerpo nunca fue encontrado y se creía que la niña se había ahogado. Ahora un niño ha desaparecido sin dejar rastro y Thörnblad quiere averiguar si hay un vínculo con la desaparición de su hija. Al mismo tiempo, cuidará del legado de su padre, el gran empresario Johan Thörnblad, quien construyó un imperio de madera y procesamiento de madera en el gran bosque que es propiedad de sus antepasados. A medida que la trama se profundiza, más niños son secuestrados y lo que inicialmente parece un drama policial toma un giro más siniestro y extraño con cada episodio.",
+    "titulo": "Jordskott",
+    "tmdb": "62097"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f861e"
+    },
+    "año": "2018/12/21",
+    "enlace": "http://pelisplus.co/serie/jardin-de-meteoros/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2w62ZrV3iQdVvlOAdrSJ3hUblRT.jpg",
+    "servidores": [],
+    "sinopsis": "Dong Shancai es aceptada en la universidad más prestigiosa del país. Se encuentra con F4, un grupo exclusivo compuesto por los cuatro chicos más populares de la institución: Dao Mingsi, Hua Zelei, Yan Ximen y Feng Meizuo. Shancai es una chica de una familia que apenas puede llegar a fin de mes, debido a la naturaleza de su personalidad, ella inmediatamente choca con los F4.",
+    "titulo": "Jardín de Meteoros",
+    "tmdb": "79818"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f862e"
+    },
+    "año": "2018/12/21",
+    "enlace": "http://pelisplus.co/serie/los-medici-senores-de-florencia/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vBXQgkA22DStzR96mVcpJq7I19.jpg",
+    "servidores": [
+      "https://fanpelis.net/series/los-medici-senores-de-florencia",
+      "https://seriesblanco.org/capitulos/los-medici-sea%c2%b1ores-de-florencia/",
+      "https://www.pelisplus.to/serie/medici-masters-of-florence"
+    ],
+    "sinopsis": "Serie política de época que relata el ascenso al poder de la familia Medici y las consecuencias de la transformación económica, cultural y social que iniciaron. Una revolución que desafió el pensamiento tradicional y cambió la historia, pero que también les hizo labrarse numerosos enemigos. La primera temporada se centra en los años de ascenso de Cosimo Medici (Richard Madden), quien se ve obligado a suceder a su padre Giovanni (Dustin Hoffman) como cabeza de los Medici, después de que éste sea inesperadamente asesinado. Rodeado de adversarios, Cosimo se topa entonces con el reto de mantener a flote el banco de los Medici y preservar la influencia y el poder de su familia en Florencia, mientras no cesa en su empeño por averiguar quién asesinó a su padre.",
+    "titulo": "Los Medici: Señores de Florencia",
+    "tmdb": "66761"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f863e"
+    },
+    "año": "2018/12/22",
+    "enlace": "http://pelisplus.co/serie/boca-juniors-confidencial/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5BCZOkZ6O2iemvDRwH8tTwcFM4.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/boca-juniors-confidential"
+    ],
+    "sinopsis": "Serie documental de cuatro partes que sigue al equipo desde los vestuarios y el entrenamiento de pretemporada hasta su consagración como campeones de la Superliga 2018.",
+    "titulo": "Boca Juniors Confidencial",
+    "tmdb": "82368"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f864e"
+    },
+    "año": "2018/12/22",
+    "enlace": "http://pelisplus.co/serie/hackerville/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRhmZz65noiarKqsLUWi2CvYdF0.jpg",
+    "servidores": [
+      "https://seriesblanco.org/capitulos/hackerville/"
+    ],
+    "sinopsis": "Tras un ataque cibernético a un banco alemán, un investigador que se encuentra a las autoridades locales y un hacker de élite para rastrear a los sospechosos.",
+    "titulo": "Hackerville",
+    "tmdb": "81807"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f865e"
+    },
+    "año": "2018/12/22",
+    "enlace": "http://pelisplus.co/serie/el-secreto-de-selena/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlM6ZWCAkYaNyFfHKLbBaaY5584.jpg",
+    "servidores": [
+      "https://seriesblanco.org/capitulos/el-secreto-de-selena/"
+    ],
+    "sinopsis": "Serie que retomará como tema principal el día de la muerte de Selena Quintanilla, famosa cantante mexico-americana asesinada por la presidenta de su club de fans, cuya vida había sido ya llevada al cine por Gregory Nava en la película 'Selena' (1997), protagonizada por Jennifer Lopez.",
+    "titulo": "El Secreto de Selena",
+    "tmdb": "82565"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f866e"
+    },
+    "año": "2018/12/24",
+    "enlace": "http://pelisplus.co/serie/sobreviviendo-a-escobar/",
+    "genero": "Crimen Drama Accion",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qry8RcjjjHzYRuYYrwsO65g1xTF.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver-sobreviviendo-a-escobar-alias-j-j-hd-online"
+    ],
+    "sinopsis": "Sobreviviendo a Escobar, Alias JJ; relata la vida de Alias JJ después de convertirse en el único sobreviviente del Cartel de Medellín. Todo comienza en la decadencia de Pablo Escobar, cuando Alias JJ decide entregarse a la justicia. Ya en la cárcel debe enfrentarse con sus enemigos y usar todas sus tácticas no solo para sobrevivir, si no para lograr establecerse de nuevo como un gran capo dentro de la cárcel y continuar con su reino de terror, volviendo a ser un temido narcotraficante desde la prisión.",
+    "titulo": "Sobreviviendo a Escobar Alias J.J.",
+    "tmdb": "70828"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f867e"
+    },
+    "año": "2018/12/24",
+    "enlace": "http://pelisplus.co/serie/vis-a-vis/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mfPWKrNInkTbjVwp0EkaFYRHqD.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/vis-a-vis",
+      "https://www.pelisplus.to/serie/vis-a-vis",
+      "https://miradetodo.co/series/vis-a-vis",
+      "https://seriesblanco.org/capitulos/vis-a-vis/"
+    ],
+    "sinopsis": "Narra las vivencias en prisión de Macarena, una joven frágil e inocente que nada más ingresar en la cárcel se ve inmersa en una difícil situación a la que tendrá que aprender a adaptarse. Además del shock que le supone acabar de golpe con su placentera vida acomodada, pronto descubrirá que demasiada gente en la cárcel está tras la pista de nueve millones de euros robados de un furgón.",
+    "titulo": "Vis a vis",
+    "tmdb": "62455"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f868e"
+    },
+    "año": "2018/12/24",
+    "enlace": "http://pelisplus.co/serie/mas-de-100-mentiras/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZiCTnyBuO1QaG2IYknftszdd9B.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/mas-de-100-mentiras",
+      "https://www.pelisplus.to/serie/mas-de-100-mentiras",
+      "https://seriesblanco.org/capitulos/mas-de-100-mentiras/"
+    ],
+    "sinopsis": "Todos los dispositivos electrónicos de alumnos y profesores de un instituto han sido hackeados. El responsable: un misterioso hacker que se hace llamar “@blackrabbit”, quien está sacando a la luz todos los secretos y mentiras que la gente escondía. Lara, Ángela, Joel e Irene, unos alumnos del instituto, serán las principales víctimas de todo este caos. Y es que, los cuatro ocultan un gran secreto que ahora corre el peligro de ser descubierto y que cambiaría por completo sus vidas... ¿Lograrán escapar de la verdad?",
+    "titulo": "Mas de 100 Mentiras",
+    "tmdb": "83452"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f869e"
+    },
+    "año": "2018/12/26",
+    "enlace": "http://pelisplus.co/serie/macgyver/",
+    "genero": "Accion",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLzrL2LzlNgXSZtEVWsunXv2wDo.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/macgyver",
+      "https://miradetodo.co/series/macgyver-2016",
+      "https://fanpelis.net/series/macgyver",
+      "https://seriesblanco.org/capitulos/macgyver/"
+    ],
+    "sinopsis": "El mítico MacGyver regresa a la pequeña pantalla tras tres décadas alejado de la televisión. El clásico personaje seguirá haciendo frente a las misiones más complicadas gracias a su agudizado ingenio.",
+    "titulo": "MacGyver",
+    "tmdb": "67133"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f869e"
+    },
+    "año": "2018/12/26",
+    "enlace": "http://pelisplus.co/serie/star/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHwWAmGmndlSfjEGX7kciPpW6jm.jpg",
+    "servidores": [],
+    "sinopsis": "Este drama musical gira alrededor de Star, su hermana Simone y su amigo Alex, tres jóvenes cantantes, talentosos, y el tema de la música en su camino hacia el éxito en Atlanta, donde vive la perdida Madrina de Star y Simone, Carlotta. Pronto aprenderá que el éxito no se trata solo de la música, sino también del drama, el sacrificio y el dolor.",
+    "titulo": "Star",
+    "tmdb": "68780"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f870e"
+    },
+    "año": "2019/01/06",
+    "enlace": "http://pelisplus.co/serie/el-ultimo-reino/",
+    "genero": "Drama Accion",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52fBNs8N0xZXHcCm1MDs0nvLQKK.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/the-last-kingdom",
+      "https://www.pelisplus.to/serie/the-last-kingdom",
+      "https://seriesblanco.org/capitulos/the-last-kingdom/"
+    ],
+    "sinopsis": "Es el año 872, casi todos los reinos que hoy conocemos como Inglaterra han sido invadidos por los vikingos, sólo permanece inexpugnable y desafiante el gran reino de Wessex bajo el mando del rey Alfredo el Grande. En este contexto turbulento vive Uhtred. Después de que sus padres, sajones nobles, fueran asesinados por los invasores, fue capturado y criado como uno de ellos. Obligado a elegir entre sus orígenes y el pueblo con el que ha crecido, su lealtad estará siempre a prueba. ¿Qué es? ¿Un sajón o un vikingo? En su búsqueda para reclamar sus derechos de nacimiento, Uhtred deberá recorrer un camino peligroso entre ambos bandos. Serie sobre el nacimiento de Inglaterra, de la mano de la BBC y de los productores de Downton Abbey.",
+    "titulo": "El Ultimo Reino",
+    "tmdb": "63333"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f871e"
+    },
+    "año": "2019/01/11",
+    "enlace": "http://pelisplus.co/serie/you/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6A1cljmEY8No7R1yu3yYGEXaCUa.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/you",
+      "https://www.pelisplus.to/serie/you",
+      "https://seriesblanco.org/capitulos/you/"
+    ],
+    "sinopsis": "Cuando un brillante gerente de librería se cruza con un aspirante a escritor, usa internet y las redes sociales para reunir los detalles más íntimos y acercarse a ella. Un enamoramiento encantador e incómodo se convierte rápidamente en obsesión, ya que elimina silenciosamente y estratégicamente todos los obstáculos, y personas, en su camino.",
+    "titulo": "You",
+    "tmdb": "78191"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f872e"
+    },
+    "año": "2019/01/12",
+    "enlace": "http://pelisplus.co/serie/el-maldito-fin-del-mundo/",
+    "genero": "Drama Comedia",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQ5fG5NAQ5K8cMm58bxQNwUEbMj.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/el-maldito-fin-del-mundo",
+      "https://www.pelisplus.to/serie/the-end-of-the-fucking-world",
+      "https://fanpelis.net/series/the-end-of-the-fing-world",
+      "https://seriesblanco.org/capitulos/the-end-of-the-fucking-world/"
+    ],
+    "sinopsis": "Un psicópata adolescente y una chica rebelde con sed de aventura emprenden un accidentado viaje por carretera en esta serie de humor negro basada en una novela gráfica.",
+    "titulo": "The End of the F***ing World",
+    "tmdb": "74577"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f873e"
+    },
+    "año": "2019/01/15",
+    "enlace": "http://pelisplus.co/serie/doctor-who/",
+    "genero": "Accion familiar",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgMmTUEd7tIqFjCeJECk6asbPbk.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/doctor-who",
+      "https://www.pelisplus.to/serie/doctor-who",
+      "https://seriesblanco.org/capitulos/doctor-who/"
+    ],
+    "sinopsis": "Doctor Who es una serie de televisión británica de ciencia ficción producida por la BBC. El programa muestra las aventuras de un Señor del Tiempo conocido como El Doctor, que explora el universo en su TARDIS, una nave espacial con conciencia propia capaz de viajar a través del tiempo y el espacio. Con la ayuda de distintos acompañantes, el Doctor se enfrenta a una variedad de enemigos mientras salva civilizaciones, visita tanto el pasado como el futuro, ayuda a gente común y corrige injusticias.",
+    "titulo": "Doctor WHO",
+    "tmdb": "57243"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f874e"
+    },
+    "año": "2019/01/15",
+    "enlace": "http://pelisplus.co/serie/the-oath/",
+    "genero": "Drama crimen",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8xo9fB9D0VATvwZ0R7DC7RsmVU.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver-the-oath-online",
+      "https://www.pelisplus.to/serie/the-oath",
+      "https://fanpelis.net/series/the-oath",
+      "https://seriesblanco.org/capitulos/the-oath/",
+      "https://miradetodo.co/the-oath-2018-720p-hd"
+    ],
+    "sinopsis": "Explora un mundo de pandillas formadas por aquellos juramentados para proteger, defender y arrojar luz sobre sociedades corruptas y secretas.",
+    "titulo": "The Oath",
+    "tmdb": "75797"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f875e"
+    },
+    "año": "2019/01/15",
+    "enlace": "http://pelisplus.co/serie/titanes/",
+    "genero": "Accion",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCK6fykCZUQjTJG4IDhfWCxcXqG.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--titanes-hd-online",
+      "https://www.pelisplus.to/serie/titanes",
+      "https://seriesblanco.org/capitulos/titanes-titans/"
+    ],
+    "sinopsis": "Titans sigue a los jóvenes héroes de todo el universo de DC a medida que crecen y se encuentran en una versión de la franquicia clásica de Teen Titans. Dick Grayson y Rachel Roth, una joven especial poseída por una extraña oscuridad, se enredan en una conspiración que podría traer el Infierno sobre la Tierra. Uniéndose a ellos en el camino están Starfire y el adorable Bestia Boy. Juntos se convierten en una familia sustituta y un equipo de héroes.",
+    "titulo": "Titanes",
+    "tmdb": "75450"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f876e"
+    },
+    "año": "2019/01/17",
+    "enlace": "http://pelisplus.co/serie/los-expedientes-secretos-x/",
+    "genero": "Drama Accion",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYTUUa4hrpOUyt5MeJDJsuVFZY.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/the-x-files"
+    ],
+    "sinopsis": "Serie de ciencia ficción y misterio en la que dos agentes del FBI investigan casos tanto paranormales como comunes y ordinarios. A lo largo de la serie se enfrentan a alienígenas, asesinos, contrabandistas, e incluso organismos secretos del gobierno. Fox Mulder (David Duchovny, 'Californication') es un psicólogo que trabaja para el FBI. Traumatizado por la desaparición de su hermana años atrás, aparentemente abducida por alienígenas, se dedica a investigar los casos cerrados en busca de sucesos paranormales que el gobierno se ha dedicado a ocultar. Cansados de su mentalidad obsesiva con respecto a las conspiraciones y lo paranormal, el FBI lo empareja con Dana Scully (Gillian Anderson, 'The Fall'), una doctora en medicina forense escéptica e incapaz de creer en sucesos paranormales. La pareja de investigadores comenzará a trabajar junta resolviendo los casos más extraños e inverosímiles del FBI. En su día a día no tendrán que enfrentarse solo a criminales y psicópatas, sino a fuerzas extrañas y sobrenaturales que se ocultan en este mundo y que un organismo secreto del FBI conocido como el Sindicato se empeña en mantener en la sombra. Con el paso del tiempo, Scully comenzará a entender que las conspiraciones en las que tanto cree Mulder podrían ser ciertas, y que no solamente existe aquello que podemos ver.",
+    "titulo": "Los Expedientes Secretos X",
+    "tmdb": "4087"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f877e"
+    },
+    "año": "2019/01/23",
+    "enlace": "http://pelisplus.co/serie/malcolm/",
+    "genero": "Comedia",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwslHj6nEyPX5IbNXhuEeI0PTth.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/malcolm-el-de-en-medio",
+      "https://www.pelisplus.to/serie/malcolm-in-the-middle",
+      "https://seriesblanco.org/capitulos/malcolm/"
+    ],
+    "sinopsis": "Malcolm in the Middle es una comedia de televisión estadounidense creada por Linwood Boomer para la Fox Broadcasting Company. La serie se transmitió por primera vez el 9 de enero de 2000; Terminó su carrera de seis años el 14 de mayo de 2006 después de siete temporadas y 151 episodios. La serie recibió aclamación de la crítica y ganó un Peabody Award, siete premios Emmy, un premio Grammy y fue nominado a siete Globos de Oro. La serie sigue a una familia de seis, y las estrellas Frankie Muniz en el papel principal de Malcolm, un muchacho más o menos normal que prueba a nivel de genio. Le gusta ser inteligente, pero desprecia tener que tomar clases para niños superdotados, que son burlados por los otros estudiantes que los llaman Krelboynes, una referencia al nerdy Seymour Krelboyne de The Little Shop of Horrors. Jane Kaczmarek es la autoritaria madre autoritaria de Malcolm, Lois, y Bryan Cranston interpreta a Hal, su amoroso padre Hal. Christopher Masterson interpreta al hermano mayor Francis, un ex rebelde que, en episodios anteriores, estaba en la escuela militar, pero finalmente se casa y se asienta en un trabajo estable. Justin Berfield es el maltrecho hermano mayor de Malcolm, Reese, un matón del patio de la escuela que torturó a Malcolm en casa incluso mientras lo defiende en la escuela. El hermano menor Dewey, músico del genio, es retratado por Erik Per Sullivan. Durante las primeras temporadas, el programa se centró en Malcolm. A medida que la serie avanzaba, sin embargo, comenzó a explorar a los seis miembros de la familia de manera bastante igual. Un quinto hijo - Jamie - fue introducido como un bebé hacia el centro de la serie.",
+    "titulo": "Malcolm el de En Medio",
+    "tmdb": "2004"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f878e"
+    },
+    "año": "2019/01/30",
+    "enlace": "http://pelisplus.co/serie/club-de-cuervos/",
+    "genero": "Comedia",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGaFCon7fJUuvHlolSoUDQKLfen.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--club-de-cuervos-hd-online",
+      "https://www.pelisplus.to/serie/club-de-cuervos",
+      "https://fanpelis.net/series/club-de-cuervos"
+    ],
+    "sinopsis": "El patriarca de una importante familia murió y sus herederos pelean para decidir quién asumirá el control de su adorado equipo de fútbol: Los cuervos de Nuevo Toledo. Egos, temperamentos y balones salen disparados en esta entrega del director, los productores y la estrella de “Nosotros los Nobles”, reunidos para darle vida a esta, aún más, absurda familia.",
+    "titulo": "Club de Cuervos",
+    "tmdb": "63314"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f879e"
+    },
+    "año": "2019/01/30",
+    "enlace": "http://pelisplus.co/serie/channel-zero/",
+    "genero": "Drama Terror",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozRhHsVoNvRIL7zlCPKyJwgSCSV.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/channel-zero",
+      "https://fanpelis.net/series/channel-zero"
+    ],
+    "sinopsis": "Channel Zero es una serie de antología basada en el popular Creepypastas de Internet, que incluye Candle Cove, The No-End House, Butcher's Block y Hidden Door.",
+    "titulo": "Channel Zero",
+    "tmdb": "67752"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f880e"
+    },
+    "año": "2019/01/30",
+    "enlace": "http://pelisplus.co/serie/las-chicas-del-cable/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QZzVoZEHTZgj5KrhCHkcUr2ITU.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/las-chicas-del-cable",
+      "https://www.pelisplus.to/serie/las-chicas-del-cable",
+      "https://fanpelis.net/series/las-chicas-del-cable",
+      "https://seriesblanco.org/capitulos/las-chicas-del-cable/"
+    ],
+    "sinopsis": "Madrid, año 1928. Las operadoras de la recién nacida Telefónica viven sus romances y envidias dentro de una empresa moderna, reflejo del cambio social de la época. Lidia, Marga, Ángeles y Carlota comienzan a trabajar como telefonistas en el edificio más moderno de toda la ciudad. Para ellas empieza la lucha por una independencia que tanto su entorno como la sociedad de entonces les niega. Su amistad será clave para conseguir sus sueños y juntas irán descubriendo lo que significa la verdadera libertad.",
+    "titulo": "Las Chicas Del Cable",
+    "tmdb": "71225"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f881e"
+    },
+    "año": "2019/01/31",
+    "enlace": "http://pelisplus.co/serie/bates-motel/",
+    "genero": "Terror Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOB0F1rZVmknJT06EXEdnGYnxlZ.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/bates-motel",
+      "https://www.pelisplus.to/serie/bates-motel",
+      "https://miradetodo.co/series/bates-motel",
+      "https://fanpelis.net/series/bates-motel",
+      "https://seriesblanco.org/capitulos/bates-motel/"
+    ],
+    "sinopsis": "La historia comienza después de la muerte del señor Bates, cuando Norman y su madre compran el motel que llevará su nombre. La serie retrata la vida del joven de aspecto frágil llamado Norman Bates y de su posesiva madre Norma, unos años antes de los acontecimientos narrados en la película Psicosis.",
+    "titulo": "Bates Motel",
+    "tmdb": "46786"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f882e"
+    },
+    "año": "2019/01/31",
+    "enlace": "http://pelisplus.co/serie/dexter/",
+    "genero": "Accion Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvvg43Y8ht4cm4El9LOEoqNDVxE.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/dexter",
+      "https://seriesblanco.org/capitulos/dexter/"
+    ],
+    "sinopsis": "Serie de suspense que narra la historia de un hombre extraño llamado Dexter Morgan. Cuando era niño, Dexter fue maltratado y abandonado por sus padres, ahora es un exitoso e importante forense patológico... pero bajo su carismática personalidad, se esconde una terrible verdad. Dexter ha canalizado sus innatas necesidades homicidas en una segunda profesión que guarda celosamente en secreto: buscar, dar caza y asesinar brutalmente a despiadados criminales.",
+    "titulo": "Dexter",
+    "tmdb": "1405"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f883e"
+    },
+    "año": "2019/02/01",
+    "enlace": "http://pelisplus.co/serie/frontier/",
+    "genero": "Accion Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6a8OvRFWimBKzYrBhAuWfBFpEk.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/frontera",
+      "https://www.pelisplus.to/serie/frontier",
+      "https://seriesblanco.org/capitulos/frontier/"
+    ],
+    "sinopsis": "La lucha caótica y violenta para controlar la riqueza y el poder en el comercio de pieles de América del Norte a fines del siglo XVIII. Desde una perspectiva múltiple, Frontier se desarrolla en un mundo en el que las negociaciones comerciales podrían resolverse con peleas de hacha a corta distancia, y donde las relaciones delicadas entre las tribus nativas y los europeos pueden provocar conflictos sangrientos.",
+    "titulo": "Frontier",
+    "tmdb": "64555"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f884e"
+    },
+    "año": "2019/02/01",
+    "enlace": "http://pelisplus.co/serie/parfum/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiIV48YUNzdTI29kkeCTpIdHsL4.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/el-perfume",
+      "https://www.pelisplus.to/serie/el-perfume",
+      "https://fanpelis.net/series/el-perfume",
+      "https://seriesblanco.org/capitulos/el-perfume/"
+    ],
+    "sinopsis": "La novela de Patrick Süskind sobre el olfato, la pasión y los asesinatos en serie se moderniza con un giro inesperado. Durante su estancia en un internado, un grupo de seis personas entabla amistad a través de su intensa atracción hacia los aromas. Años más tarde, cuando alguien del grupo aparece brutalmente asesinado, la investigación policial de los sospechosos sacará a la luz inquietantes secretos.",
+    "titulo": "El Perfume",
+    "tmdb": "84052"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f885e"
+    },
+    "año": "2019/02/01",
+    "enlace": "http://pelisplus.co/serie/krypton/",
+    "genero": "Accion Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMMWb4zIZKBnO3lOpVBXCL1BeNI.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/krypton",
+      "https://fanpelis.net/series/krypton",
+      "https://seriesblanco.org/capitulos/krypton/"
+    ],
+    "sinopsis": "Instalado dos generaciones antes de la destrucción del legendario planeta natal de el Hombre de Acero, Krypton sigue al abuelo de Superman, cuya Casa de El fue condenada al ostracismo y avergonzada, mientras lucha para redimir el honor de su familia y salvar a su amado mundo del caos.",
+    "titulo": "Krypton",
+    "tmdb": "71340"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f886e"
+    },
+    "año": "2019/02/09",
+    "enlace": "",
+    "genero": "Comedia",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9QDK4OWpv41W27kCv0LXe30k9S.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/dos-hombres-y-medio",
+      "https://www.pelisplus.to/serie/dos-hombres-y-medio",
+      "https://seriesblanco.org/capitulos/two-and-a-half-men/"
+    ],
+    "sinopsis": "Two and a Half Men (conocida como Dos hombres y medio en Iberoamérica) es una comedia de situación estadounidense, protagonizada desde la novena temporada por Jon Cryer y Ashton Kutcher, y anteriormente por Cryer, Charlie Sheen y Angus T. Jones. Two And A Half Men es una comedia sobre hombres, mujeres, citas, divorcios, madres, paternidad de soltero, relaciones entre hermanos, familia, dinero; y lo más importante, el amor. En otras palabras, es una comedia sobre la vida, más específicamente, la vida de dos hermanos, el hijo de uno de los hermanos y las muchas mujeres que les rodean.",
+    "titulo": "Dos hombres y medio",
+    "tmdb": "2691"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f887e"
+    },
+    "año": "2019/03/14",
+    "enlace": "http://pelisplus.co/serie/acapulco-shore/",
+    "genero": "Comedia Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSRyd3ZNZY41awncagc8oqV739M.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/ver--acapulco-shore-hd-online",
+      "https://fanpelis.net/series/acapulco-shore",
+      "https://seriesblanco.org/capitulos/acapulco-shore/"
+    ],
+    "sinopsis": "Acapulco Shore es un programa de telerrealidad Mexicana producida por la cadena MTV Latinoamérica; su primer capítulo fue estrenado el 27 de septiembre de 2014. Dado el éxito del programa Estadounidense Jersey Shore, MTV Latinoamérica decidió realizar su propia versión con la participación de ocho jóvenes mexicanos quienes se aventuran a pasar sus vacaciones en Acapulco con personas desconocidas, con el fin de disfrutar de las mejor fiestas y lugares de este sitio, a lo largo de las temporadas conoceremos la vida intima de cada uno de los participantes, como también sus personalidades, también observaremos algunos conflictos que se presentan durante la convivencia en casa, como también los romances,amistades y enemistades que dejan estas vacaciones.",
+    "titulo": "Acapulco Shore",
+    "tmdb": "66084"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f888e"
+    },
+    "año": "2019/03/14",
+    "enlace": "http://pelisplus.co/serie/constantine/",
+    "genero": "Accion",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Bp2hZ5R39KuxhvBZlYYVkJUEgx.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/constantine",
+      "https://www.pelisplus.to/serie/constantine",
+      "https://fanpelis.net/series/constantine",
+      "https://seriesblanco.org/capitulos/constantine/"
+    ],
+    "sinopsis": "Con su alma condenada al infierno, John Constantine decide dejar su antigua vida atrás. Cuando los demonios fijan como objetivo a Liv, la hija de un viejo amigo, decide que va a hacer todo lo posible para salvarla. Armado con un vasto conocimiento sobre las artes oscuras y un ingenio perversamente pícaro, Constantine descubre que Liv posee una segunda vista -la habilidad de ver el mundo detrás de nuestro mundo y predecir sucesos sobrenaturales- y se ha convertido en una amenaza para un misterioso nuevo mal que está emergiendo de entre las sombras, por el cual los ángeles están empezando a preocuparse. Es entonces que Constantine y Liv deben usar el poder y las habilidades de cada uno para viajar por el país, encontrar a los demonios que amenazan a nuestro mundo y enviarlos de vuelta a donde pertenecen.",
+    "titulo": "Constantine",
+    "tmdb": "60743"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f889e"
+    },
+    "año": "2019/03/17",
+    "enlace": "http://pelisplus.co/serie/super-shore/",
+    "genero": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2d7KcJeK3eq60hZ5cG8SrwaDncd.jpg",
+    "servidores": [
+      "https://fanpelis.net/series/super-shore",
+      "https://seriesblanco.org/capitulos/super-shore/"
+    ],
+    "sinopsis": "Super Shore fue un programa de telerrealidad que ers transmitido por la cadena MTV España y MTV Latinoamerica en la que seguía la vida cotidiana de nueve jóvenes que pretenden pasar el verano viviendo juntos en diferentes zonas del sur de Europa, empezando en la isla griega de Miconos y posteriormente en la ciudad española de Madrid. Se trata de otra adaptación del programa estadounidense Jersey Shore, aunque en esta se mezclan participantes de Gandía Shore y Acapulco Shore, ediciones shore de España y México, junto al brasileño Igor Freitas del reality Are You The One? Brasil y la italiana Elettra Lamborghini nieta de Ferruccio Lamborghini.",
+    "titulo": "Super Shore",
+    "tmdb": "65667"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f890e"
+    },
+    "año": "2019/03/17",
+    "enlace": "http://pelisplus.co/serie/friends/",
+    "genero": "Comedia Drama",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7buCWBTpiPrCF5Lt023dSC60rgS.jpg",
+    "servidores": [
+      "https://www.pelisplay.tv/serie/friends",
+      "https://www.pelisplus.to/serie/friends",
+      "https://seriesblanco.org/capitulos/friends/"
+    ],
+    "sinopsis": "Friends narra las aventuras y desventuras de seis jóvenes de Nueva York. Rachel (Jennifer Aniston), Monica (Courteney Cox), Phoebe (Lisa Kudrow), Ross (David Schwimmer), Chandler (Matthew Perry) y Joey (Matt LeBlanc) forman una unida pandilla de amigos que viven en Manhattan y que suelen reunirse en sus apartamentos o en su bar habitual, el Central Perk. A pesar de los numerosos cambios que se producen en sus vidas, su amistad es inquebrantable en la dura batalla por salir adelante en sus periplos profesionales y personales.",
+    "titulo": "Friends",
+    "tmdb": "1668"
+  },
+  {
+    "_id": {
+      "$oid": "5bca9c241f6e4f34af6f891e"
+    },
+    "año": "2019/03/17",
+    "enlace": "http://pelisplus.co/serie/la-colina-de-watership/",
+    "genero": "Drama Animación familiar",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/apgCU29h7W6H88jM9yknuGWrNAw.jpg",
+    "servidores": [
+      "https://www.pelisplus.to/serie/la-colina-de-watership",
+      "https://seriesblanco.org/capitulos/la-colina-de-watership/"
+    ],
+    "sinopsis": "Ubicado en el sur de Inglaterra, la historia cuenta con un pequeño grupo de conejos. Aunque viven en su entorno natural, son antropomorfizados , poseen su propia cultura, lenguaje , proverbios , poesía y mitología . Los conejos escapan de la destrucción de sus armas y buscan un lugar para establecer un nuevo hogar, encontrando peligros y tentaciones en el camino.",
+    "titulo": "La colina de watership",
+    "tmdb": "68394"
+  }
+]
+}

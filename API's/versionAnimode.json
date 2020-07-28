@@ -1,0 +1,6 @@
+{
+	"enlace":"https://www.mediafire.com/file/27vla56yra5m790/Animode_v2.1.0.apk/file",
+	"actual":"2.1.0",
+	"mensaje":"\nSi no puedes actualizar:\n1.-Presiona navegador\n2.-Descarga el apk de la actualización\n3.-Desinstala la version instalada\n4.-Instala la actualización manualmente\n\nChangelog:\n-Las actualizaciones ahora se descargan en segundo plano.\n-Se mejoró la obtención de enlaces.\n-Se corrigieron errores menores.",
+	"obligatoria":false
+}
