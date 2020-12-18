@@ -1,8 +1,6 @@
 {
 	"enlace":"http://www.mediafire.com/file/m6l2p8zxnpfz8kr/Film_App_v4.1.8.apk/file",
 	"actual":"4.1.8",
-	"store":"https://repelis.io/pelicula/avengers-endgame-r0oU6V",
-	"storemsg":"Descarga la actualización desde la Play Store",
 	"mensaje":"\nSi no puedes actualizar:\n1.-Presiona navegador\n2.-Descarga el apk de la actualización\n3.-Desinstala la version instalada\n4.-Instala la actualización manualmente\n\nChangelog:\n-Se reparó error de servidor Zeus\n-Se reparó error de servidor Turbo\n-Se agregaron mas servidores.\n-Se corrigieron errores menores.",
 	"key":"6f88c34b0a6e5f4da96032485395a0ea",
 	"obligatoria":true,
