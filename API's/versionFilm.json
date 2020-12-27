@@ -1,9 +1,9 @@
 {
 	"enlace":"https://www.mediafire.com/file/n8rg4of8ijryo8j/Film_App_v4.1.9.apk/file",
 	"actual":"4.1.9",
-	"mensaje":"\nSi no puedes actualizar:\n1.-Presiona navegador\n2.-Descarga el apk de la actualización\n3.-Desinstala la version instalada\n4.-Instala la actualización manualmente\n\nChangelog:\n-Se corrigío error en zeus\n-Se reparó error al reproducir contenido descargado\n-El reproductor ahora gira en la orientación del dispositivo\n-Se corrigieron errores menores",
+	"mensaje":"\nSi no puedes actualizar:\n1.-Presiona navegador\n2.-Descarga el apk de la actualización\n3.-Desinstala la version instalada\n4.-Instala la actualización manualmente\n\nChangelog:\n-Se corrigió  error en servidor zeus\n-Se corrigieron errores menores",
 	"key":"6f88c34b0a6e5f4da96032485395a0ea",
 	"obligatoria":true,
 	"cmd":"bvideo();window.HTMLOUT.getShh(c.toString()",
-	"deprecateds":["netu.tv","netu.to","waaw.tv","waaw.to","hqq.tv","hqq.to","zplayer.live","rapidvid.to","rapidvideo.com","openload","streamango.com","verystream.com","tutumeme.net","openplay.vip","p2p.fembad.co","vadacloud.com","pelisgratis.live","youtube.com"]
+	"deprecateds":["zplayer.live","rapidvid.to","rapidvideo.com","openload","streamango.com","verystream.com","tutumeme.net","openplay.vip","p2p.fembad.co","vadacloud.com","pelisgratis.live","youtube.com"]
 }
