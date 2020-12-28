@@ -8,5 +8,12 @@
 	"pre":"",
 	"post":"bvideo();window.HTMLOUT.getShh(c.toString()",
 	"regex":" video'(.+?)'"
+	},
+	"getEval":{
+		"method":1,
+		"contains":"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+		"char":"^",
+		"counts":-1,
+		"regex":""
 	}
 }
