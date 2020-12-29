@@ -5,9 +5,9 @@
 	},
 	"getShh":{
 	"place":0,
-	"pre":"function govideoload(shh){}",
-	"post":"window.HTMLOUT.getShh(c.toString()",
-	"regex":"govideoload'(.+?)'"
+	"pre":"shhhh = '';function video(shh){shhhh=shh;}",
+	"post":"bvideo();window.HTMLOUT.getShh('='+shhhh+'='",
+	"regex":"=(.+?)="
 	},
 	"getEval":{
 		"method":1,
