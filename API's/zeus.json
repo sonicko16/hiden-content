@@ -1,6 +1,6 @@
 {
 	"getToken":{
-	"pre":"function gTimer(){\r\n        var size = ___grecaptcha_cfg.render.length;\r\n        if(size<1){\r\n                clearInterval(gInterval);\r\n                grecaptcha.reset('6Ldf5F0UAAAAALErn6bLEcv7JldhivPzb93Oy5t9');\r\n                grecaptcha.ready(function() {\r\n                        grecaptcha.execute('6Ldf5F0UAAAAALErn6bLEcv7JldhivPzb93Oy5t9',{action: 'watch_video'})\r\n                        .then(function(token) {\r\n                                window.HTMLOUT.processHTML('",
+	"pre":"function gTimer(){\r\n        var size = ___grecaptcha_cfg.render.length;\r\n        if(size<1){\r\n                clearInterval(gInterval);\r\n                grecaptcha.reset('6Ldf5F0UAAAAALErn6bLEcv7JldhivPzb93Oy5t9');\r\n                grecaptcha.ready(function() {\r\n                        grecaptcha.execute('6LfCmh4TAAAAAKog9f8wTyEOc0U8Ms2RTuDFyYP_',{action: 'watch_video'})\r\n                        .then(function(token) {\r\n                                window.HTMLOUT.processHTML('",
     "post":"',encodeURIComponent(token));\r\n                            });\r\n                });\r\n        }\r\n}\r\nfunction loadotro(src){\r\n        var script = document.createElement('script');\r\n        script.setAttribute('data-cfasync', 'false');\r\n        script.src = src;\r\n        document.getElementsByTagName('head')[0].appendChild(script);\r\n}\r\nloadotro(\"https://www.google.com/recaptcha/api.js?render=6Ldf5F0UAAAAALErn6bLEcv7JldhivPzb93Oy5t9\");\r\nvar gInterval = setInterval(gTimer, 3000);"
 	},
 	"getShh":{
