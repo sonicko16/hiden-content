@@ -11,9 +11,11 @@
 	},
 	"getEval":{
 		"method":1,
-		"contains":"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+		"contains":"RegExp",
 		"char":"^",
 		"counts":-1,
-		"regex":""
+		"regex":"",
+		"replace":"",
+		"to":""
 	}
 }
