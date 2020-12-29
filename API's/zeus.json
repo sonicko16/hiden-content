@@ -5,7 +5,7 @@
 	},
 	"getShh":{
 	"place":0,
-	"pre":"",
+	"pre":"function govideoload(shh){}",
 	"post":"bvideo();window.HTMLOUT.getShh(c.toString()",
 	"regex":"govideoload'(.+?)'"
 	},
