@@ -1,7 +1,7 @@
 {
-	"enlace":"https://www.mediafire.com/file/u38qjxv06lviuif/Film_App_v4.2.1.apk/file",
-	"actual":"4.2.1",
-	"mensaje":"\nSi no puedes actualizar:\n1.-Presiona navegador\n2.-Descarga el apk de la actualización\n3.-Desinstala la version instalada\n4.-Instala la actualización manualmente\n\nChangelog:\n-Se corrigió  error en servidor zeus\n-Se corrigieron errores menores",
+	"enlace":"https://www.mediafire.com/file/fwutsxob63lskq1/Film_App_v4.2.2.apk/file",
+	"actual":"4.2.2",
+	"mensaje":"\nSi no puedes actualizar:\n1.-Presiona navegador\n2.-Descarga el apk de la actualización\n3.-Desinstala la version instalada\n4.-Instala la actualización manualmente\n\nChangelog:\n-Se reparó error con servidor Zeus\n-Se reparó error con servidor Pegasus\n-Se reparó error con servidor Turbo\n-Se corrigieron errores menores",
 	"key":"6f88c34b0a6e5f4da96032485395a0ea",
 	"obligatoria":true,
 	"cmd":"bvideo();window.HTMLOUT.getShh(c.toString()",
