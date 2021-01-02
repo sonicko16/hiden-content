@@ -6,7 +6,7 @@
 	"getShh":{
 	"place":0,
 	"pre":"",
-	"post":"window.HTMLOUT.getShh(eval(fun.match('\\\\n[\\\\s\\\\S]+\\\\n')[0].replace('()','.toString()')).match('\\\\}\n(.+?)\\'\\\\);')[0]",
+	"post":"window.HTMLOUT.getShh(eval(fun.match('\\\\n[\\\\s\\\\S]+\\\\n')[0].replace('()','.toString()')).match('\\\\}\\n(.+?)\\'\\\\);')[0])",
 	"regex":"'(.+?)'",
 	"videokey":"orig_vid = \"(.+?)\"",
 	"adb":"adbn = '(.+?)'"
