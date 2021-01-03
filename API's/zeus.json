@@ -5,8 +5,8 @@
 	},
 	"getShh":{
 	"place":0,
-	"pre":"",
-	"post":"window.HTMLOUT.getShh(orales.match('(.+?)\\\\(\\'(.+?)\\'\\\\);\\n(.+?)null')[0]",
+	"pre":"shhh = ''; passiveSupported = true;",
+	"post":"window.HTMLOUT.getShh('\\''+shhh+'\\''",
 	"regex":"'(.+?)'",
 	"videokey":"orig_vid = \"(.+?)\"",
 	"adb":"adbn = '(.+?)'"
@@ -18,7 +18,7 @@
 		"counts":-1,
 		"regex":"\\/\\/console\\.log\\('DOMContentLoaded event'\\);([\\s\\S]+?)var videosize",
 		"replace":".join(''));",
-		"to":".join('').replace('(function (){','var orales = (function(){\\n').replace('})()','}).toString()'));",
+		"to":".join('').replace('(function (shh){','(function (shh){shhh = shh})(shh);(function (shh){'));",
 		"pre":"var fun = ",
 		"post":".toString();"
 	}
