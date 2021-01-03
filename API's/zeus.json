@@ -5,8 +5,8 @@
 	},
 	"getShh":{
 	"place":0,
-	"pre":"isIE11 = false;supportES6 = function () {return false};loadJs = function(){};showLoad = function () {};loadercircle = document.createElement('BUTTON');",
-	"post":"var fun = eval(us.toString().match(',(.+?)\\\\)')[0].replace(',','').replace(')','')+'.toString()');window.HTMLOUT.getShh(eval(fun.match('\\\\n[\\\\s\\\\S]+\\\\n')[0].replace('()','.toString()')).match('\\\\}\\n(.+?)\\'\\\\);')[0]",
+	"pre":"",
+	"post":"window.HTMLOUT.getShh(orales.match('(.+?)\\\\(\\'(.+?)\\'\\\\);\\n(.+?)null')[0]",
 	"regex":"'(.+?)'",
 	"videokey":"orig_vid = \"(.+?)\"",
 	"adb":"adbn = '(.+?)'"
@@ -16,9 +16,9 @@
 		"contains":"RegExp",
 		"char":"^",
 		"counts":-1,
-		"regex":"warn\\(e.message\\);\\}([\\s\\S]+?)\\}; \\/\\/end start",
-		"replace":"};\n",
-		"to":" ",
+		"regex":"\\/\\/console\\.log\\('DOMContentLoaded event'\\);([\\s\\S]+?)var videosize",
+		"replace":".join(''));",
+		"to":".join('').replace('(function (){','var orales = (function(){\\n').replace('})()','}).toString()'));",
 		"pre":"var fun = ",
 		"post":".toString();"
 	}
