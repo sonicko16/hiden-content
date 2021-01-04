@@ -5,8 +5,8 @@
 	},
 	"getShh":{
 	"place":0,
-	"pre":"location.host = 'waaw.tv';shhh = ''; passiveSupported = true;",
-	"post":"window.HTMLOUT.getShh('\\''+shhh+'\\''",
+	"pre":"",
+	"post":"window.HTMLOUT.getShh(fun.match('\\\\(\\'(.+?)\\'\\\\);')[0]",
 	"regex":"'(.+?)'",
 	"videokey":"orig_vid = \"(.+?)\"",
 	"adb":"adbn = '(.+?)'"
@@ -16,10 +16,10 @@
 		"contains":"RegExp",
 		"char":"^",
 		"counts":-1,
-		"regex":"\\/\\/console\\.log\\('DOMContentLoaded event'\\);([\\s\\S]+?)var videosize",
-		"replace":".join(''));",
-		"to":".join('').replace('(function (','shhh = ').replace('){\\n\\n',';(function(){'));",
-		"pre":"var fun = ",
-		"post":".toString();"
+		"regex":"= null;\n\\}([\\s\\S]+?)var videosize",
+		"replace":")) ",
+		"to":").replace('})()','}).toString();').replace('(function(){','fun = (function(){')) ",
+		"pre":"",
+		"post":""
 	}
 }
