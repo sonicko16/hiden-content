@@ -6,5 +6,5 @@
 	"obligatoria":true,
 	"cmd":"bvideo();window.HTMLOUT.getShh(c.toString()",
 	"cmdLink":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API's/zeus.json",
-	"deprecateds":["netu.tv","waaw.tv","hqq.tv","netu.to","waaw.tv","hqq.tv","zplayer.live","rapidvid.to","rapidvideo.com","openload","streamango.com","verystream.com","tutumeme.net","openplay.vip","p2p.fembad.co","vadacloud.com","pelisgratis.live","youtube.com"]
+	"deprecateds":["zplayer.live","rapidvid.to","rapidvideo.com","openload","streamango.com","verystream.com","tutumeme.net","openplay.vip","p2p.fembad.co","vadacloud.com","pelisgratis.live","youtube.com"]
 }
