@@ -6,7 +6,7 @@
 	"getShh":{
 	"place":0,
 	"pre":"",
-	"post":"window.HTMLOUT.getShh(fun.match('\\\\(\\'(.+?)\\'\\\\);')[0]",
+	"post":"\\'';window.HTMLOUT.getShh(shh",
 	"regex":"'(.+?)'",
 	"videokey":"orig_vid = \"(.+?)\"",
 	"adb":"adbn = '(.+?)'"
@@ -16,9 +16,9 @@
 		"contains":"RegExp",
 		"char":"^",
 		"counts":-1,
-		"regex":"= null;\n\\}([\\s\\S]+?)var videosize",
-		"replace":")) ",
-		"to":").replace('})()','}).toString();').replace('(function(){','fun = (function(){')) ",
+		"regex":"= !1;\\n(.+?)'\\)",
+		"replace":"('",
+		"to":"='';shh='\\'",
 		"pre":"",
 		"post":""
 	}
