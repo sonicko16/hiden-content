@@ -1,12 +1,12 @@
 {
 	"getToken":{
-	"pre":"function gTimer(){\r\n        var size = ___grecaptcha_cfg.render.length;\r\n        if(size<1){\r\n                clearInterval(gInterval);\r\n                grecaptcha.reset('6Ldf5F0UAAAAALErn6bLEcv7JldhivPzb93Oy5t9');\r\n                grecaptcha.ready(function() {\r\n                        grecaptcha.execute('6Ldf5F0UAAAAALErn6bLEcv7JldhivPzb93Oy5t9',{action: 'watch_video'})\r\n                        .then(function(token) {\r\n                                window.HTMLOUT.processHTML('",
-    "post":"',encodeURIComponent(token));\r\n                            });\r\n                });\r\n        }\r\n}\r\nfunction loadotro(src){\r\n        var script = document.createElement('script');\r\n        script.setAttribute('data-cfasync', 'false');\r\n        script.src = src;\r\n        document.getElementsByTagName('head')[0].appendChild(script);\r\n}\r\nloadotro(\"https://www.google.com/recaptcha/api.js?render=6Ldf5F0UAAAAALErn6bLEcv7JldhivPzb93Oy5t9\");\r\nvar gInterval = setInterval(gTimer, 3000);"
+	"pre":"console.log('declarando loadall'); function loadAll(){ var link_m3u8 = '/player/get_md5.php?sh='+shh+'&ver=4&secure=0&adb='+adbn+'&v=' + encodeURIComponent(keyoridvid) + '&token=' + '&gt=&embed_from=0&wasmcheck=1&adscore=' + '&click_hash=' + encodeURIComponent(click_hash) + '&clickx='+clickx+'&clicky='+clicky;          $.ajax({             url: link_m3u8,              type: 'GET',              dataType:'json',              contentType: 'application/json',              success: function(data) {                 window.HTMLOUT.desencrypt(data.obf_link);             },             error: function(xhr, ajaxOptions, thrownError){                 return true;             }         }); }  console.log('declarando checkbotclick'); function checkbotclick(e){ e.stopPropagation(); e.stopImmediatePropagation();      var handled = false; if(e.type == 'touchend') {     handled = true; } else if(e.type == 'click' && !handled) {    handled = true; }else{    handled = false; } if(!handled){     return true; } console.log('checkbotclick'); console.debug(e.originalEvent); if('isTrusted' in e.originalEvent && !e.originalEvent.isTrusted){ return !0; } if(typeof e.originalEvent !== 'undefined' && typeof e.originalEvent.touches != 'undefined'){ console.log('bot click touches');     var touch = e.originalEvent.touches[0];     var xp = touch.pageX;     var yp = touch.pageY; }else{ console.log('bot click coord'); var xp = e.clientX; var yp = e.clientY; } clickx=xp; clicky=yp; console.debug(e); console.log(clickx +' '+clicky); loadAll(); }  console.log('declarando loadimage'); function loadimage(shhh, origvid, adb){ shh = shhh; keyoridvid = origvid; adbn = adb;  l = '/player/get_player_image.php?width='+document.firstElementChild.clientWidth+'&height='+document.firstElementChild.clientHeight; console.log(l); $.get(l)         .done(function(data){$('#loading').css('display', 'none');         oldsx = document.firstElementChild.clientWidth;         oldsy = document.firstElementChild.clientHeight;         console.log('insert bot_click');         document.getElementById('bot_click').setAttribute('src', data.image);         click_hash = data.hash_image; 		console.log('adding event to click');         $('#bot_click').on('click touchstart', checkbotclick);         }); } console.log('cargando loadimage');  window.HTMLOUT.processHTML();",
+    "post":""
 	},
 	"getShh":{
 	"place":0,
-	"pre":"",
-	"post":"\\'';window.HTMLOUT.getShh(shh",
+	"pre":"ashh='",
+	"post":"'; loadimage(ashh",
 	"regex":"'(.+?)'",
 	"videokey":"orig_vid = \"(.+?)\"",
 	"adb":"adbn = '(.+?)'"
@@ -16,9 +16,9 @@
 		"contains":"RegExp",
 		"char":"^",
 		"counts":-1,
-		"regex":"= !1;\\n(.+?)'\\)",
-		"replace":"('",
-		"to":"='';shh='\\'",
+		"regex":"shh='(.+?)'",
+		"replace":"",
+		"to":"",
 		"pre":"",
 		"post":""
 	}
