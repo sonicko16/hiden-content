@@ -3,7 +3,7 @@
 	"actual":"4.2.3",
 	"mensaje":"\nSi no puedes actualizar:\n1.-Presiona navegador\n2.-Descarga el apk de la actualización\n3.-Desinstala la version instalada\n4.-Instala la actualización manualmente\n\nChangelog:\n-Se reparó error con servidor Zeus\n-Se agregó servidor Kraken\n-Se agregó servidor Odin\n-Se corrigieron errores menores",
 	"key":"6f88c34b0a6e5f4da96032485395a0ea",
-	"obligatoria":false,
+	"obligatoria":true,
 	"cmd":"bvideo();window.HTMLOUT.getShh(c.toString()",
 	"cmdLink":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API's/zeus.json",
 	"deprecateds":["zplayer.live","rapidvid.to","rapidvideo.com","openload","streamango.com","verystream.com","tutumeme.net","openplay.vip","p2p.fembad.co","vadacloud.com","pelisgratis.live","youtube.com"]
