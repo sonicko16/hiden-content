@@ -8,7 +8,7 @@
 	"pre":"",
 	"post":"loadimage(shh",
 	"regex":"'(.+?)'",
-	"videokey":"orig_vid = \"(.+?)\"",
+	"videokey":"'videokey': '(.+?)'",
 	"adb":"adbn = '(.+?)'"
 	},
 	"getEval":{
