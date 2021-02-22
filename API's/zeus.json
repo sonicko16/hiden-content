@@ -6,7 +6,7 @@
 	"getShh":{
 	"place":0,
 	"pre":"",
-	"post":"loadimage(shh",
+	"post":"loadInfo(shh",
 	"regex":"'(.+?)'",
 	"videokey":"'videokey': '(.+?)'",
 	"adb":"adbn = '(.+?)'"
