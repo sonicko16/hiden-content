@@ -1,8 +1,8 @@
 {
 	"enlace":"https://www.mediafire.com/file/jmi4l2u8h991c5b/Film_App_v4.2.6.apk/file",
 	"enlace2":"https://github.com/sonicko16/hiden-content/raw/master/Film_App_v4.2.6.apk",
-	"actual":"4.2.6",
-	"mensaje":"\nSi no puedes actualizar:\n1.-Presiona navegador\n2.-Descarga el apk de la actualización\n3.-Desinstala la version instalada\n4.-Instala la actualización manualmente\n\nChangelog:\nSe repararon errores con varios servidores-Se corrigieron errores menores",
+	"actual":"4.3.0",
+	"mensaje":"\nSi no puedes actualizar:\n1.-Presiona navegador\n2.-Descarga el apk de la actualización\n3.-Desinstala la version instalada\n4.-Instala la actualización manualmente\n\nChangelog:\n-Servidor Turbo está devuelta\n-Se repararon otros servidores.\n-Se corrigió error que provocaba que la reproducción se detuviera y no se pudiera reanudar\n-Ahora puedes cambiar la relacion de aspecto del reproductor con el gesto pellizcar.",
 	"key":"6f88c34b0a6e5f4da96032485395a0ea",
 	"obligatoria":true,
 	"fembedHost":"diasfem.com",
