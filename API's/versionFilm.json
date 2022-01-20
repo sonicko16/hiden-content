@@ -1,2 +1,15 @@
-{"enlace":"https://www.mediafire.com/file/aikyoqnwotm2co0/Film_App_v4.3.2.apk/file","enlace2":"https://github.com/sonicko16/hiden-content/raw/master/Film_App_v4.3.2.apk","actual":"4.3.2","mensaje":"\nSi no puedes actualizar:\n1.-Presiona navegador\n2.-Descarga el apk de la actualización\n3.-Desinstala la version instalada\n4.-Instala la actualización manualmente\n\nChangelog:\n-Se reparó error al reproducir contenido en servidor Pegasus\n-Se corrigieron algunos errores menores.","key":"6f88c34b0a6e5f4da96032485395a0ea","obligatoria":true,"fembedHost":"suzihaza.com","turboHost":"tomatomatela","cmd":"bvideo();window.HTMLOUT.getShh(c.toString()","cmdLink":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API's/zeus.json","cslink":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API's/cuevinfo.json","certificate":"Si","deprecateds":["hqq.to","hqq.tv","netu.to","netu.tv","waaw.to","waaw.tv","zplayer.live","rapidvid.to","rapidvideo.com","openload","streamango.com","verystream.com","tutumeme.net","openplay.vip","p2p.fembad.co","vadacloud.com","pelisgratis.live","youtube.com"]}om","pelisgratis.live","youtube.com"]
+{
+	"enlace":"https://www.mediafire.com/file/aikyoqnwotm2co0/Film_App_v4.3.2.apk/file",
+	"enlace2":"https://github.com/sonicko16/hiden-content/raw/master/Film_App_v4.3.2.apk",
+	"actual":"4.3.2",
+	"mensaje":"\nSi no puedes actualizar:\n1.-Presiona navegador\n2.-Descarga el apk de la actualización\n3.-Desinstala la version instalada\n4.-Instala la actualización manualmente\n\nChangelog:\n-Se reparó error al reproducir contenido en servidor Pegasus\n-Se corrigieron algunos errores menores.",
+	"key":"6f88c34b0a6e5f4da96032485395a0ea",
+	"obligatoria":true,
+	"fembedHost":"diasfem.com",
+	"turboHost":"tomatomatela",
+	"cmd":"bvideo();window.HTMLOUT.getShh(c.toString()",
+	"cmdLink":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API's/zeus.json",
+	"cslink":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API's/cuevinfo.json",
+	"certificate":"Si",
+	"deprecateds":["hqq.to","hqq.tv","netu.to","netu.tv","waaw.to","waaw.tv","zplayer.live","rapidvid.to","rapidvideo.com","openload","streamango.com","verystream.com","tutumeme.net","openplay.vip","p2p.fembad.co","vadacloud.com","pelisgratis.live","youtube.com"]
 }
