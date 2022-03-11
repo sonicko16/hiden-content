@@ -1,8 +1,8 @@
 {
 	"enlace":"https://www.mediafire.com/file/ng4ofnsc9b1416d/Film_App_v4.3.3.apk/file",
-	"enlace2":"https://github.com/sonicko16/hiden-content/raw/master/Film_App_v4.3.2.apk",
+	"enlace2":"https://github.com/sonicko16/hiden-content/raw/master/Film_App_v4.3.3.apk",
 	"actual":"4.3.3",
-	"mensaje":"\nSi no puedes actualizar:\n1.-Presiona navegador\n2.-Descarga el apk de la actualización\n3.-Desinstala la version instalada\n4.-Instala la actualización manualmente\n\nChangelog:\n-Se reparó error al reproducir contenido en servidor Pegasus\n-Se corrigieron algunos errores menores.",
+	"mensaje":"\nSi no puedes actualizar:\n1.-Presiona navegador\n2.-Descarga el apk de la actualización\n3.-Desinstala la version instalada\n4.-Instala la actualización manualmente\n\nChangelog:\n-Nuevo servidor Ultra.\n-Agregamos más servidores al contenido.\n-Algunos errores corregidos.",
 	"key":"6f88c34b0a6e5f4da96032485395a0ea",
 	"obligatoria":true,
 	"fembedHost":"suzihaza.com",
