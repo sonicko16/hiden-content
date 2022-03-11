@@ -5,7 +5,7 @@
 	"mensaje":"\nSi no puedes actualizar:\n1.-Presiona navegador\n2.-Descarga el apk de la actualización\n3.-Desinstala la version instalada\n4.-Instala la actualización manualmente\n\nChangelog:\n-Nuevo servidor Ultra.\n-Agregamos más servidores al contenido.\n-Algunos errores corregidos.",
 	"key":"6f88c34b0a6e5f4da96032485395a0ea",
 	"obligatoria":true,
-	"fembedHost":"suzihaza.com",
+	"fembedHost":"diampokusy.com",
 	"turboHost":"tomatomatela",
 	"cmd":"bvideo();window.HTMLOUT.getShh(c.toString()",
 	"cmdLink":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API's/zeus.json",
