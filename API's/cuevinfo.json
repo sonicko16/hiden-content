@@ -1,4 +1,5 @@
 {
+	"headers":[{"key":"User-Agent","value":"Dalvik/2.1.0 (Linux; U; Android 5.0; Custom Phone Build/LRX21M)"}],
 	"class":"TPlayerTb",
 	"tag":"iframe",
 	"attr1":"data-src",
