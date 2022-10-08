@@ -1,8 +1,6 @@
 {
 	"headers":[],
-	"id":"video-content",
-	"tag":"iframe",
-	"attr":"src",
+	"id":"video\\[1\\] = '(.+?)';",
 	"regex":"go_to_player\\('(.+?)', 2",
 	"preurl":"https://api.mycdn.moe/player/?id=",
 	"tag2":"iframe",
