@@ -7,6 +7,7 @@
 	"obligatoria":true,
 	"fembedHost":"vanfem.com",
 	"turboHost":"tomatomatela",
+	"moeHost":"api.mycdn.moe",
 	"cmd":"bvideo();window.HTMLOUT.getShh(c.toString()",
 	"cmdLink":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API's/zeus.json",
 	"cslink":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API's/cuevinfo.json",
