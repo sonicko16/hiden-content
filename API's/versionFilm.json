@@ -17,5 +17,5 @@
 	"sbHostRegex":"watchsb|sbfast|streamsss|sbfull|sblanh|sbplay|sbembed",
 	"sbslink":"https://raw.githubusercontent.com/sonicko16/vip/master/sbScript.json",
 	"sbM3u8":true,
-	"deprecateds":["tomatomatela","hqq.to","hqq.tv","netu.to","netu.tv","waaw.to","waaw.tv","zplayer.live","rapidvid.to","rapidvideo.com","openload","streamango.com","verystream.com","tutumeme.net","openplay.vip","p2p.fembad.co","vadacloud.com","pelisgratis.live","youtube.com"]
+	"deprecateds":["hqq.to","hqq.tv","netu.to","netu.tv","waaw.to","waaw.tv","zplayer.live","rapidvid.to","rapidvideo.com","openload","streamango.com","verystream.com","tutumeme.net","openplay.vip","p2p.fembad.co","vadacloud.com","pelisgratis.live","youtube.com"]
 }
