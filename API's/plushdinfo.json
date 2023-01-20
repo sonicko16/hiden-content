@@ -1,7 +1,10 @@
 {
 	"headers":[],
-	"id":"nonce",
-	"id2":"h",
+	"preurl":"https://api.mycdn.moe/player/?id=",
+	"tag2":"iframe",
+	"id":"video\\[1\\] = '(.+?)';",
+	"id2":"nonce",
+	"id3":"h",
 	"attr":"value",
 	"attr2":"value",
 	"html":"<html><head><script src='https://code.jquery.com/jquery-3.4.1.min.js' integrity='sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=' crossorigin='anonymous'></script> <script src='https://www.google.com/recaptcha/api.js?render=6Ld2sd8jAAAAAAtXl-3go9lozDFCEHiyZXSCVlo8'></script></head><body><script>grecaptcha.ready(function() {grecaptcha.execute('6Ld2sd8jAAAAAAtXl-3go9lozDFCEHiyZXSCVlo8', {action: 'captchaPassed'}).then(function(token) {window.HTMLOUT.processHTML('",
@@ -13,5 +16,6 @@
 	"form":"nonce=",
 	"form2":"&h=",
 	"form3":"&g-recaptcha-response=",
+	"regex2":"go_to_player\\('(.+?)', 2",
 	"regex":"\\\"file\\\":\\\"(.+?)\\\""
 }
