@@ -7,9 +7,12 @@
 	"latino":"optl",
 	"castellano":"opte",
 	"subtitulado":"opts",
+	"contains":"goto_ddh.php",
 	"contains1":"player.php",
 	"contains2":"/fembed/",
 	"split":"=",
+	"split2":"=",
+	"concat":"/ir/redirect_ddh.php",
 	"concat1":"/ir/rd.php",
 	"contains3":"goto_ddh.php",
 	"concat2":"/ir/redirect_ddh.php",
@@ -17,5 +20,6 @@
 	"concat3":"/sc/r.php",
 	"server1":"url",
 	"server2":"h",
+	"server3":"url",
 	"normal":true
 }
