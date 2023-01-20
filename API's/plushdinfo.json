@@ -13,5 +13,5 @@
 	"form":"nonce=",
 	"form2":"&h=",
 	"form3":"&g-recaptcha-response=",
-	"regex":"\"file\":\"(.+?)\""
+	"regex":"\\\"file\\\":\\\"(.+?)\\\""
 }
