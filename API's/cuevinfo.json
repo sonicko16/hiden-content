@@ -24,7 +24,7 @@
 	"normal":true,
 	"replace":"details.php?v=",
 	"replace2":"embed.html#",
-	"replace3":"\\\\",
+	"replace3":"\\",
 	"replace4":"",
 	"regex":"\\\"file\\\":\\\"(.+?)\\\""
 }
