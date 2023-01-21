@@ -1,0 +1,6 @@
+{
+	"headers":[],
+	"regex":"file: '(.+?)'",
+	"replace":"\\",
+	"replace2":""
+}
