@@ -1,7 +1,7 @@
 {
 	"headers":[{"key":"Accept-Language","value":"es-MX,es;q=0.8,en-US;q=0.5,en;q=0.3"}],
-	"onfinish":"if(location.href.indexOf('waaw')>1){\t window.stop();}try{       \t console.log('========= '+location.href);\t    if(location.href.indexOf('apialfa')>1 && document.getElementsByClassName('link')[0] != undefined){              location.replace(document.getElementsByClassName('link')[0].href);              window.HTMLOUT.changeDoit(true);       }else if(location.href.indexOf('fembed/index.php')>1){              window.HTMLOUT.changeDoit(true);       }else if(location.href.indexOf('index.php')>1){              document.getElementsByTagName('form')[0].submit();              window.HTMLOUT.changeDoit(true);       }else if(location.href.indexOf('apialfa')>1 && location.href.indexOf('fembed')>1){              document.getElementById('player1').click();              window.HTMLOUT.changeDoit(true);       }else if(location.href.indexOf('goto')>1){              window.HTMLOUT.changeDoit(true);       }else if(location.href.indexOf('tomate')>1 ||                     location.href.indexOf('streamtape')>1 ||                     location.href.indexOf('watchsb')>1 ||                     location.href.indexOf('vanfem')>1){              window.HTMLOUT.processHTML(location.href);       }else{              window.HTMLOUT.getError();       }}catch(error){       window.HTMLOUT.getError();}",
-	"onstart":"if(location.href.indexOf('waaw')>1){window.stop();}",
+	"onfinish":"",
+	"onstart":"\nfunction myfunction(){\ntry{       \n       console.log('========= '+location.href);\n          if((location.href.indexOf('apialfa')>1 || location.href.indexOf('api.cuevana3')>1 ) && document.getElementsByClassName('link')[0] != undefined){\n              location.replace(document.getElementsByClassName('link')[0].href);\n              window.HTMLOUT.changeDoit(true);\n       }else if(location.href.indexOf('fembed/index.php')>1){\n              window.HTMLOUT.changeDoit(true);\n       }else if(location.href.indexOf('index.php')>1){\n              document.getElementsByTagName('form')[0].submit();\n              window.HTMLOUT.changeDoit(true);\n       }else if((location.href.indexOf('apialfa')>1 || location.href.indexOf('api.cuevana3')>1 ) && location.href.indexOf('fembed')>1){\n              document.getElementById('player1').click();\n              window.HTMLOUT.changeDoit(true);\n       }else if(location.href.indexOf('goto')>1){\n              window.HTMLOUT.changeDoit(true);\n       }else if(location.href.indexOf('tomate')>1 ||\n                     location.href.indexOf('streamtape')>1 ||\n                     location.href.indexOf('watchsb')>1 ||\n                     location.href.indexOf('sbembed')>1 ||\n                     location.href.indexOf('vanfem')>1){\n              window.HTMLOUT.processHTML(location.href);\n       }else{\n              window.HTMLOUT.getError();\n       }\n}catch(error){\n       window.HTMLOUT.getError();\n}\n}\nconsole.log('programando');\nsetTimeout(reloj,1000);\nintentos = 0;\nfunction reloj(){\n       if(window.document == null && intentos<10){\n              console.log('esperando');\n              intentos++;\n              setTimeout(reloj,1000);\n       }else{\n              console.log('listo');\n              myfunction();\n       }\n}",
 	"class":"TPlayerTb",
 	"tag":"iframe",
 	"attr1":"data-src",
@@ -23,7 +23,7 @@
 	"server1":"url",
 	"server2":"h",
 	"server3":"url",
-	"normal":true,
+	"normal":false,
 	"replace":"details.php?v=",
 	"replace2":"embed.html#",
 	"replace3":"\\",
