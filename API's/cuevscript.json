@@ -2,5 +2,13 @@
 "onstart":"if(location.href.indexOf('waaw')>1){window.stop();}",
 "class":"TPlayerTb",
 "tag":"iframe",
-"attr":"data-src"
+"attr":"data-src",
+
+"patron":"",
+"patron2":"",
+"patron3":"",
+"remplazamiento":"",
+"remplazamiento2":"",
+"inicio":"",
+"pagina":""
 }
