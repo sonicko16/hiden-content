@@ -4,6 +4,7 @@
 "tag":"iframe",
 "attr":"data-src",
 
+"headers":[{"key":"Accept-Language","value":"es-MX,es;q=0.8,en-US;q=0.5,en;q=0.3"}],
 "patron":"",
 "patron2":"",
 "patron3":"",
