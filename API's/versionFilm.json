@@ -11,6 +11,7 @@
 	"cmd":"bvideo();window.HTMLOUT.getShh(c.toString()",
 	"cmdLink":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API's/zeus.json",
 	"cslink":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API's/cuevinfo.json",
+	"cslink2":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API's/cuevinfo2.json",
 	"cscript":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API's/cuevscript.json",
 	"phlink":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API's/plushdinfo.json",
 	"certificate":"Si",
