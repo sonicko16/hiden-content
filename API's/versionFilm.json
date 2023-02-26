@@ -4,7 +4,7 @@
 	"actual":"4.3.10",
 	"mensaje":"\nSi no puedes actualizar:\n1.-Presiona navegador\n2.-Descarga el apk de la actualización\n3.-Desinstala la version instalada\n4.-Instala la actualización manualmente\n\nChangelog:\n-Se corrigío servidor Turbo.\n-Algunos errores corregidos.",
 	"paquete":"com.digitalproshare.filmapp",
-	"anteriores":"com.filmlegacy.slupaf",
+	"anteriores":"com.thisislaw.randomapp",
 	"key":"6f88c34b0a6e5f4da96032485395a0ea",
 	"obligatoria":true,
 	"fembedHost":"vanfem.com",
