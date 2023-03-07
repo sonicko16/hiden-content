@@ -1,8 +1,8 @@
 {
-	"enlace":"https://www.mediafire.com/file/k39ruc549pw4mtb/Film_App_v4.3.10.apk/file",
-	"enlace2":"https://github.com/sonicko16/hiden-content/raw/master/Film_App_v4.3.10.apk",
-	"actual":"4.3.10",
-	"mensaje":"\nSi no puedes actualizar:\n1.-Presiona navegador\n2.-Descarga el apk de la actualización\n3.-Desinstala la version instalada\n4.-Instala la actualización manualmente\n\nChangelog:\n-Se corrigío servidor Turbo.\n-Algunos errores corregidos.",
+	"enlace":"https://www.mediafire.com/file/ro64motk3bkoxdh/Film_App_v4.4.0.apk/file",
+	"enlace2":"https://github.com/sonicko16/hiden-content/raw/master/Film_App_v4.4.0.apk",
+	"actual":"4.4.0",
+	"mensaje":"\nSi no puedes actualizar:\n1.-Presiona navegador\n2.-Descarga el apk de la actualización\n3.-Desinstala la version instalada\n4.-Instala la actualización manualmente\n\nChangelog:\n-Se corrigío error que causaba el cierre inesperado de la aplicación a algunos usuarios.\n-Se agregarón cientos de enlaces.\n-Algunos errores menores corregidos.",
 	"paquete":"com.digitalproshare.filmapp",
 	"anteriores":"com.thisislaw.randomapp",
 	"key":"6f88c34b0a6e5f4da96032485395a0ea",
