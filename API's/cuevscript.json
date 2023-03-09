@@ -15,7 +15,7 @@
 "salto":"",
 "salto2":"",
 "inicio":"<html>\n  \t<head>\n  \t    <script\n  \t        src='https://code.jquery.com/jquery-3.4.1.min.js'\n  \t        integrity='sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo='\n  \t        crossorigin='anonymous'></script>\n\t    <script src='https://www.google.com/recaptcha/api.js?render=6LdXskUkAAAAAOeCU9Lb1XbqFWeGcR9unOH3QIYK'></script>\n\t</head>\n\t<body>\n\t\t<script>\n\t\t\tgrecaptcha.ready(function() {\n\t\t\t\tgrecaptcha.execute('6LdXskUkAAAAAOeCU9Lb1XbqFWeGcR9unOH3QIYK', {action: 'onSubmit'}).then(function(token) {\n\t\t\t\t\tprocesar(token);\n\t\t\t\t});;\n\t\t\t});\n\n\t\t\tfunction procesar(token){",
-"pagina":"\n                    var file = window.location.hash.split('#')[1];\n                    checkUrl = 'https://clonamesta.xyz/details-vh.php?v=' + file;\n                    var hash = window.creepHash;\n                    checkUrl = checkUrl + '&s=' + token;\n\t\t\t\t\twindow.HTMLOUT.processHTML(checkUrl);\n\t\t\t}\n\t\t</script>\n\t</body>\n</html>",
+"pagina":"\n                    var file = window.location.hash.split('#')[1];\n                    checkUrl = 'https://clonamesta.xyz/details-vr.php?v=' + file;\n                    var hash = window.creepHash;\n                    checkUrl = checkUrl + '&s=' + token;\n\t\t\t\t\twindow.HTMLOUT.processHTML(checkUrl);\n\t\t\t}\n\t\t</script>\n\t</body>\n</html>",
 "patron5":"\\\"file\\\":\\\"(.+?)\\\"",
 "objetivo":"\\",
 "remplazamiento4":""
