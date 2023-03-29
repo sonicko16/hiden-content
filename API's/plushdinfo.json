@@ -2,7 +2,7 @@
 	"headers":[],
 	"preurl":"https://api.mycdn.moe/player/?id=",
 	"tag2":"iframe",
-	"id":"video\\[2\\] = '(.+?)';",
+	"id":"video\\[1\\] = '(.+?)';",
 	"id2":"nonce",
 	"id3":"h",
 	"attr2":"src",
