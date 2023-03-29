@@ -21,14 +21,14 @@
 	"pelisfileHost":"pelisplay.cc",
 	"certificate":"Si",
 	"sbstreamHost":"sbstream",
-	"sbHostRegex":"watchsb|sbfast|streamsss|sbfull|sblanh|sbplay|sbembed|sbhight|sbbrisk|streamsb",
+	"sbHostRegex":"watchsb|sbfast|streamsss|sbfull|sblanh|sbplay|sbembed|sbhight|sbbrisk|streamsb|sbface",
 	"nuuhostregex":"nuuuppp",
 	"nuulink":"https://raw.githubusercontent.com/sonicko16/vip/master/nuuinfo.json",
 	"sbslink":"https://raw.githubusercontent.com/sonicko16/vip/master/sbScript.json",
 	"hublink":"https://raw.githubusercontent.com/sonicko16/vip/master/hubinfo.json",
 	"sbM3u8":true,
 	"loadInMain":false,
-	"alfrente":true,
+	"alfrente":false,
 	"deprecateds":["tomatomatela","hqq.to","hqq.tv","netu.to","netu.tv","waaw.to","waaw.tv","zplayer.live","rapidvid.to","rapidvideo.com","openload","streamango.com","verystream.com","tutumeme.net","openplay.vip","p2p.fembad.co","vadacloud.com","pelisgratis.live","youtube.com"],
 	"obsoletos":["service-r.html","tomatomatela","waaw.to","waaw.tv","hqq.to","hqq.tv","netu.to","netu.tv","zplayer.live","rapidvid.to","rapidvideo.com","openload","streamango.com","verystream.com","tutumeme.net","openplay.vip","p2p.fembad.co","vadacloud.com","pelisgratis","youtube.com"]
 }
