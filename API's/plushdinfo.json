@@ -8,15 +8,15 @@
 	"attr2":"src",
 	"attr":"action",
 	"attr3":"value",
-	"html":"<html>\n\n<body>\n    <script>\n        arreglo = ['",
-	"html2":"'];\n        window.HTMLOUT.processHTML('',arreglo[1],'');\n    </script>\n</body>\n\n</html>",
+	"html":"<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"UTF-8\">\n    <title>PLUSVIP</title>\n    <script type=\"text/javascript\" src=\"/assets/jquery.min.js\"></script>\n    <script src=\"https://challenges.cloudflare.com/turnstile/v0/api.js?onload=onloadTurnstileCallback\" async defer></script>\n  </head>\n  <body>\n    <div id=\"myWidget\"></div>\n    <script type=\"text/javascript\">\n      arreglo = ['",
+	"html2":"']\n      window.onloadTurnstileCallback = function () {\n        turnstile.render('#myWidget', {\n          sitekey: '0x4AAAAAAADwY6o98g5MTA3E',\n          callback: function(token) {\n          \twindow.HTMLOUT.processHTML('',arreglo[1],token);\n          },\n        });\n      };\n    </script>\n  </body>\n</html>",
 	"url":"https://plusvip.net/humanize",
 	"start":"video.mp4",
 	"host":"https://plusvip.net/",
 	"post":"https://plusvip.net/video.html",
 	"form":"",
 	"form2":"h=",
-	"form3":"",
+	"form3":"&cf-turnstile-response=",
 	"regex":"go_to_player\\('(.+?)', 2",
 	"regex2":"\\\"file\\\":\\\"(.+?)\\\""
 }
