@@ -18,7 +18,7 @@
 	"phlink":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API's/plushdinfo.json",
 	"pflink":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API's/pelisfileinfo.json",
 	"oplink":"https://raw.githubusercontent.com/sonicko16/vip/master/oceaninfo.json",
-	"pelisfileHost":"pelisplay.cc",
+	"pelisfileHost":"pelisplay.io",
 	"certificate":"Si",
 	"sbstreamHost":"sbstream",
 	"sbHostRegex":"watchsb|sbfast|streamsss|sbfull|sblanh|sbplay|sbembed|sbhight|sbbrisk|streamsb|sbface|sbspeed|lvturbo|streamsxd|sbrapid|sbchill|sblona|sbsonic",
