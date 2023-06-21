@@ -25,7 +25,7 @@
 	"nuuhostregex":"nuuuppp",
 	"nuulink":"https://raw.githubusercontent.com/sonicko16/vip/master/nuuinfo.json",
 	"sbslink":"https://raw.githubusercontent.com/sonicko16/vip/master/sbScript.json",
-	"hublink":"https://raw.githubusercontent.com/sonicko16/vip/master/hubinfo.json",
+	"hublink":"https://raw.githubusercontent.com/sonicko16/vip/master/otroinfo.json",
 	"sbM3u8":true,
 	"loadInMain":false,
 	"alfrente":false,
