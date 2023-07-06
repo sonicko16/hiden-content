@@ -47,7 +47,9 @@
       "idioma3":"Subtitulado"
     },
     "lat":{
-      "regex":"url=\"(.+?)\""
+      "regex":"url=\"(.+?)\"",
+      "replace":"pelistop.co",
+      "replace2":"sbbrisk.com"
     }
   }
 }
