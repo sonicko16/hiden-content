@@ -1,0 +1,53 @@
+{
+  "replaces":{
+    "biz.com":"cuevana.biz",
+    "embed.net":"2434445.xyz",
+    "hd.net":"cuevanahd.net",
+    "plus.lat":"pelisplus.lat",
+    "pro.com":"cuevana.pro",
+    "lat.hd":"pelisplushd.lat",
+    "to.hd":"pelisplushd.to"
+    },
+  "scripts":{
+    "biz":{
+      "regex":"videos\\\":(.+?),\\\"downloads",
+      "regex2":"url = '(.+?)'",
+      "idioma":"spanish",
+      "idioma2":"english"
+    },
+    "embed":{
+      "regex":"go_to_player\\('(.+?)'"
+    },
+    "hd":{
+      "regex":"pelicula/(.+?)/",
+      "regex2":"id\":\"(.+?)\"",
+      "url":"https://api.esplay.one/graphql",
+      "form":"{\"operationName\":\"movie_slug\",\"variables\":{\"slug\":\"",
+      "form2":"\"},\"query\":\"fragment MovieFields on Show {\\n  id\\n  title\\n  type\\n  originalTitle\\n  overview\\n  coverPath\\n  year\\n  slug\\n  year\\n  viewCount\\n  duration\\n  popularity\\n  voteCount\\n  voteAverage\\n  slugAliases\\n  premiere\\n  active\\n  trailer\\n  cast {\\n    name\\n    __typename\\n  }\\n  genres {\\n    id\\n    slug\\n    name\\n    __typename\\n  }\\n  country {\\n    name\\n    __typename\\n  }\\n  gallery {\\n    type\\n    photoPath\\n    backdrop\\n    __typename\\n  }\\n  quality {\\n    type\\n    language\\n    __typename\\n  }\\n  __typename\\n}\\n\\nquery movie_slug($slug: String) {\\n  show(slug: $slug, type: \\\"movie\\\") {\\n    ...MovieFields\\n    __typename\\n  }\\n}\\n\"}",
+      "data":"data",
+      "videos":"videos",
+      "video":"url",
+      "language":"language",
+      "idioma":"lat",
+      "idioma2":"sub",
+      "idioma3":"es",
+      "url2":"https://api.esplay.one/graphql",
+      "form3":"{\"operationName\":\"queryVideos\",\"variables\":{\"itemId\":\"",
+      "form4":"\"},\"query\":\"query queryVideos($itemId: String!) {\\n  videos(itemId: $itemId) {\\n    language\\n    url\\n    quality\\n    sandbox\\n    type\\n    server\\n    updatedAt\\n    status\\n    __typename\\n  }\\n}\\n\"}"
+    },
+    "pro":{
+      "regex":"<li role=\\\"presentation\\\"(.+?)<\\/span><\\/li>",
+      "regex2":"data-server=\"(.+?)\"",
+      "split":"v=",
+      "regex3":"· (.+?) </span>",
+      "replace":"https://akamai-cdn-content.interplanetary.video",
+      "replace2":"https://sbembed.com",
+      "idioma":"Latino",
+      "idioma2":"Castellano",
+      "idioma3":"Subtitulado"
+    },
+    "lat":{
+      "regex":"url=\"(.+?)\""
+    }
+  }
+}
