@@ -19,7 +19,7 @@
       "regex":"go_to_player\\('(.+?)'"
     },
     "hd":{
-      "regex":"pelicula/(.+?)/",
+      "regex":"(pelicula|serie)/(.+?)/",
       "regex2":"id\":\"(.+?)\"",
       "url":"https://api.esplay.one/graphql",
       "form":"{\"operationName\":\"movie_slug\",\"variables\":{\"slug\":\"",
