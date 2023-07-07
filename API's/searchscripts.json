@@ -50,6 +50,12 @@
       "regex":"url=\"(.+?)\"",
       "replace":"pelistop.co",
       "replace2":"sbbrisk.com"
+    },
+    "pelisgratis":{
+      "regex":"go_to_player\\('(.+?)'",
+      "url":"https://player.pelisgratishd.io",
+      "replace":"/playerdir/",
+      "replace2":"/playdir/"
     }
   }
 }
