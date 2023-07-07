@@ -19,8 +19,9 @@
       "regex":"go_to_player\\('(.+?)'"
     },
     "hd":{
-      "regex":"(pelicula|serie)/(.+?)/",
+      "regex":"pelicula/(.+?)/",
       "regex2":"id\":\"(.+?)\"",
+      "regex3":"serie/(.+?)/",
       "url":"https://api.esplay.one/graphql",
       "form":"{\"operationName\":\"movie_slug\",\"variables\":{\"slug\":\"",
       "form2":"\"},\"query\":\"fragment MovieFields on Show {\\n  id\\n  title\\n  type\\n  originalTitle\\n  overview\\n  coverPath\\n  year\\n  slug\\n  year\\n  viewCount\\n  duration\\n  popularity\\n  voteCount\\n  voteAverage\\n  slugAliases\\n  premiere\\n  active\\n  trailer\\n  cast {\\n    name\\n    __typename\\n  }\\n  genres {\\n    id\\n    slug\\n    name\\n    __typename\\n  }\\n  country {\\n    name\\n    __typename\\n  }\\n  gallery {\\n    type\\n    photoPath\\n    backdrop\\n    __typename\\n  }\\n  quality {\\n    type\\n    language\\n    __typename\\n  }\\n  __typename\\n}\\n\\nquery movie_slug($slug: String) {\\n  show(slug: $slug, type: \\\"movie\\\") {\\n    ...MovieFields\\n    __typename\\n  }\\n}\\n\"}",
@@ -33,7 +34,11 @@
       "idioma3":"es",
       "url2":"https://api.esplay.one/graphql",
       "form3":"{\"operationName\":\"queryVideos\",\"variables\":{\"itemId\":\"",
-      "form4":"\"},\"query\":\"query queryVideos($itemId: String!) {\\n  videos(itemId: $itemId) {\\n    language\\n    url\\n    quality\\n    sandbox\\n    type\\n    server\\n    updatedAt\\n    status\\n    __typename\\n  }\\n}\\n\"}"
+      "form4":"\"},\"query\":\"query queryVideos($itemId: String!) {\\n  videos(itemId: $itemId) {\\n    language\\n    url\\n    quality\\n    sandbox\\n    type\\n    server\\n    updatedAt\\n    status\\n    __typename\\n  }\\n}\\n\"}",
+      "form5":"{\"operationName\":\"episode\",\"variables\":{\"showSlug\":\"",
+      "form6":"\",\"seasonNumber\":",
+      "form7":",\"number\":",
+      "form8":"},\"query\":\"query episode($showSlug: String!, $seasonNumber: Int!, $number: Int!) {\\n  episodeInfoByNumber(\\n    showSlug: $showSlug\\n    seasonNumber: $seasonNumber\\n    number: $number\\n  ) {\\n    show {\\n      title\\n      coverPath\\n      year\\n      slug\\n      trailer\\n      __typename\\n    }\\n    season {\\n      episodeCount\\n      __typename\\n    }\\n    episode {\\n      id\\n      title\\n      overview\\n      coverPath\\n      __typename\\n    }\\n    __typename\\n  }\\n}\\n\"}"
     },
     "pro":{
       "regex":"<li role=\\\"presentation\\\"(.+?)<\\/span><\\/li>",
