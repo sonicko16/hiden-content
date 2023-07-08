@@ -9,6 +9,7 @@
 	"obligatoria":true,
 	"fembedHost":"vanfem.com",
 	"turboHost":"tomatomatela",
+	"esplayHost":"esplay",
 	"moeHost":"plusvip.net",
 	"cmd":"bvideo();window.HTMLOUT.getShh(c.toString()",
 	"cmdLink":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API's/zeus.json",
