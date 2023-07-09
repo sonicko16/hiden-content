@@ -24,6 +24,7 @@
 	"sbstreamHost":"sbstream",
 	"sbHostRegex":"watchsb|sbfast|streamsss|sbfull|sblanh|sbplay|sbembed|sbhight|sbbrisk|streamsb|sbface|sbspeed|lvturbo|streamsxd|sbrapid|sbchill|sblona|sbsonic|likessb",
 	"nuuhostregex":"nuuuppp",
+	"doodRegex":"dood",
 	"vipregex":"okru.link",
 	"nuulink":"https://raw.githubusercontent.com/sonicko16/vip/master/nuuinfo.json",
 	"sbslink":"https://raw.githubusercontent.com/sonicko16/vip/master/sbScript.json",
