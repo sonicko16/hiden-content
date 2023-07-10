@@ -20,6 +20,7 @@
 	"pflink":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API's/pelisfileinfo.json",
 	"oplink":"https://raw.githubusercontent.com/sonicko16/vip/master/oceaninfo.json",
 	"getterscripts":"https://raw.githubusercontent.com/sonicko16/vip/master/scripts.json",
+	"searchscripts":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API%27s/searchscripts.json",
 	"pelisfileHost":"pelisplay.io",
 	"certificate":"Si",
 	"sbstreamHost":"sbstream",
