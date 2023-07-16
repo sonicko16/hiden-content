@@ -57,7 +57,7 @@
       "replace2":"sbbrisk.com"
     },
     "pelisgratis":{
-      "regex":"go_to_player\\('(.+?)'",
+      "regex":"player=\"(.+?)\"",
       "url":"https://player.pelisgratishd.io",
       "replace":"/playerdir/",
       "replace2":"/playdir/"
