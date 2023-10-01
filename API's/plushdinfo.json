@@ -1,6 +1,6 @@
 {
 	"headers":[],
-	"preurl":"https://www.discogs.com/es/search/?q=",
+	"preurl":"https://world.openfoodfacts.org/cgi/search.pl?search_terms=",
 	"tag2":"input",
 	"id":"'(.+?\\/video\\/.+?)'",
 	"id2":"singaparao",
