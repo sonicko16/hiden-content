@@ -1,6 +1,6 @@
 {
 	"headers":[],
-	"preurl":"https://cuevana3.media/?s=",
+	"preurl":"https://www.ecosia.org/search?method=index&q=",
 	"tag2":"input",
 	"id":"'(.+?\\/video\\/.+?)'",
 	"id2":"singaparao",
