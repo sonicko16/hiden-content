@@ -21,7 +21,7 @@
 	"oplink":"https://raw.githubusercontent.com/sonicko16/vip/master/oceaninfo.json",
 	"getterscripts":"https://raw.githubusercontent.com/sonicko16/vip/master/scripts.json",
 	"searchscripts":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API%27s/searchscripts.json",
-	"pelisfileHost":"pelisplay.io",
+	"pelisfileHost":"pelisplay.info",
 	"certificate":"Si",
 	"sbstreamHost":"sbstream",
 	"sbHostRegex":"sbstream",
