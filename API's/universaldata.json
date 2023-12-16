@@ -1,0 +1,21 @@
+{
+  "hosts": {
+    "hd.net": "cuevanahd.net",
+    "biz.com": "cuevana.biz"
+  },
+  "scripts": {
+    "hd.net": [
+      {
+        "pre": "<html><head><script>h = '[]';form = '{\\\"operationName\\\":\\\"movie_slug\\\",\\\"variables\\\":{\\\"slug\\\":\\\"';form += location.href.match('pelicula/(.*)/')[1];form += '\\\"},\\\"query\\\": \\\"fragment MovieFields on Show {\\\\n  id\\\\n  title\\\\n  type\\\\n  originalTitle\\\\n  overview\\\\n  coverPath\\\\n  year\\\\n  slug\\\\n  year\\\\n  viewCount\\\\n  duration\\\\n  popularity\\\\n  voteCount\\\\n  voteAverage\\\\n  slugAliases\\\\n  premiere\\\\n  active\\\\n  trailer\\\\n  cast {\\\\n    name\\\\n    __typename\\\\n  }\\\\n  genres {\\\\n    id\\\\n    slug\\\\n    name\\\\n    __typename\\\\n  }\\\\n  country {\\\\n    name\\\\n    __typename\\\\n  }\\\\n  gallery {\\\\n    type\\\\n    photoPath\\\\n    backdrop\\\\n    __typename\\\\n  }\\\\n  quality {\\\\n    type\\\\n    language\\\\n    __typename\\\\n  }\\\\n  __typename\\\\n}\\\\n\\\\nquery movie_slug($slug: String) {\\\\n  show(slug: $slug, type: \\\\\"movie\\\\\") {\\\\n    ...MovieFields\\\\n    __typename\\\\n  }\\\\n}\\\\n\\\"}';window.HTMLOUT.usepost('https://api.esplay.one/graphql', form, h, true, true, '');</script></head><body></body></html>",
+        "post": ""
+      },
+      {
+        "pre": "<html><head><script>h = '[]';encode = '",
+        "post": "';encode = atob(encode);id = encode.match('\\\"id\\\":\\\"(.*)\\\",\\\"title')[1];;form = '{    \\\"operationName\\\": \\\"queryVideos\\\",    \\\"variables\\\": {        \\\"itemId\\\": \\\"';form += id;form += '\\\"    },    \\\"query\\\": \\\"query queryVideos($itemId: String!) {\\\\n  videos(itemId: $itemId) {\\\\n    language\\\\n    url\\\\n    quality\\\\n    sandbox\\\\n    type\\\\n    server\\\\n    updatedAt\\\\n    status\\\\n    __typename\\\\n  }\\\\n}\\\\n\\\"}';window.HTMLOUT.usepost('https://api.esplay.one/graphql', form, h, true, true, '');</script></head><body></body></html>"
+      },
+      {
+        "pre": "<html><head><script>encode = '",
+        "post": "';encode = atob(encode);object = JSON.parse(encode);array = object['data']['videos'];for (let index = 0; index < array.length; index++) {    lang = array[index]['language'];    if (lang == 'lat') {        lang = 'Latino';    }else if (lang == 'sub') {        lang = 'Subtitulado';    }else{        lang = 'Castellano';    }    url = array[index]['url'];  window.HTMLOUT.sendElement(url, lang);}window.HTMLOUT.finalizar();</script></head><body></body></html>"
+      }    ]
+  }
+}
