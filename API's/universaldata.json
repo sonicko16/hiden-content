@@ -1,10 +1,10 @@
 {
   "hosts": {
-    "hd.net": "cuevanahd.net",
-    "biz.com": "cuevana.biz"
+    "hd.xyz": "cuevanahd.net",
+    "biz.xyz": "cuevana.biz"
   },
   "scripts": {
-    "hd.net": [
+    "hd.xyz": [
       {
         "pre": "<html><head><script>h = '[]';form = '{\\\"operationName\\\":\\\"movie_slug\\\",\\\"variables\\\":{\\\"slug\\\":\\\"';form += location.href.match('pelicula/(.*)/')[1];form += '\\\"},\\\"query\\\": \\\"fragment MovieFields on Show {\\\\n  id\\\\n  title\\\\n  type\\\\n  originalTitle\\\\n  overview\\\\n  coverPath\\\\n  year\\\\n  slug\\\\n  year\\\\n  viewCount\\\\n  duration\\\\n  popularity\\\\n  voteCount\\\\n  voteAverage\\\\n  slugAliases\\\\n  premiere\\\\n  active\\\\n  trailer\\\\n  cast {\\\\n    name\\\\n    __typename\\\\n  }\\\\n  genres {\\\\n    id\\\\n    slug\\\\n    name\\\\n    __typename\\\\n  }\\\\n  country {\\\\n    name\\\\n    __typename\\\\n  }\\\\n  gallery {\\\\n    type\\\\n    photoPath\\\\n    backdrop\\\\n    __typename\\\\n  }\\\\n  quality {\\\\n    type\\\\n    language\\\\n    __typename\\\\n  }\\\\n  __typename\\\\n}\\\\n\\\\nquery movie_slug($slug: String) {\\\\n  show(slug: $slug, type: \\\\\"movie\\\\\") {\\\\n    ...MovieFields\\\\n    __typename\\\\n  }\\\\n}\\\\n\\\"}';window.HTMLOUT.usepost('https://api.esplay.one/graphql', form, h, true, true, '');</script></head><body></body></html>",
         "post": ""
@@ -17,9 +17,9 @@
         "pre": "<html><head><script>encode = '",
         "post": "';encode = atob(encode);object = JSON.parse(encode);array = object['data']['videos'];for (let index = 0; index < array.length; index++) {    lang = array[index]['language'];    if (lang == 'lat') {        lang = 'Latino';    }else if (lang == 'sub') {        lang = 'Subtitulado';    }else{        lang = 'Castellano';    }    url = array[index]['url'];  window.HTMLOUT.sendElement(url, lang);}window.HTMLOUT.finalizar();</script></head><body></body></html>"
       }    ],
-    "biz.com": [
+    "biz.xyz": [
       {
-        "pre": "<html><head><script>h = '[]';window.HTMLOUT.useget(location.href,h,true,'');</script></head><body></body></html>",
+        "pre": "<html><head><script>h = '[]';\ntry {\n\tlink = location.href;console.log(link);\n\tif (link.includes('/serie/')) {\n\t\tinfo = link.split('.-.._.')[1];\n\t\ttemporada = info.split('-')[0];\n\t\tepisodio = info.split('-')[1];\n\t\tlink = link.split('||')[0];\n\t\tlink = link + '/temporada/' + temporada + '/episodio/' + episodio;\n\t}\n\twindow.HTMLOUT.useget(link, h, true, '');\n} catch (e) {console.log(e);\n\twindow.HTMLOUT.finalizar();\n}</script></head><body></body></html>",
         "post": ""
       },
       {
@@ -28,7 +28,7 @@
       },
       {
         "pre": "<html><head><script>try{\n\tencode = '",
-        "post": "';\n\turl = encode.match('url = \\'(.+?)\\'')[1];\n\tt = window.HTMLOUT.getText();\n\tif(t.length>0){\n\t\ttext = JSON.parse(t);\n\t\tobject = text['actual'];\n\t\twindow.HTMLOUT.sendElement(url,object['lang']);\n\t\tenlaces = text['list'];\n\t\tif(enlaces.length>0){\n\t\t\tobject = enlaces.shift();\n\t\t\ttext['list'] = enlaces;\n\t\t\ttext['actual'] = object;\n\t\t\twindow.HTMLOUT.savetext(JSON.stringify(text));\n\t\t\twindow.HTMLOUT.useget(object['link'],'[]',false,object['link']);\n\t\t}else{\n\t\t\twindow.HTMLOUT.finalizar();\n\t\t}\n\t}else{\n\t\twindow.HTMLOUT.finalizar();\n\t}\n}catch(e){\n\twindow.HTMLOUT.finalizar();\n}</script></head><body></body></html>"
+        "post": "';\n\tencode = atob(encode);\n\turl = encode.match('url = \\'(.+?)\\'')[1];\n\tt = window.HTMLOUT.getText();\n\tif(t.length>0){\n\t\ttext = JSON.parse(t);\n\t\tobject = text['actual'];\n\t\twindow.HTMLOUT.sendElement(url,object['lang']);\n\t\tenlaces = text['list'];\n\t\tif(enlaces.length>0){\n\t\t\tobject = enlaces.shift();\n\t\t\ttext['list'] = enlaces;\n\t\t\ttext['actual'] = object;\n\t\t\twindow.HTMLOUT.saveText(JSON.stringify(text));\n\t\t\twindow.HTMLOUT.useget(object['link'],'[]',false,object['link']);\n\t\t}else{\n\t\t\twindow.HTMLOUT.finalizar();\n\t\t}\n\t}else{\n\t\twindow.HTMLOUT.finalizar();\n\t}\n}catch(e){\n\twindow.HTMLOUT.finalizar();\n}</script></head><body></body></html>"
       }    ]
   }
 }
