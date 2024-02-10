@@ -59,7 +59,7 @@
     "pelisgratis":{
       "regex":"data-link=\"(.+?)\"",
       "url":"https://player.pelisgratishd.io",
-      "replace":"/playerdir/",
+      "replace":"/external/v2/external.php?h=",
       "replace2":"/playdir/"
     }
   }
