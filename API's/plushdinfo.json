@@ -17,6 +17,6 @@
 	"form":"",
 	"form2":"h=",
 	"form3":"&cf-turnstile-response=",
-	"regex":"go_to_player\\('(.+?)', 2",
+	"regex":"go_to_playerVast\\('(.+?)', 2",
 	"regex2":"\\\"file\\\":\\\"(.+?)\\\""
 }

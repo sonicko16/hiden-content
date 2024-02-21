@@ -17,7 +17,7 @@
       "idioma2":"english"
     },
     "embed":{
-      "regex":"go_to_player\\('(.+?)'"
+      "regex":"go_to_playerVast\\('(.+?)'"
     },
     "hd":{
       "regex":"pelicula/(.+?)/",
