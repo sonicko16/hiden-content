@@ -35,7 +35,7 @@
 	"sbM3u8":true,
 	"loadInMain":false,
 	"alfrente":false,
-	"zeusRegex":"filemoon|embedmoon|fmoonembed",
+	"zeusRegex":"filemoon|embedmoon|moonembed|fmembed",
 	"aresRegex":"uknown4now",
 	"pegasusRegex":"uknown4now",
 	"poseidonRegex":"uknown4now",
