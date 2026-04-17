@@ -19,6 +19,8 @@
 	"phlink":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API's/plushdinfo.json",
 	"pflink":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API's/pelisfileinfo.json",
 	"oplink":"https://raw.githubusercontent.com/sonicko16/vip/master/oceaninfo.json",
+	"animeDb":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API's/anime.json",
+	"animeSeasons":"https://nimejk.com/api/app/anime/{season}/episodios",
 	"getterscripts":"https://raw.githubusercontent.com/sonicko16/vip/master/scripts.json",
 	"searchscripts":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API%27s/searchscripts.json",
 	"pelisfileHost":"pelisplay.info",
