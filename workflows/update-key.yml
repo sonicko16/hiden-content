@@ -16,8 +16,10 @@ jobs:
 
       - name: Update v value in JSON
         run: |
+          FILE="API's/versionFilm.json"
+          
           # Leer el valor actual de v
-          CURRENT_V=$(grep -o '"v=[0-9]*"' config.json | grep -o '[0-9]*')
+          CURRENT_V=$(grep -o 'v=[0-9]*' "$FILE" | grep -o '[0-9]*')
           
           # Si no existe o está vacío, empezar en 3
           if [ -z "$CURRENT_V" ]; then
@@ -28,14 +30,17 @@ jobs:
           NEW_V=$((CURRENT_V + 1))
           
           # Reemplazar en el archivo
-          sed -i "s/&v=[0-9]*/\&v=$NEW_V/" config.json
+          sed -i "s/&v=[0-9]*/\&v=$NEW_V/" "$FILE"
           
           echo "Actualizado v=$CURRENT_V → v=$NEW_V"
 
       - name: Commit and push
         run: |
+          FILE="API's/versionFilm.json"
+          NEW_V=$(grep -o 'v=[0-9]*' "$FILE" | grep -o '[0-9]*')
+          
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add config.json
-          git diff --cached --quiet || git commit -m "Update key v to $(($(grep -o 'v=[0-9]*' config.json | grep -o '[0-9]*')))"
+          git add "$FILE"
+          git diff --cached --quiet || git commit -m "Update key v=$NEW_V"
           git push
