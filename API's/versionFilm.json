@@ -22,7 +22,7 @@
 	"animeDb":"https://raw.githubusercontent.com/sonicko16/hiden-content/master/API's/anime.json",
 	"animeSeasons":"https://nimejk.com/api/app/anime/{season}/episodios",
 	"fq":"https://film-app.github.io/help",
-	"appcast":"com.dgpssolutions.zeusvideocaster",
+	"appcast":"",
 	"cpublished":"",
 	"cmessage":"https://raw.githubusercontent.com/sonicko16/vip/master/message.json",
 	"tgram":"https://telegram.me/FilmAppOficial",
