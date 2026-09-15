@@ -23,6 +23,7 @@
 	"animeSeasons":"https://nimejk.com/api/app/anime/{season}/episodios",
 	"fq":"https://film-app.github.io/help",
 	"appcast":"",
+	"castpkg":"com.dgpssolutions.zeusvideocaster",
 	"cpublished":"",
 	"cmessage":"https://raw.githubusercontent.com/sonicko16/vip/master/message.json",
 	"tgram":"https://telegram.me/FilmAppOficial",
