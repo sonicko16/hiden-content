@@ -1,0 +1,22 @@
+{
+    "messageid": "bienvenida_update_comunidad",
+    "show": 0,
+    "cancelable": true,
+    "permadismissible": false,
+    "unique": true,
+    "tempo": 0,
+    "dialogo_remoto": [
+        {
+            "tipo": "texto",
+            "formato": "markdown",
+            "valor": "### 🎉 ¡Actualización Exitosa!\n\nGracias por usar **Film Plus**. Hemos optimizado la aplicación para ofrecerte horas y horas del mejor entretenimiento. 🍿\n\n¿Quieres pedir una película, enterarte de los estrenos o simplemente charlar? ¡Te esperamos en nuestro grupo oficial!"
+        },
+        {
+            "tipo": "boton",
+            "texto": "Grupo de Soporte ",
+            "url": "https://t.me/FilmAppOficial",
+            "color_fondo": "#2CA5E0",
+            "color_texto": "#FFFFFF"
+        }
+    ]
+}
